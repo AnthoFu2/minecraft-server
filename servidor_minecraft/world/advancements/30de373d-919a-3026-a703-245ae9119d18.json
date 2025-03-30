@@ -802,6 +802,7 @@
       "minecraft:skeleton": "2025-03-30 12:56:07 +0000",
       "minecraft:spider": "2025-03-30 13:08:11 +0000",
       "minecraft:creeper": "2025-03-30 12:56:05 +0000",
+      "minecraft:witch": "2025-03-30 14:46:10 +0000",
       "minecraft:husk": "2025-03-30 14:25:28 +0000",
       "minecraft:zombie": "2025-03-30 13:06:16 +0000"
     },
@@ -1087,7 +1088,8 @@
     "criteria": {
       "apple": "2025-03-30 14:33:57 +0000",
       "bread": "2025-03-30 13:14:39 +0000",
-      "rotten_flesh": "2025-03-30 13:06:20 +0000"
+      "rotten_flesh": "2025-03-30 13:06:20 +0000",
+      "melon_slice": "2025-03-30 14:43:44 +0000"
     },
     "done": false
   },
@@ -1328,6 +1330,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-03-30 13:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-03-30 14:43:36 +0000"
     },
     "done": true
   },
@@ -1607,6 +1615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-03-30 14:43:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-03-30 13:30:41 +0000"
@@ -1628,6 +1642,12 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-03-30 13:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-03-30 14:48:25 +0000"
     },
     "done": true
   },
@@ -1712,6 +1732,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-03-30 13:37:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-03-30 14:43:36 +0000"
     },
     "done": true
   },
