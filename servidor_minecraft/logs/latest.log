@@ -1537,3 +1537,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 00:38:19.508] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:extras_7] from power ResourceKey[apoli:configured_power / thorigins:extras]
 [30Mar2025 00:38:42.050] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
 [30Mar2025 00:38:42.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[30Mar2025 00:40:51.321] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Mar2025 00:40:51.821] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Mar2025 00:40:51.821] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Mar2025 00:40:51.861] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Mar2025 00:40:51.862] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Mar2025 00:40:51.862] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Mar2025 00:40:51.862] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Mar2025 00:40:51.862] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Mar2025 00:40:51.862] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Mar2025 00:40:51.919] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Mar2025 00:40:52.506] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Mar2025 00:40:52.506] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Mar2025 00:41:18.135] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Mar2025 00:41:21.140] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2a5d525b[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.16.248.199:35367): Took too long to log in
+[30Mar2025 00:41:21.141] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a5d525b[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.16.248.199:35367) lost connection: Took too long to log in
+[30Mar2025 00:41:21.187] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30Mar2025 00:42:04.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Mar2025 00:42:04.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Mar2025 00:42:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Mar2025 00:42:05.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
