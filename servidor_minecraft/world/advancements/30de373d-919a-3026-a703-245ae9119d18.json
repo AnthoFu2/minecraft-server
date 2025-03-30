@@ -288,6 +288,7 @@
       "minecraft:river": "2025-03-30 13:02:21 +0000",
       "minecraft:lush_caves": "2025-03-30 12:58:16 +0000",
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
+      "minecraft:jungle": "2025-03-30 14:55:03 +0000",
       "minecraft:savanna": "2025-03-30 13:16:55 +0000",
       "minecraft:plains": "2025-03-30 13:12:37 +0000"
     },
@@ -1399,6 +1400,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-03-30 14:51:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-03-30 13:36:39 +0000"
@@ -1522,6 +1529,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2025-03-30 13:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-03-30 14:51:53 +0000"
     },
     "done": true
   },
