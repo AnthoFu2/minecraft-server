@@ -4358,3 +4358,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [30Mar2025 15:19:35.048] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
 [30Mar2025 15:19:35.070] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
 [30Mar2025 15:19:35.382] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3816a665[id=<null>,name=RED_WasT4ken,properties={},legacy=false] (/127.165.213.184:55407) lost connection: Disconnected
+[30Mar2025 15:33:16.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Mine? Mine? Mine?]
