@@ -527,3 +527,221 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30Mar2025 12:56:21.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> capaz y es hasta ciertos bloques
 [30Mar2025 12:56:36.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> tendria que cambiarlo desde el servidor
 [30Mar2025 12:58:07.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> yo estoy bien abajo
+[30Mar2025 12:58:25.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> mejor salimos
+[30Mar2025 12:58:28.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> pq no tengo vida
+[30Mar2025 13:00:15.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Seras mi mula de carga nyehehehe
+[30Mar2025 13:01:40.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu suffocated in a wall
+[30Mar2025 13:01:49.725] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_active_self] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_unlocker_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_cooldown] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temp_disable_sleepin] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ninetails] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ice] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_transformable] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_kitsune] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_show_soul] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.726] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.727] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.727] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temperature] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.727] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_souls] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.727] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_fire] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[30Mar2025 13:01:49.727] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.727] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.727] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_scale_modified] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.727] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_origin_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.728] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.728] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.728] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_optional_powers] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.728] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_end] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.728] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.728] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_fox_avatar_enabled] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.728] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.728] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_nether] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.728] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.729] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.729] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.729] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.729] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.729] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_first_time_chosen] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[30Mar2025 13:01:49.729] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_food_nerfs] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_pounce_add_reach] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_can_adapt_dimensions] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_mute_fallsound] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_shield_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_destroy_terrain] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_leash] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_op_ness] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_oxygen_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_walk_on_powdered_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_heavy_armor_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_passive_nightvision] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_enable_sleepin_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_grabby_paws] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_allow_second_pounce] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:49.730] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_modifier_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[30Mar2025 13:01:56.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Pues estaba subiendo
+[30Mar2025 13:02:00.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> y me cayo grava
+[30Mar2025 13:02:01.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[30Mar2025 13:04:29.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> ontas
+[30Mar2025 13:04:43.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> coords?
+[30Mar2025 13:04:56.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> estan a la derecha
+[30Mar2025 13:04:58.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> en el mapa
+[30Mar2025 13:04:59.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[30Mar2025 13:05:24.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> con la j te puedo ver
+[30Mar2025 13:05:32.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> no habia visto eso
+[30Mar2025 13:06:31.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[30Mar2025 13:07:27.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> No soy un perro
+[30Mar2025 13:08:53.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Admin donde?
+[30Mar2025 13:09:23.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Pero no se configurarlo desde el servidor
+[30Mar2025 13:09:28.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> xD
+[30Mar2025 13:10:19.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> dime tu nombre de usuario
+[30Mar2025 13:10:40.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[30Mar2025 13:10:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[30Mar2025 13:10:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[30Mar2025 13:10:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[30Mar2025 13:10:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[30Mar2025 13:10:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[30Mar2025 13:10:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[30Mar2025 13:10:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[30Mar2025 13:10:40.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[30Mar2025 13:10:40.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|artifacts.anglersHat.luckOfTheSeaLevelBonus|artifacts.anglersHat.lureLevelBonus|artifacts.antidoteVessel.enabled|artifacts.antidoteVessel.maxEffectDuration|artifacts.aquaDashers.enabled|artifacts.bunnyHoppers.doCancelFallDamage|artifacts.bunnyHoppers.jumpBoostLevel|artifacts.charmOfSinking.enabled|artifacts.chorusTotem.cooldown|artifacts.chorusTotem.doConsumeOnUse|artifacts.chorusTotem.healthRestored|artifacts.chorusTotem.teleportationChance|artifacts.cloudInABottle.enabled|artifacts.cloudInABottle.sprintJumpHorizontalVelocity|artifacts.cloudInABottle.sprintJumpVerticalVelocity|artifacts.cowboyHat.speedLevel|artifacts.crossNecklace.bonusInvincibilityTicks|artifacts.crossNecklace.cooldown|artifacts.crystalHeart.healthBonus|artifacts.diggingClaws.digSpeedBonus|artifacts.diggingClaws.toolTier|artifacts.eternalSteak.cooldown|artifacts.eternalSteak.enabled|artifacts.everlastingBeef.cooldown|artifacts.everlastingBeef.enabled|artifacts.feralClaws.attackSpeedBonus|artifacts.fireGauntlet.fireDuration|artifacts.flamePendant.cooldown|artifacts.flamePendant.doGrantFireResistance|artifacts.flamePendant.fireDuration|artifacts.flamePendant.strikeChance|artifacts.flippers.swimSpeedBonus|artifacts.goldenHook.experienceBonus|artifacts.heliumFlamingo.flightDuration|artifacts.heliumFlamingo.rechargeDuration|artifacts.kittySlippers.enabled|artifacts.luckyScarf.fortuneBonus|artifacts.nightVisionGoggles.enabled|artifacts.nightVisionGoggles.strength|artifacts.noveltyDrinkingHat.drinkingDurationMultiplier|artifacts.noveltyDrinkingHat.eatingDurationMultiplier|artifacts.obsidianSkull.fireResistanceCooldown|artifacts.obsidianSkull.fireResistanceDuration|artifacts.onionRing.hasteDurationPerFoodPoint|artifacts.onionRing.hasteLevel|artifacts.panicNecklace.cooldown|artifacts.panicNecklace.speedDuration|artifacts.panicNecklace.speedLevel|artifacts.pickaxeHeater.enabled|artifacts.plasticDrinkingHat.drinkingDurationMultiplier|artifacts.plasticDrinkingHat.eatingDurationMultiplier|artifacts.pocketPiston.knockbackStrength|artifacts.powerGlove.attackDamageBonus|artifacts.rootedBoots.doGrowPlantsAfterEating|artifacts.rootedBoots.enabled|artifacts.rootedBoots.hungerReplenishingDuration|artifacts.runningShoes.doIncreaseStepHeight|artifacts.runningShoes.speedBonus|artifacts.scarfOfInvisibility.enabled|artifacts.shockPendant.cooldown|artifacts.shockPendant.doCancelLightningDamage|artifacts.shockPendant.strikeChance|artifacts.snorkel.enabled|artifacts.snorkel.isInfinite|artifacts.snorkel.waterBreathingDuration|artifacts.snowshoes.allowWalkingOnPowderSnow|artifacts.snowshoes.slipperinessReduction|artifacts.steadfastSpikes.enabled|artifacts.steadfastSpikes.knockbackResistance|artifacts.superstitiousHat.lootingLevelBonus|artifacts.thornPendant.cooldown|artifacts.thornPendant.maxDamage|artifacts.thornPendant.minDamage|artifacts.thornPendant.strikeChance|artifacts.umbrella.isGlider|artifacts.umbrella.isShield|artifacts.universalAttractor.enabled|artifacts.vampiricGlove.absorptionChance|artifacts.vampiricGlove.absorptionRatio|artifacts.vampiricGlove.maxHealingPerHit|artifacts.villagerHat.reputationBonus|artifacts.whoopeeCushion.fartChance|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[30Mar2025 13:10:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[30Mar2025 13:10:40.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[30Mar2025 13:10:40.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[30Mar2025 13:10:40.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[30Mar2025 13:10:40.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[30Mar2025 13:10:40.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[30Mar2025 13:10:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[30Mar2025 13:10:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[30Mar2025 13:10:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[30Mar2025 13:10:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[30Mar2025 13:10:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[30Mar2025 13:10:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[30Mar2025 13:10:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[30Mar2025 13:10:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[30Mar2025 13:10:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[30Mar2025 13:10:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[30Mar2025 13:10:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[30Mar2025 13:10:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[30Mar2025 13:10:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[30Mar2025 13:10:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[30Mar2025 13:10:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[30Mar2025 13:10:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[30Mar2025 13:10:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[30Mar2025 13:10:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[30Mar2025 13:10:40.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[30Mar2025 13:10:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[30Mar2025 13:10:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[30Mar2025 13:10:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[30Mar2025 13:10:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[30Mar2025 13:10:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[30Mar2025 13:10:40.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[30Mar2025 13:10:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[30Mar2025 13:10:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[30Mar2025 13:10:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[30Mar2025 13:10:40.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[30Mar2025 13:10:40.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[30Mar2025 13:10:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[30Mar2025 13:10:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[30Mar2025 13:10:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[30Mar2025 13:10:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[30Mar2025 13:10:40.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[30Mar2025 13:10:40.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[30Mar2025 13:10:40.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[30Mar2025 13:10:40.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[30Mar2025 13:10:40.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[30Mar2025 13:10:40.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jade (show|hide)
+[30Mar2025 13:10:40.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /e4mc (stop|restart)
+[30Mar2025 13:10:40.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scale (<operation>|randomize|get|compute|reset|modifier|delay|easing|persist|nbt|debug)
+[30Mar2025 13:10:40.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[30Mar2025 13:10:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modernfix upgradeStructures
+[30Mar2025 13:10:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mfsrc
+[30Mar2025 13:10:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /origin (set|has|get|gui|random)
+[30Mar2025 13:10:40.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /power (grant|revoke|revokeall|list|has|sources|remove|clear|dump|condition)
+[30Mar2025 13:10:40.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /resource (has|get|set|change|operation)
+[30Mar2025 13:10:40.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bookshelf (font|hand)
+[30Mar2025 13:10:40.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /carryon (debug|clear|place)
+[30Mar2025 13:10:40.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
+[30Mar2025 13:10:40.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
+[30Mar2025 13:10:40.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[30Mar2025 13:10:40.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[30Mar2025 13:10:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
+[30Mar2025 13:10:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
+[30Mar2025 13:10:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deathhistory (<player>|<player_uuid>)
+[30Mar2025 13:10:45.771] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[30Mar2025 13:10:45.872] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[30Mar2025 13:10:45.908] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[30Mar2025 13:10:45.974] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[30Mar2025 13:10:46.014] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[30Mar2025 13:10:46.075] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[30Mar2025 13:10:46.105] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[30Mar2025 13:10:46.185] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[30Mar2025 13:10:46.186] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[30Mar2025 13:10:46.282] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[30Mar2025 13:10:46.322] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[30Mar2025 13:10:46.359] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[30Mar2025 13:10:47.089] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[30Mar2025 13:10:47.116] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[30Mar2025 13:10:47.117] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[30Mar2025 13:10:47.154] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[30Mar2025 13:10:47.154] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[30Mar2025 13:10:49.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RED_WasT4ken[/127.165.213.184:52869] logged in with entity id 22063 at (112.5, 89.0, 40.5)
+[30Mar2025 13:10:49.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken joined the game
+[30Mar2025 13:10:49.725] [Server thread/INFO] [Jade/]: Syncing config to RED_WasT4ken (72478887-aed8-3f29-9d95-504f40cbb071)
+[30Mar2025 13:10:49.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [Ice and Fire]
+[30Mar2025 13:11:14.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [We Need to Go Deeper]
+[30Mar2025 13:11:15.832] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/22476, l='ServerLevel[world]', x=31.00, y=31.00, z=-62.00] as it would cause deadlock
+[30Mar2025 13:11:20.998] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6725ms or 134 ticks behind
+[30Mar2025 13:11:52.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made AnthoFu a server operator
+[30Mar2025 13:12:10.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> RED_WasT4ken
+[30Mar2025 13:12:15.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made RED_WasT4ken a server operator
+[30Mar2025 13:12:25.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Yuha150
+[30Mar2025 13:12:27.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Gamerule keepInventory is now set to: true]
+[30Mar2025 13:12:37.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Yuha150 a server operator
+[30Mar2025 13:12:57.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [Those Were the Days]
+[30Mar2025 13:13:27.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> voy a quitar la transmision que me baja los fps XD
+[30Mar2025 13:13:44.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> es karasu
+[30Mar2025 13:14:09.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [War Pigs]
+[30Mar2025 13:14:12.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Piglin
+[30Mar2025 13:14:31.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set own game mode to Creative Mode]
+[30Mar2025 13:14:35.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> RED
+[30Mar2025 13:14:38.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> RED
+[30Mar2025 13:14:39.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> RED
+[30Mar2025 13:14:40.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> RED
+[30Mar2025 13:14:42.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> VAS PERMA
+[30Mar2025 13:14:45.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RED_WasT4ken> ANTHO
+[30Mar2025 13:14:48.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RED_WasT4ken> SOY OINK
+[30Mar2025 13:14:51.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[30Mar2025 13:15:31.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Suit Up]
+[30Mar2025 13:16:52.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> No droppea nada
+[30Mar2025 13:16:53.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> :c
+[30Mar2025 13:17:38.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> DILDOS?
+[30Mar2025 13:17:40.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> para el yuha
+[30Mar2025 13:17:48.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <RED_WasT4ken> SI\
+[30Mar2025 13:17:48.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[30Mar2025 13:18:11.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> shi
