@@ -802,6 +802,7 @@
       "minecraft:skeleton": "2025-03-30 12:56:07 +0000",
       "minecraft:spider": "2025-03-30 13:08:11 +0000",
       "minecraft:creeper": "2025-03-30 12:56:05 +0000",
+      "minecraft:husk": "2025-03-30 14:25:28 +0000",
       "minecraft:zombie": "2025-03-30 13:06:16 +0000"
     },
     "done": false
@@ -1455,6 +1456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-03-30 14:24:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-03-30 13:39:51 +0000"
@@ -1653,6 +1660,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-03-30 14:24:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-30 13:30:41 +0000"
@@ -1674,6 +1687,12 @@
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-03-30 13:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-30 14:26:47 +0000"
     },
     "done": true
   },
