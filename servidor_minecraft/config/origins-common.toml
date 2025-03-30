@@ -1,0 +1,229 @@
+
+[origins]
+
+	[origins."origins:arachnid"]
+		"origins:carnivore" = true
+		"origins:fragile" = true
+		"origins:arthropod" = true
+		"origins:master_of_webs" = true
+		enabled = true
+		"origins:climbing" = true
+
+	[origins."thorigins:fox"]
+		"thorigins:fox/thstorage" = true
+		"thorigins:fox/thsound" = true
+		"thorigins:fox/thhunt" = true
+		"thorigins:fox/thfoxify" = true
+		"thorigins:fox/thfluffy" = true
+		"thorigins:fox/thdash" = true
+		"thorigins:fox/loadin" = true
+		"thorigins:fox/thfoxiality" = true
+		enabled = true
+		"thorigins:fox/thshy" = true
+		"thorigins:fox/thhunger" = true
+		"thorigins:fox/thweak" = true
+		"thorigins:fox/thfood" = true
+		"thorigins:fox/thswift" = true
+		"thorigins:fox/thsmol" = true
+
+	[origins."origins:enderian"]
+		"origins:water_vulnerability" = true
+		"origins:throw_ender_pearl" = true
+		"origins:pumpkin_hate" = true
+		"origins:ender_particles" = true
+		"origins:damage_from_potions" = true
+		enabled = true
+		"origins:extra_reach" = true
+
+	[origins."thorigins:ice_fox"]
+		"thorigins:fox/thsound" = true
+		"thorigins:fox/thfoxify" = true
+		"thorigins:ice_fox/thfluffy6" = true
+		enabled = true
+		"thorigins:ice_fox/thicicyle" = true
+		"thorigins:ice_fox/thcold_body" = true
+		"thorigins:ice_fox/loadin_ice" = true
+		"thorigins:thfoxiality_interface" = true
+		"thorigins:fox/thshy" = true
+		"thorigins:fox/thhunger" = true
+		"thorigins:thweak2" = true
+		"thorigins:thswift2" = true
+		"thorigins:fox/thfood" = true
+		"thorigins:fox/thsmol" = true
+
+	[origins."thorigins:ninetails"]
+		"thorigins:ninetails/thhunt3" = true
+		"thorigins:ninetails/thdash3" = true
+		"thorigins:fox/thsound" = true
+		"thorigins:fox/thfoxify" = true
+		"thorigins:ninetails/thsoul_power" = true
+		enabled = true
+		"thorigins:thstorage2" = true
+		"thorigins:ninetails/thfoxiality3" = true
+		"thorigins:fox/thhunger" = true
+		"thorigins:thweak2" = true
+		"thorigins:thswift2" = true
+		"thorigins:ninetails/thfluffy5" = true
+		"thorigins:ninetails/thchoice" = true
+		"thorigins:thshy2" = true
+		"thorigins:ninetails/loadin_ninetails" = true
+		"thorigins:ninetails/thphasing" = true
+		"thorigins:fox/thfood" = true
+		"thorigins:fox/thsmol" = true
+
+	[origins."origins:feline"]
+		"origins:cat_vision" = true
+		"origins:velvet_paws" = true
+		"origins:fall_immunity" = true
+		"origins:weak_arms" = true
+		"origins:nine_lives" = true
+		enabled = true
+		"origins:sprint_jump" = true
+		"origins:scare_creepers" = true
+
+	[origins."thorigins:fire_fox"]
+		"thorigins:fire_fox/thcannon" = true
+		"thorigins:fox/thsound" = true
+		"thorigins:fox/thfoxify" = true
+		"thorigins:fire_fox/thfluffy2" = true
+		enabled = true
+		"thorigins:fire_fox/thtemperature" = true
+		"thorigins:fire_fox/loadin_fire" = true
+		"thorigins:fire_fox/ththrust" = true
+		"thorigins:thfoxiality_interface" = true
+		"thorigins:fire_fox/thfire_aspect" = true
+		"thorigins:fire_fox/thfire_ambient" = true
+		"thorigins:fox/thshy" = true
+		"thorigins:fox/thhunger" = true
+		"thorigins:thweak2" = true
+		"thorigins:thswift2" = true
+		"thorigins:fox/thfood" = true
+		"thorigins:fox/thsmol" = true
+
+	[origins."origins:human"]
+		enabled = true
+
+	[origins."origins:shulk"]
+		"origins:strong_arms" = true
+		"origins:no_shield" = true
+		"origins:more_exhaustion" = true
+		"origins:strong_arms_break_speed" = true
+		"origins:natural_armor" = true
+		enabled = true
+		"origins:shulker_inventory" = true
+
+	[origins."thorigins:default_fox"]
+		"thorigins:thkarma_interface" = true
+		"thorigins:loadin_default" = true
+		enabled = true
+		"thorigins:thtransform_interface" = true
+
+	[origins."thorigins:lightning_fox"]
+		"thorigins:lightning_fox/thlightning_traits" = true
+		"thorigins:lightning_fox/loadin_lightning" = true
+		"thorigins:fox/thsound" = true
+		"thorigins:fox/thfoxify" = true
+		"thorigins:lightning_fox/thlightning_ambient" = true
+		"thorigins:lightning_fox/thrailgun" = true
+		"thorigins:lightning_fox/thlightning_combat" = true
+		enabled = true
+		"thorigins:lightning_fox/thdischarge" = true
+		"thorigins:lightning_fox/thbecome_lightning" = true
+		"thorigins:thfoxiality_interface" = true
+		"thorigins:lightning_fox/thelectric_beam" = true
+		"thorigins:lightning_fox/thfluffy3" = true
+		"thorigins:fox/thshy" = true
+		"thorigins:fox/thhunger" = true
+		"thorigins:thweak2" = true
+		"thorigins:thswift2" = true
+		"thorigins:fox/thfood" = true
+		"thorigins:fox/thsmol" = true
+
+	[origins."thorigins:element_fox"]
+		"thorigins:thkarma_interface" = true
+		enabled = true
+		"thorigins:thtransform_interface" = true
+
+	[origins."foxsize:m"]
+		"foxsize:m" = true
+		enabled = true
+
+	[origins."origins:merling"]
+		"origins:air_from_potions" = true
+		"origins:swim_speed" = true
+		"origins:water_vision" = true
+		"origins:like_water" = true
+		"origins:aqua_affinity" = true
+		"origins:water_breathing" = true
+		"origins:conduit_power_on_land" = true
+		enabled = true
+		"origins:aquatic" = true
+
+	[origins."origins:phantom"]
+		"origins:phasing" = true
+		"origins:fragile" = true
+		"origins:phantomize" = true
+		"origins:translucent" = true
+		"origins:invisibility" = true
+		"origins:hunger_over_time" = true
+		enabled = true
+		"origins:burn_in_daylight" = true
+		"origins:phantomize_overlay" = true
+
+	[origins."thorigins:kitsune"]
+		"thorigins:kitsune/thfoxiality2" = true
+		"thorigins:fox/thsound" = true
+		"thorigins:fox/thfoxify" = true
+		"thorigins:kitsune/thfluffy4" = true
+		"thorigins:kitsune/thchoice" = true
+		enabled = true
+		"thorigins:thstorage2" = true
+		"thorigins:kitsune/thheal" = true
+		"thorigins:kitsune/thdash2" = true
+		"thorigins:kitsune/thhunt2" = true
+		"thorigins:kitsune/thphasing" = true
+		"thorigins:fox/thhunger" = true
+		"thorigins:kitsune/loadin_kitsune" = true
+		"thorigins:thweak2" = true
+		"thorigins:thswift2" = true
+		"thorigins:thshy2" = true
+		"thorigins:fox/thfood" = true
+		"thorigins:fox/thsmol" = true
+
+	[origins."foxsize:s"]
+		"foxsize:s" = true
+		enabled = true
+
+	[origins."origins:blazeborn"]
+		"origins:water_vulnerability" = true
+		"origins:flame_particles" = true
+		"origins:burning_wrath" = true
+		"origins:hotblooded" = true
+		"origins:fire_immunity" = true
+		"origins:damage_from_snowballs" = true
+		"origins:nether_spawn" = true
+		"origins:damage_from_potions" = true
+		enabled = true
+
+	[origins."origins:elytrian"]
+		"origins:more_kinetic_damage" = true
+		"origins:elytra" = true
+		"origins:claustrophobia" = true
+		"origins:aerial_combatant" = true
+		"origins:light_armor" = true
+		"origins:launch_into_air" = true
+		enabled = true
+
+	[origins."foxsize:xs"]
+		enabled = true
+		"foxsize:xs" = true
+
+	[origins."origins:avian"]
+		"origins:fresh_air" = true
+		"origins:vegetarian" = true
+		"origins:lay_eggs" = true
+		"origins:slow_falling" = true
+		"origins:tailwind" = true
+		"origins:like_air" = true
+		enabled = true
+
