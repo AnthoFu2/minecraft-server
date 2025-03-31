@@ -290,3 +290,99 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31Mar2025 01:02:14.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@439e3874[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:38833): Took too long to log in
 [31Mar2025 01:02:14.400] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@439e3874[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:38833) lost connection: Took too long to log in
 [31Mar2025 01:02:14.449] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 01:03:28.905] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Mar2025 01:03:29.325] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Mar2025 01:03:29.326] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Mar2025 01:03:29.326] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Mar2025 01:03:29.326] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Mar2025 01:03:29.327] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Mar2025 01:03:29.328] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Mar2025 01:03:29.418] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Mar2025 01:03:29.458] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Mar2025 01:03:29.458] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Mar2025 01:03:29.459] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Mar2025 01:03:29.486] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Mar2025 01:03:58.801] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@194882d0[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:52509): Took too long to log in
+[31Mar2025 01:03:58.801] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@194882d0[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:52509) lost connection: Took too long to log in
+[31Mar2025 01:03:58.851] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 01:05:54.050] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Mar2025 01:05:54.140] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Mar2025 01:05:54.238] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Mar2025 01:05:54.250] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Mar2025 01:05:54.331] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Mar2025 01:05:54.331] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Mar2025 01:05:54.432] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Mar2025 01:05:54.432] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Mar2025 01:05:54.522] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Mar2025 01:05:54.523] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Mar2025 01:05:54.624] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Mar2025 01:05:54.665] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Mar2025 01:06:23.947] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7d47007e[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:44303): Took too long to log in
+[31Mar2025 01:06:23.948] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d47007e[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:44303) lost connection: Took too long to log in
+[31Mar2025 01:06:24.000] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 01:07:56.221] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Mar2025 01:07:56.349] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Mar2025 01:07:56.350] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Mar2025 01:07:56.353] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Mar2025 01:07:56.494] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Mar2025 01:07:56.495] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Mar2025 01:07:56.620] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Mar2025 01:07:56.656] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Mar2025 01:07:56.656] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Mar2025 01:07:56.752] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Mar2025 01:07:56.753] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Mar2025 01:07:56.792] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Mar2025 01:07:58.509] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[31Mar2025 01:07:58.701] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[31Mar2025 01:07:58.702] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[31Mar2025 01:07:58.708] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[31Mar2025 01:07:58.749] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[31Mar2025 01:08:00.068] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.229.110.53:40245] logged in with entity id 4807 at (90.10654342762892, 66.8510791749418, -414.2243862392151)
+[31Mar2025 01:08:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[31Mar2025 01:08:00.183] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[31Mar2025 01:09:38.122] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Mar2025 01:09:38.130] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Mar2025 01:09:38.135] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Mar2025 01:09:38.139] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Mar2025 01:09:38.146] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Mar2025 01:09:38.223] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Mar2025 01:09:38.223] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Mar2025 01:09:38.263] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Mar2025 01:09:38.263] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Mar2025 01:09:38.264] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Mar2025 01:09:38.264] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Mar2025 01:09:38.289] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Mar2025 01:10:07.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1e70a161[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:38889): Took too long to log in
+[31Mar2025 01:10:07.600] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e70a161[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:38889) lost connection: Took too long to log in
+[31Mar2025 01:10:07.651] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 01:11:19.251] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Mar2025 01:11:19.347] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Mar2025 01:11:19.348] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Mar2025 01:11:19.460] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Mar2025 01:11:19.568] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Mar2025 01:11:19.568] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Mar2025 01:11:19.569] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Mar2025 01:11:19.945] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Mar2025 01:11:19.945] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Mar2025 01:11:19.985] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Mar2025 01:11:19.985] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Mar2025 01:11:19.986] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Mar2025 01:11:49.154] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4f24408a[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:41813): Took too long to log in
+[31Mar2025 01:11:49.155] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4f24408a[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:41813) lost connection: Took too long to log in
+[31Mar2025 01:11:49.201] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Mar2025 01:12:55.643] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[31Mar2025 01:12:55.742] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[31Mar2025 01:12:55.837] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[31Mar2025 01:12:55.837] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[31Mar2025 01:12:55.838] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[31Mar2025 01:12:56.312] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[31Mar2025 01:12:56.352] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[31Mar2025 01:12:56.353] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[31Mar2025 01:12:56.353] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[31Mar2025 01:12:56.354] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[31Mar2025 01:12:56.354] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[31Mar2025 01:12:56.354] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[31Mar2025 01:13:15.469] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[31Mar2025 01:13:25.502] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4fb71259[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:57629): Took too long to log in
+[31Mar2025 01:13:25.502] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4fb71259[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:57629) lost connection: Took too long to log in
+[31Mar2025 01:13:25.553] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
