@@ -2061,5 +2061,23 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-03-31 03:20:12 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-03-31 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-31 03:21:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
