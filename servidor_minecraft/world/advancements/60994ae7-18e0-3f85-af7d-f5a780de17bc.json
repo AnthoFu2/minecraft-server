@@ -287,6 +287,7 @@
       "minecraft:dark_forest": "2025-03-30 12:07:16 +0000",
       "minecraft:sparse_jungle": "2025-03-30 12:27:53 +0000",
       "minecraft:river": "2025-03-30 12:26:55 +0000",
+      "minecraft:dripstone_caves": "2025-03-31 04:23:37 +0000",
       "minecraft:forest": "2025-03-31 03:52:31 +0000",
       "minecraft:lush_caves": "2025-03-30 12:08:23 +0000",
       "minecraft:jungle": "2025-03-30 12:26:59 +0000",
@@ -918,6 +919,7 @@
     "criteria": {
       "cooked_mutton": "2025-03-30 14:03:11 +0000",
       "cooked_beef": "2025-03-30 12:17:23 +0000",
+      "pumpkin_pie": "2025-03-31 04:16:41 +0000",
       "bread": "2025-03-30 13:15:01 +0000",
       "rotten_flesh": "2025-03-30 12:14:17 +0000",
       "melon_slice": "2025-03-30 12:38:55 +0000",
@@ -2068,6 +2070,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-03-31 04:36:38 +0000",
       "in_better_skeleton_dungeon": "2025-03-31 03:20:12 +0000"
     },
     "done": false
@@ -2084,6 +2087,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 04:27:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_copper_helmet": {
     "criteria": {
       "has_item": "2025-03-31 03:55:56 +0000"
@@ -2093,6 +2102,24 @@
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2025-03-31 04:06:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 04:27:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-03-31 04:27:53 +0000"
     },
     "done": true
   },
@@ -2120,6 +2147,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-31 04:28:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-03-31 04:06:37 +0000"
@@ -2138,9 +2177,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-03-31 04:26:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-03-31 04:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-03-31 04:14:28 +0000"
     },
     "done": true
   },
@@ -2174,9 +2225,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-03-31 03:51:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
     },
     "done": true
   },
@@ -2204,9 +2267,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-03-31 04:06:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:52 +0000"
     },
     "done": true
   },
@@ -2228,6 +2303,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2025-03-31 04:02:01 +0000"
@@ -2246,9 +2327,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_conqueror": {
     "criteria": {
       "location0": "2025-03-31 04:03:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-03-31 04:28:49 +0000"
     },
     "done": true
   },
@@ -2258,9 +2351,33 @@
     },
     "done": true
   },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-03-31 04:36:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-03-31 04:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-31 04:28:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
     },
     "done": true
   },
@@ -2294,6 +2411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-03-31 04:14:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_ghost": {
     "criteria": {
       "killed_fire_dragon": "2025-03-31 03:55:23 +0000"
@@ -2303,6 +2426,18 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-03-31 04:06:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-03-31 04:28:52 +0000"
     },
     "done": true
   },
