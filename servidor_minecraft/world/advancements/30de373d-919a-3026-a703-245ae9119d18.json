@@ -2717,6 +2717,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2025-03-31 03:52:02 +0000"
@@ -2735,6 +2747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-03-31 03:55:03 +0000"
@@ -2750,6 +2768,12 @@
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-03-31 04:06:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
     },
     "done": true
   },
@@ -2843,6 +2867,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-03-31 04:03:33 +0000"
@@ -2879,6 +2915,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-03-31 04:04:31 +0000"
@@ -2888,6 +2936,12 @@
   "minecraft:recipes/building_blocks/dye_black_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-31 04:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
     },
     "done": true
   },
@@ -2936,6 +2990,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_black_dye": "2025-03-31 04:45:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
     },
     "done": true
   },
@@ -3026,6 +3086,12 @@
   "iceandfire:recipes/combat/armor_amythest_chestplate": {
     "criteria": {
       "has_item": "2025-03-31 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-31 05:07:27 +0000"
     },
     "done": true
   },
