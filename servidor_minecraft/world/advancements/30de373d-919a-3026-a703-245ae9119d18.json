@@ -1089,6 +1089,7 @@
     "criteria": {
       "apple": "2025-03-30 14:33:57 +0000",
       "bread": "2025-03-30 13:14:39 +0000",
+      "golden_apple": "2025-03-31 02:55:54 +0000",
       "rotten_flesh": "2025-03-30 13:06:20 +0000",
       "melon_slice": "2025-03-30 14:43:44 +0000"
     },
@@ -2633,6 +2634,12 @@
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
       "in_better_skeleton_dungeon": "2025-03-31 02:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-03-31 02:53:47 +0000"
     },
     "done": true
   },
