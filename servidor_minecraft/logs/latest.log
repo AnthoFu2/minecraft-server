@@ -1320,3 +1320,39 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 01:15:19.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was killed by magic whilst trying to escape Pillager
 [01Apr2025 01:16:13.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
 [01Apr2025 01:16:14.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [You Are A Pirate]
+[01Apr2025 01:17:30.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Poseidon, God of the Seas]
+[01Apr2025 01:20:05.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Who You Gonna Call?]
+[01Apr2025 01:24:16.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[01Apr2025 01:24:20.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was struck by lightning
+[01Apr2025 01:24:24.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[01Apr2025 01:24:49.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was burnt to a crisp whilst fighting Fire Dragon
+[01Apr2025 01:31:58.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was doomed to fall by Cyclops
+[01Apr2025 01:32:04.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [My Name is Nobody]
+[01Apr2025 01:34:57.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved too quickly! 12.66149878084002,-2.0784000015258783,23.416002995440408
+[01Apr2025 01:35:17.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Best Friends Forever]
+[01Apr2025 01:35:17.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Jungle Fliers]
+[01Apr2025 01:35:22.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.43947639143068873
+[01Apr2025 01:35:25.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 was kicked for floating a vehicle too long!
+[01Apr2025 01:35:25.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Flying is not enabled on this server
+[01Apr2025 01:35:25.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[01Apr2025 01:35:52.852] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1cb491cd[id=<null>,name=Yuha150,properties={},legacy=false] (/127.128.148.72:34565) lost connection: Disconnected
+[01Apr2025 01:35:54.738] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 01:35:54.870] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 01:35:54.904] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 01:35:55.001] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 01:35:55.002] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 01:35:55.002] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 01:35:55.132] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 01:35:55.132] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 01:35:55.261] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 01:35:55.302] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 01:35:55.302] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 01:35:55.332] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 01:35:56.876] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 01:35:57.093] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 01:35:57.093] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 01:35:57.101] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 01:35:57.206] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 01:35:58.612] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.128.148.72:36881] logged in with entity id 49301 at (-1853.5038290154462, 68.72196744718036, -293.28999565443297)
+[01Apr2025 01:35:58.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[01Apr2025 01:35:58.711] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
