@@ -281,12 +281,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-01 00:58:34 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 14:16:42 +0000",
       "minecraft:beach": "2025-03-30 14:19:07 +0000",
+      "minecraft:dark_forest": "2025-04-01 00:57:49 +0000",
       "minecraft:sparse_jungle": "2025-03-30 14:24:49 +0000",
       "minecraft:river": "2025-03-30 14:19:19 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-01 01:05:18 +0000",
       "minecraft:lush_caves": "2025-03-31 01:14:58 +0000",
       "minecraft:jungle": "2025-03-30 14:28:41 +0000",
+      "minecraft:ocean": "2025-04-01 00:58:04 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-01 01:05:31 +0000",
       "minecraft:plains": "2025-03-30 14:26:19 +0000"
     },
     "done": false
@@ -920,7 +925,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-30 14:58:24 +0000",
-      "melon_slice": "2025-03-30 14:37:43 +0000"
+      "melon_slice": "2025-03-30 14:37:43 +0000",
+      "golden_carrot": "2025-04-01 01:12:08 +0000",
+      "carrot": "2025-04-01 01:00:04 +0000"
     },
     "done": false
   },
@@ -1290,9 +1297,99 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-04-01 01:06:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-04-01 01:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-01 00:48:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-01 01:06:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-01 00:39:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-01 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-04-01 01:00:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-01 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-04-01 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-04-01 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-01 01:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-01 01:12:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-04-01 01:06:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-04-01 01:06:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-04-01 01:06:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-01 01:12:21 +0000"
     },
     "done": true
   },
