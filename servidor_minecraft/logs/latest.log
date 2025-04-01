@@ -358,3 +358,921 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [01Apr2025 00:26:21.539] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [01Apr2025 00:26:31.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
 [01Apr2025 00:26:31.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[01Apr2025 00:27:33.666] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:27:33.766] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:27:33.868] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:27:33.909] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:27:33.909] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:27:34.317] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:27:34.358] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:27:34.358] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:27:34.358] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:27:34.359] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:27:34.359] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:27:34.362] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:27:51.825] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:27:55.482] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:27:55.482] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:27:55.490] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:27:55.817] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:27:57.623] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ice] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.623] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_transformable] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.623] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_kitsune] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.623] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.623] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_show_soul] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.624] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.624] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.624] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temperature] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.624] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_souls] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.624] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_fire] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.624] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_active_self] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.625] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_unlocker_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.625] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_cooldown] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.625] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temp_disable_sleepin] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.625] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ninetails] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:27:57.625] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.626] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.626] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_optional_powers] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.626] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_end] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.626] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.626] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_fox_avatar_enabled] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.626] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.626] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_nether] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.627] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.627] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.627] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.627] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.627] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.627] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_first_time_chosen] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.627] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.627] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_scale_modified] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_origin_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:27:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_mute_fallsound] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_shield_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_destroy_terrain] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_leash] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_op_ness] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_oxygen_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_walk_on_powdered_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_heavy_armor_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_passive_nightvision] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_enable_sleepin_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_grabby_paws] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_allow_second_pounce] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_modifier_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_food_nerfs] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_pounce_add_reach] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_can_adapt_dimensions] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:27:57.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:35741] logged in with entity id 4380 at (100.30742836958173, 72.0, -515.4590962518516)
+[01Apr2025 00:27:57.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[01Apr2025 00:27:57.706] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[01Apr2025 00:28:21.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> a
+[01Apr2025 00:28:53.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> jelou beibe 7u7
+[01Apr2025 00:28:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.628] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.629] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.630] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.631] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.631] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.631] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.631] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.631] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:28:57.730] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
+[01Apr2025 00:28:57.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[01Apr2025 00:29:16.737] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:29:16.825] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:29:16.858] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:29:16.923] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:29:16.924] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:29:17.015] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:29:17.016] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:29:17.100] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:29:17.101] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:29:17.186] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:29:17.390] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:29:17.390] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:29:31.784] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:29:34.136] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:29:34.136] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:29:34.237] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:29:34.707] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:29:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ice] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_transformable] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_kitsune] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_show_soul] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temperature] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_souls] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_fire] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_active_self] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_unlocker_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_cooldown] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temp_disable_sleepin] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ninetails] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:29:40.674] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.674] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.674] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_optional_powers] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.674] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_end] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.674] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.674] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_fox_avatar_enabled] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.674] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.674] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_nether] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_first_time_chosen] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_scale_modified] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.675] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_origin_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:29:40.676] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_mute_fallsound] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.676] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_shield_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.676] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_destroy_terrain] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.676] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_leash] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.676] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_op_ness] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.676] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_oxygen_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.676] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_walk_on_powdered_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.676] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_heavy_armor_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.677] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_passive_nightvision] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.677] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_enable_sleepin_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.677] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_grabby_paws] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.677] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_allow_second_pounce] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.677] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_modifier_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.677] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_food_nerfs] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.677] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_pounce_add_reach] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.677] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_can_adapt_dimensions] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:29:40.680] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:59077] logged in with entity id 5378 at (100.30742836958173, 72.0, -515.4590962518516)
+[01Apr2025 00:29:40.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[01Apr2025 00:29:40.763] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[01Apr2025 00:30:40.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:30:40.771] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[01Apr2025 00:30:40.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[01Apr2025 00:30:40.828] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Apr2025 00:31:08.007] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:31:08.094] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:31:08.184] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:31:08.184] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:31:08.279] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:31:08.279] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:31:08.373] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:31:08.374] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:31:08.472] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:31:08.472] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:31:08.553] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:31:08.553] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:31:09.236] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:31:09.252] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:31:09.252] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:31:09.253] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:31:09.306] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:31:12.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ice] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_transformable] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_kitsune] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_show_soul] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.366] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temperature] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_souls] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_fire] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_active_self] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_unlocker_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_cooldown] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temp_disable_sleepin] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ninetails] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_optional_powers] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.367] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_end] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_fox_avatar_enabled] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_nether] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_first_time_chosen] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_scale_modified] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.368] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_origin_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:31:12.369] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_mute_fallsound] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.369] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_shield_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.369] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_destroy_terrain] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.369] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_leash] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.369] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_op_ness] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.369] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_oxygen_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.369] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_walk_on_powdered_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.369] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_heavy_armor_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.369] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_passive_nightvision] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.370] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_enable_sleepin_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.370] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_grabby_paws] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.370] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_allow_second_pounce] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.370] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_modifier_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.370] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_food_nerfs] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.370] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_pounce_add_reach] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.370] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_can_adapt_dimensions] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:31:12.373] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:46857] logged in with entity id 6093 at (100.30742836958173, 72.0, -515.4590962518516)
+[01Apr2025 00:31:12.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[01Apr2025 00:31:12.440] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[01Apr2025 00:31:45.106] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[01Apr2025 00:31:45.107] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[01Apr2025 00:31:45.107] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[01Apr2025 00:31:45.147] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[01Apr2025 00:31:45.148] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[01Apr2025 00:31:45.149] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[01Apr2025 00:31:47.818] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
+[01Apr2025 00:31:47.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[01Apr2025 00:31:57.180] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[01Apr2025 00:31:57.180] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[01Apr2025 00:32:31.908] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:32:32.002] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:32:32.090] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:32:32.104] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:32:32.184] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:32:32.184] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:32:32.283] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:32:32.309] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:32:32.386] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:32:32.386] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:32:32.486] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:32:32.486] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:32:42.674] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:32:51.043] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:32:51.043] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:32:51.261] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:32:51.851] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:32:56.667] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ice] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.667] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_transformable] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.667] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_kitsune] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.667] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.667] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_show_soul] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.667] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temperature] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_souls] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_fire] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_active_self] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_unlocker_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_cooldown] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temp_disable_sleepin] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ninetails] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.668] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_optional_powers] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.669] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_end] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.670] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.670] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_fox_avatar_enabled] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.670] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.670] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_nether] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.670] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.670] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.670] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.670] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.670] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_first_time_chosen] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_scale_modified] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_origin_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:32:56.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_mute_fallsound] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_shield_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.671] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_destroy_terrain] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_leash] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_op_ness] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_oxygen_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_walk_on_powdered_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_heavy_armor_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_passive_nightvision] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_enable_sleepin_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_grabby_paws] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_allow_second_pounce] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_modifier_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.672] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_food_nerfs] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_pounce_add_reach] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.673] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_can_adapt_dimensions] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:32:56.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:57779] logged in with entity id 7424 at (100.30742836958173, 72.0, -515.4590962518516)
+[01Apr2025 00:32:56.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[01Apr2025 00:32:56.733] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[01Apr2025 00:33:02.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|artifacts.anglersHat.luckOfTheSeaLevelBonus|artifacts.anglersHat.lureLevelBonus|artifacts.antidoteVessel.enabled|artifacts.antidoteVessel.maxEffectDuration|artifacts.aquaDashers.enabled|artifacts.bunnyHoppers.doCancelFallDamage|artifacts.bunnyHoppers.jumpBoostLevel|artifacts.charmOfSinking.enabled|artifacts.chorusTotem.cooldown|artifacts.chorusTotem.doConsumeOnUse|artifacts.chorusTotem.healthRestored|artifacts.chorusTotem.teleportationChance|artifacts.cloudInABottle.enabled|artifacts.cloudInABottle.sprintJumpHorizontalVelocity|artifacts.cloudInABottle.sprintJumpVerticalVelocity|artifacts.cowboyHat.speedLevel|artifacts.crossNecklace.bonusInvincibilityTicks|artifacts.crossNecklace.cooldown|artifacts.crystalHeart.healthBonus|artifacts.diggingClaws.digSpeedBonus|artifacts.diggingClaws.toolTier|artifacts.eternalSteak.cooldown|artifacts.eternalSteak.enabled|artifacts.everlastingBeef.cooldown|artifacts.everlastingBeef.enabled|artifacts.feralClaws.attackSpeedBonus|artifacts.fireGauntlet.fireDuration|artifacts.flamePendant.cooldown|artifacts.flamePendant.doGrantFireResistance|artifacts.flamePendant.fireDuration|artifacts.flamePendant.strikeChance|artifacts.flippers.swimSpeedBonus|artifacts.goldenHook.experienceBonus|artifacts.heliumFlamingo.flightDuration|artifacts.heliumFlamingo.rechargeDuration|artifacts.kittySlippers.enabled|artifacts.luckyScarf.fortuneBonus|artifacts.nightVisionGoggles.enabled|artifacts.nightVisionGoggles.strength|artifacts.noveltyDrinkingHat.drinkingDurationMultiplier|artifacts.noveltyDrinkingHat.eatingDurationMultiplier|artifacts.obsidianSkull.fireResistanceCooldown|artifacts.obsidianSkull.fireResistanceDuration|artifacts.onionRing.hasteDurationPerFoodPoint|artifacts.onionRing.hasteLevel|artifacts.panicNecklace.cooldown|artifacts.panicNecklace.speedDuration|artifacts.panicNecklace.speedLevel|artifacts.pickaxeHeater.enabled|artifacts.plasticDrinkingHat.drinkingDurationMultiplier|artifacts.plasticDrinkingHat.eatingDurationMultiplier|artifacts.pocketPiston.knockbackStrength|artifacts.powerGlove.attackDamageBonus|artifacts.rootedBoots.doGrowPlantsAfterEating|artifacts.rootedBoots.enabled|artifacts.rootedBoots.hungerReplenishingDuration|artifacts.runningShoes.doIncreaseStepHeight|artifacts.runningShoes.speedBonus|artifacts.scarfOfInvisibility.enabled|artifacts.shockPendant.cooldown|artifacts.shockPendant.doCancelLightningDamage|artifacts.shockPendant.strikeChance|artifacts.snorkel.enabled|artifacts.snorkel.isInfinite|artifacts.snorkel.waterBreathingDuration|artifacts.snowshoes.allowWalkingOnPowderSnow|artifacts.snowshoes.slipperinessReduction|artifacts.steadfastSpikes.enabled|artifacts.steadfastSpikes.knockbackResistance|artifacts.superstitiousHat.lootingLevelBonus|artifacts.thornPendant.cooldown|artifacts.thornPendant.maxDamage|artifacts.thornPendant.minDamage|artifacts.thornPendant.strikeChance|artifacts.umbrella.isGlider|artifacts.umbrella.isShield|artifacts.universalAttractor.enabled|artifacts.vampiricGlove.absorptionChance|artifacts.vampiricGlove.absorptionRatio|artifacts.vampiricGlove.maxHealingPerHit|artifacts.villagerHat.reputationBonus|artifacts.whoopeeCushion.fartChance|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[01Apr2025 00:33:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[01Apr2025 00:33:02.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[01Apr2025 00:33:02.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[01Apr2025 00:33:02.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[01Apr2025 00:33:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[01Apr2025 00:33:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[01Apr2025 00:33:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[01Apr2025 00:33:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[01Apr2025 00:33:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[01Apr2025 00:33:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[01Apr2025 00:33:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[01Apr2025 00:33:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[01Apr2025 00:33:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[01Apr2025 00:33:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jade (show|hide)
+[01Apr2025 00:33:02.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /e4mc (stop|restart)
+[01Apr2025 00:33:02.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scale (<operation>|randomize|get|compute|reset|modifier|delay|easing|persist|nbt|debug)
+[01Apr2025 00:33:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /curios (list|replace|set|add|remove|clear|drop|reset)
+[01Apr2025 00:33:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /modernfix upgradeStructures
+[01Apr2025 00:33:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mfsrc
+[01Apr2025 00:33:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /origin (set|has|get|gui|random)
+[01Apr2025 00:33:02.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /power (grant|revoke|revokeall|list|has|sources|remove|clear|dump|condition)
+[01Apr2025 00:33:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /resource (has|get|set|change|operation)
+[01Apr2025 00:33:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bookshelf (font|hand)
+[01Apr2025 00:33:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /carryon (debug|clear|place)
+[01Apr2025 00:33:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sbp (list|give|removeNonPlayer)
+[01Apr2025 00:33:02.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sophisticatedbackpacks -> sbp
+[01Apr2025 00:33:02.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[01Apr2025 00:33:02.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[01Apr2025 00:33:02.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
+[01Apr2025 00:33:02.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
+[01Apr2025 00:33:02.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deathhistory (<player>|<player_uuid>)
+[01Apr2025 00:33:30.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hola
+[01Apr2025 00:33:35.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> xd
+[01Apr2025 00:33:49.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Es curioso como no puedo jugar pero si enviar comandos desde el servidor xd
+[01Apr2025 00:33:56.684] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.684] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.684] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.685] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.685] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.685] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.685] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.685] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.685] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.685] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.685] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.686] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.686] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.686] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.686] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.686] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.686] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.687] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.688] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:33:56.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[01Apr2025 00:33:56.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[01Apr2025 00:34:06.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que mierda de internet
+[01Apr2025 00:34:18.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ven a mi casa y jugamos con el mio
+[01Apr2025 00:34:22.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> rawr
+[01Apr2025 00:34:28.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Sacame de venezuela
+[01Apr2025 00:34:33.612] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:34:33.722] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:34:33.723] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:34:33.829] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:34:33.829] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:34:33.935] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:34:33.952] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:34:34.043] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:34:34.043] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:34:34.144] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:34:34.145] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:34:34.202] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:35:03.500] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4a4512a6[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:35305): Took too long to log in
+[01Apr2025 00:35:03.501] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a4512a6[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:35305) lost connection: Took too long to log in
+[01Apr2025 00:35:03.553] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Apr2025 00:35:09.602] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:35:09.687] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:35:09.776] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:35:09.776] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:35:09.862] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:35:09.862] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:35:09.938] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:35:09.938] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:35:10.029] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:35:10.131] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:35:10.131] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:35:10.193] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:35:11.468] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:35:12.070] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:35:12.070] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:35:12.102] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:35:12.226] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:35:13.461] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ice] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_transformable] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_kitsune] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_show_soul] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temperature] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_souls] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_fire] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_active_self] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_unlocker_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.462] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_cooldown] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temp_disable_sleepin] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ninetails] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_optional_powers] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_end] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_fox_avatar_enabled] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.463] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_nether] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_first_time_chosen] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_scale_modified] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_origin_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_mute_fallsound] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.464] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_shield_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.465] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_destroy_terrain] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.465] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_leash] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.465] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_op_ness] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.465] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_oxygen_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.465] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_walk_on_powdered_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.466] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_heavy_armor_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.466] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_passive_nightvision] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.466] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_enable_sleepin_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.466] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_grabby_paws] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.466] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_allow_second_pounce] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.466] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_modifier_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.466] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_food_nerfs] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.466] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_pounce_add_reach] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.466] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_can_adapt_dimensions] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:35:13.468] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:60421] logged in with entity id 8851 at (100.30742836958173, 72.0, -515.4590962518516)
+[01Apr2025 00:35:13.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[01Apr2025 00:35:13.536] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[01Apr2025 00:35:19.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> a
+[01Apr2025 00:36:14.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
+[01Apr2025 00:36:14.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[01Apr2025 00:36:34.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Odio esto xd
+[01Apr2025 00:36:37.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 was kicked for floating too long!
+[01Apr2025 00:36:37.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Flying is not enabled on this server
+[01Apr2025 00:36:37.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[01Apr2025 00:36:51.324] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:36:51.454] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:36:51.491] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:36:51.586] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:36:51.586] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:36:51.588] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:36:51.716] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:36:51.742] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:36:51.850] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:36:51.850] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:36:51.850] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:36:51.924] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:36:53.514] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:36:53.806] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:36:53.806] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:36:53.840] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:36:53.840] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:36:55.298] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.128.148.72:60043] logged in with entity id 9594 at (-819.503113812559, 112.16017123466065, -886.9837680272865)
+[01Apr2025 00:36:55.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[01Apr2025 00:36:55.371] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[01Apr2025 00:37:27.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [The Only Good Bug...]
+[01Apr2025 00:37:32.106] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:37:32.198] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:37:32.199] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:37:32.288] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:37:32.377] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:37:32.377] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:37:32.463] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:37:32.463] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:37:32.556] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:37:32.556] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:37:32.636] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:37:32.689] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:37:33.378] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:37:33.397] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:37:33.402] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:37:33.403] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:37:33.403] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:37:35.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OinkOtaku[/127.165.213.184:39281] logged in with entity id 9945 at (97.82775368755797, 71.87218101691876, -509.2799990211678)
+[01Apr2025 00:37:36.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku joined the game
+[01Apr2025 00:37:36.037] [Server thread/INFO] [Jade/]: Syncing config to OinkOtaku (21203e84-2cd0-3cbd-94d5-bd14551e72fa)
+[01Apr2025 00:38:01.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Hola oink
+[01Apr2025 00:38:06.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> hola tonoto
+[01Apr2025 00:38:10.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> unete
+[01Apr2025 00:38:19.931] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:38:21.083] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:38:21.083] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:38:21.083] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:38:21.083] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:38:21.083] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:38:21.083] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:38:21.201] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:38:21.203] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:38:21.203] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:38:21.203] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:38:21.203] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:38:49.558] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:38:49.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Eso llevo intentando hace media hora
+[01Apr2025 00:38:49.814] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1dc62e11[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:46713): Took too long to log in
+[01Apr2025 00:38:49.814] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1dc62e11[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:46713) lost connection: Took too long to log in
+[01Apr2025 00:38:49.861] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Apr2025 00:38:53.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> o_o
+[01Apr2025 00:38:55.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> xd
+[01Apr2025 00:39:00.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] pero mi internet anda bien mierdoso
+[01Apr2025 00:39:04.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> uhh
+[01Apr2025 00:39:11.269] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:39:11.352] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:39:11.352] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:39:11.452] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:39:12.079] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:39:12.080] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:39:12.080] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:39:12.080] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:39:12.080] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:39:12.120] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:39:12.120] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:39:12.120] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:39:25.820] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:39:41.166] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@63cbb256[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:59239): Took too long to log in
+[01Apr2025 00:39:41.167] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63cbb256[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:59239) lost connection: Took too long to log in
+[01Apr2025 00:39:41.218] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Apr2025 00:39:50.744] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:39:50.831] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:39:50.839] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:39:50.935] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:39:51.026] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:39:51.027] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:39:51.111] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:39:51.112] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:39:51.216] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:39:51.216] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:39:51.321] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:39:51.361] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:39:55.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[01Apr2025 00:39:55.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[01Apr2025 00:39:56.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[01Apr2025 00:39:56.526] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[01Apr2025 00:40:12.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[01Apr2025 00:40:13.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[01Apr2025 00:40:17.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[01Apr2025 00:40:18.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[01Apr2025 00:40:20.616] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1428dbd6[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:36965): Took too long to log in
+[01Apr2025 00:40:20.616] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1428dbd6[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:36965) lost connection: Took too long to log in
+[01Apr2025 00:40:20.664] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Apr2025 00:40:22.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Que haces yuha, me aparecieron 6 avisos de que te andas moviendo mal
+[01Apr2025 00:40:28.025] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:40:28.128] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:40:28.129] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:40:28.219] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:40:28.220] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:40:28.318] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:40:28.318] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:40:28.410] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:40:28.410] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:40:28.499] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:40:28.588] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:40:28.589] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:40:35.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> esta tonoteando
+[01Apr2025 00:40:36.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> como eso?
+[01Apr2025 00:40:43.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] CF
+[01Apr2025 00:40:51.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] XD
+[01Apr2025 00:40:56.955] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:40:57.918] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@136f6f8a[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:53009): Took too long to log in
+[01Apr2025 00:40:57.919] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@136f6f8a[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:53009) lost connection: Took too long to log in
+[01Apr2025 00:40:57.963] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Apr2025 00:41:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] decia esto [00:40:18] [Server thread/WARN] [minecraft/ServerGamePacketListenerImpl]: Yuha150 moved wrongly!
+[01Apr2025 00:41:15.363] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:41:15.472] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:41:15.565] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:41:15.565] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:41:15.565] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:41:15.673] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:41:15.781] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:41:15.781] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:41:15.781] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:41:15.888] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:41:15.929] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:41:15.965] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:41:35.651] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:41:42.710] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:41:42.710] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:41:42.928] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:41:43.911] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:41:45.283] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6721f38f[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:40687): Took too long to log in
+[01Apr2025 00:41:45.284] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6721f38f[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:40687) lost connection: Took too long to log in
+[01Apr2025 00:41:45.327] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Apr2025 00:41:55.567] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:41:55.568] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:41:55.568] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:41:55.568] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:41:55.568] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:41:55.660] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:41:55.660] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:41:55.660] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:41:55.660] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:41:55.756] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:41:55.756] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:41:55.804] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:41:57.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ni idea
+[01Apr2025 00:42:08.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ando peleando con calamares
+[01Apr2025 00:42:15.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Peleame esta
+[01Apr2025 00:42:15.841] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:42:17.097] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:42:17.098] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:42:17.118] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:42:17.273] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:42:18.135] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ice] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_transformable] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_kitsune] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_show_soul] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temperature] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_souls] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.136] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_fire] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_active_self] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_unlocker_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_cooldown] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temp_disable_sleepin] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ninetails] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_optional_powers] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_end] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.137] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_fox_avatar_enabled] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_nether] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_first_time_chosen] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_scale_modified] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_origin_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_mute_fallsound] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_shield_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_destroy_terrain] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.138] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_leash] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.140] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_op_ness] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.140] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_oxygen_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.141] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_walk_on_powdered_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.141] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_heavy_armor_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.142] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_passive_nightvision] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.142] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_enable_sleepin_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.143] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_grabby_paws] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.143] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_allow_second_pounce] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.143] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_modifier_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.143] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_food_nerfs] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.143] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_pounce_add_reach] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.143] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_can_adapt_dimensions] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:42:18.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:47835] logged in with entity id 13389 at (112.49801351942938, 72.0, -514.8022680792466)
+[01Apr2025 00:42:18.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[01Apr2025 00:42:18.240] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[01Apr2025 00:42:29.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] alv si me uni al fin, veamos cuanto se tarda en sacarme
+[01Apr2025 00:42:58.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Ghost
+[01Apr2025 00:43:09.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] XDDDDDDDD
+[01Apr2025 00:43:13.470] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/10054, l='ServerLevel[world]', x=96.60, y=71.94, z=-420.11] died, message: 'Fletcher was slain by Zombie'
+[01Apr2025 00:43:18.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[01Apr2025 00:43:18.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[01Apr2025 00:43:27.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] laputamadre
+[01Apr2025 00:43:42.836] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:43:42.915] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:43:42.916] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:43:43.005] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:43:43.111] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:43:43.111] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:43:43.211] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:43:43.212] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:43:43.325] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:43:43.325] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:43:43.406] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:43:43.407] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:44:01.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ultimo intento, sino me pongo a ver series y al rato cuando mis hermanos se duerman me uno
+[01Apr2025 00:44:07.921] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35ff768[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:47787) lost connection: Disconnected
+[01Apr2025 00:44:13.183] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Apr2025 00:44:13.183] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Apr2025 00:44:13.184] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Apr2025 00:44:13.184] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Apr2025 00:44:13.184] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Apr2025 00:44:13.272] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Apr2025 00:44:13.272] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Apr2025 00:44:13.272] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Apr2025 00:44:13.272] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Apr2025 00:44:13.272] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Apr2025 00:44:13.272] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Apr2025 00:44:13.272] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Apr2025 00:44:20.574] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Apr2025 00:44:21.883] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Apr2025 00:44:21.884] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Apr2025 00:44:21.952] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Apr2025 00:44:22.165] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[01Apr2025 00:44:26.422] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ice] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.422] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_transformable] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.422] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_kitsune] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.422] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.422] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_show_soul] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.422] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.422] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temperature] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_souls] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_fire] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_active_self] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_unlocker_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_cooldown] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temp_disable_sleepin] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ninetails] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.423] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_optional_powers] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_end] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_fox_avatar_enabled] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_wither_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_time_in_nether] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_thunderstruck_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_edrag_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_first_time_chosen] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_warden_kills] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_death] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_scale_modified] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.424] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thtrackers_origin_tracker] from power ResourceKey[apoli:configured_power / thorigins:fox/thtrackers]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_mute_fallsound] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_shield_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_destroy_terrain] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_leash] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_op_ness] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_oxygen_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_optional_walk_on_powdered_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_heavy_armor_restriction] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_passive_nightvision] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_enable_sleepin_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_grabby_paws] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_allow_second_pounce] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_modifier_mode] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_food_nerfs] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_pounce_add_reach] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.425] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/universal_settings_can_adapt_dimensions] from power ResourceKey[apoli:configured_power / thorigins:fox/universal_settings]
+[01Apr2025 00:44:26.428] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:59839] logged in with entity id 14480 at (109.30000001192093, 72.0, -515.5652368956684)
+[01Apr2025 00:44:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[01Apr2025 00:44:26.513] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[01Apr2025 00:45:26.427] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.427] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.427] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.427] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.427] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.427] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.427] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.428] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[01Apr2025 00:45:26.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
+[01Apr2025 00:45:26.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[01Apr2025 00:45:55.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] :V
+[01Apr2025 00:46:00.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Regalenme un internet
