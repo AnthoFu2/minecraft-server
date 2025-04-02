@@ -746,3 +746,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Apr2025 13:51:34.211] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [02Apr2025 13:51:34.211] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [02Apr2025 13:51:35.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[02Apr2025 13:57:41.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu was slain by Warden
+[02Apr2025 13:57:47.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[02Apr2025 13:58:32.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu tried to swim in lava
+[02Apr2025 13:58:37.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was obliterated by a sonically-charged shriek
+[02Apr2025 13:58:41.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[02Apr2025 13:58:54.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu tried to swim in lava
+[02Apr2025 13:59:11.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[02Apr2025 13:59:28.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to AnthoFu]
+[02Apr2025 14:00:15.694] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1896, y=-52, z=741} BlockPos{x=-1896, y=-53, z=742}
