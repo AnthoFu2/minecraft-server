@@ -295,6 +295,7 @@
       "minecraft:lush_caves": "2025-03-30 12:58:16 +0000",
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
       "minecraft:jungle": "2025-03-30 14:55:03 +0000",
+      "minecraft:frozen_peaks": "2025-04-02 13:32:26 +0000",
       "minecraft:savanna": "2025-03-30 13:16:55 +0000",
       "minecraft:plains": "2025-03-30 13:12:37 +0000"
     },
@@ -4037,6 +4038,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_bricks_mossy": {
     "criteria": {
       "has_item": "2025-04-02 12:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-04-02 13:31:02 +0000"
     },
     "done": true
   },
