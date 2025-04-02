@@ -691,3 +691,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Apr2025 13:31:53.617] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [02Apr2025 13:31:53.617] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [02Apr2025 13:32:56.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[02Apr2025 13:35:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[02Apr2025 13:35:31.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported AnthoFu to Yuha150]
+[02Apr2025 13:36:58.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu has made the advancement [Sneak 100]
+[02Apr2025 13:37:32.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Sneak 100]
+[02Apr2025 13:39:12.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu was obliterated by a sonically-charged shriek
+[02Apr2025 13:39:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[02Apr2025 13:41:23.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu was obliterated by a sonically-charged shriek
+[02Apr2025 13:41:35.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
