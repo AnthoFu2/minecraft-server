@@ -288,6 +288,7 @@
       "minecraft:sparse_jungle": "2025-03-30 14:24:49 +0000",
       "minecraft:river": "2025-03-30 14:19:19 +0000",
       "minecraft:lukewarm_ocean": "2025-04-01 01:05:18 +0000",
+      "minecraft:forest": "2025-04-02 00:28:05 +0000",
       "minecraft:lush_caves": "2025-03-31 01:14:58 +0000",
       "minecraft:jungle": "2025-03-30 14:28:41 +0000",
       "minecraft:ocean": "2025-04-01 00:58:04 +0000",
@@ -356,6 +357,7 @@
       "minecraft:pillager": "2025-04-01 01:14:44 +0000",
       "minecraft:skeleton": "2025-03-30 14:46:29 +0000",
       "minecraft:vindicator": "2025-04-01 01:14:25 +0000",
+      "minecraft:spider": "2025-04-02 00:28:45 +0000",
       "minecraft:husk": "2025-04-01 01:24:19 +0000",
       "minecraft:zombie": "2025-03-30 14:46:40 +0000",
       "minecraft:drowned": "2025-03-30 14:20:29 +0000"
@@ -1725,6 +1727,144 @@
   "iceandfire:iceandfire/tame_amphithere": {
     "criteria": {
       "tame_rat": "2025-04-01 01:40:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_leggings": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-04-02 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_boots": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-02 00:28:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
+    "criteria": {
+      "has_dragonscales_black": "2025-04-02 00:29:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-04-02 00:25:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_black_helmet": {
+    "criteria": {
+      "has_item": "2025-04-02 00:29:27 +0000"
     },
     "done": true
   },
