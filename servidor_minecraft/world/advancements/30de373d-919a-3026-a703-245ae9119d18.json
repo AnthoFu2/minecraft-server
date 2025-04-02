@@ -281,6 +281,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-04-02 12:48:00 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 12:37:30 +0000",
       "minecraft:savanna_plateau": "2025-03-31 03:53:25 +0000",
       "minecraft:beach": "2025-03-30 12:42:17 +0000",
@@ -3809,6 +3810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-02 12:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-04-02 12:11:55 +0000"
@@ -3863,6 +3870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-04-02 12:48:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-02 12:40:49 +0000"
@@ -3890,6 +3903,12 @@
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-04-02 12:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-04-02 12:48:01 +0000"
     },
     "done": true
   },
