@@ -1958,6 +1958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-02 01:16:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_black_helmet": {
     "criteria": {
       "has_item": "2025-04-02 00:29:27 +0000"
