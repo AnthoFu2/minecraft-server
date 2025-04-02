@@ -1106,7 +1106,8 @@
       "golden_apple": "2025-03-31 02:55:54 +0000",
       "rotten_flesh": "2025-03-30 13:06:20 +0000",
       "melon_slice": "2025-03-30 14:43:44 +0000",
-      "golden_carrot": "2025-03-31 04:12:53 +0000"
+      "golden_carrot": "2025-03-31 04:12:53 +0000",
+      "enchanted_golden_apple": "2025-04-02 13:10:26 +0000"
     },
     "done": false
   },
@@ -3823,6 +3824,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-02 13:10:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-04-02 12:11:55 +0000"
@@ -3907,6 +3914,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-04-02 13:04:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2025-04-02 11:50:12 +0000"
@@ -3973,6 +3986,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-04-02 13:10:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-02 11:50:12 +0000"
@@ -4033,6 +4052,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-04-02 13:10:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
     "criteria": {
       "has_sea_serpent_scales_bronze": "2025-04-02 12:13:42 +0000"
@@ -4069,6 +4094,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-04-02 13:10:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-04-02 11:50:12 +0000"
@@ -4078,6 +4109,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2025-04-02 12:55:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-04-02 13:10:44 +0000"
     },
     "done": true
   },
