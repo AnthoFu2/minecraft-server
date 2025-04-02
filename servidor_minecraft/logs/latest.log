@@ -661,3 +661,93 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Apr2025 00:40:18.600] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
 [02Apr2025 00:40:21.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.5041867237900298
 [02Apr2025 00:40:22.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.5938265318707175
+[02Apr2025 00:40:35.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Un negro con mochila? Se lo robo a aluien
+[02Apr2025 00:40:47.901] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@75fb8a60[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:34515): Took too long to log in
+[02Apr2025 00:40:47.901] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75fb8a60[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:34515) lost connection: Took too long to log in
+[02Apr2025 00:40:47.945] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Apr2025 00:40:49.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Un negro con mochila? seguro se lo robo a alguien
+[02Apr2025 00:40:49.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.6872827126401565
+[02Apr2025 00:40:54.842] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Apr2025 00:40:54.935] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Apr2025 00:40:55.387] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Apr2025 00:40:55.428] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Apr2025 00:40:55.428] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Apr2025 00:40:55.428] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Apr2025 00:40:55.429] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Apr2025 00:40:55.429] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Apr2025 00:40:55.429] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Apr2025 00:40:55.490] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Apr2025 00:40:55.491] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Apr2025 00:40:55.491] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Apr2025 00:41:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Sweet Dreams]
+[02Apr2025 00:41:24.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7f16ad23[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:58527): Took too long to log in
+[02Apr2025 00:41:24.743] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7f16ad23[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:58527) lost connection: Took too long to log in
+[02Apr2025 00:41:24.795] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Apr2025 00:41:39.264] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Apr2025 00:41:39.352] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Apr2025 00:41:39.353] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Apr2025 00:41:39.458] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Apr2025 00:41:39.458] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Apr2025 00:41:39.546] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Apr2025 00:41:39.547] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Apr2025 00:41:39.651] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Apr2025 00:41:39.778] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Apr2025 00:41:39.778] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Apr2025 00:41:39.778] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Apr2025 00:41:39.844] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Apr2025 00:41:45.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Pendejo no aguanta nada
+[02Apr2025 00:41:53.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by OinkOtaku
+[02Apr2025 00:42:06.651] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[02Apr2025 00:42:08.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[02Apr2025 00:42:09.144] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2a337b8f[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:39815): Took too long to log in
+[02Apr2025 00:42:09.144] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a337b8f[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:39815) lost connection: Took too long to log in
+[02Apr2025 00:42:09.195] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Apr2025 00:42:33.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: 2
+[02Apr2025 00:42:33.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode 2 OinkOtaku<--[HERE]
+[02Apr2025 00:42:42.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: 2
+[02Apr2025 00:42:42.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamemode 2<--[HERE]
+[02Apr2025 00:42:47.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[02Apr2025 00:42:57.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set OinkOtaku's game mode to Adventure Mode
+[02Apr2025 00:43:18.914] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Apr2025 00:43:19.016] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Apr2025 00:43:19.046] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Apr2025 00:43:19.117] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Apr2025 00:43:19.130] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Apr2025 00:43:19.558] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Apr2025 00:43:19.598] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Apr2025 00:43:19.598] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Apr2025 00:43:19.599] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Apr2025 00:43:19.599] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Apr2025 00:43:19.599] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Apr2025 00:43:19.599] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Apr2025 00:43:32.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Yuha150's game mode to Spectator Mode
+[02Apr2025 00:43:40.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] XD
+[02Apr2025 00:43:44.708] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[02Apr2025 00:43:46.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set own game mode to Survival Mode]
+[02Apr2025 00:43:48.795] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@4b1689e0[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:59227): Took too long to log in
+[02Apr2025 00:43:48.795] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b1689e0[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:59227) lost connection: Took too long to log in
+[02Apr2025 00:43:48.843] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Apr2025 00:43:57.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set Yuha150's game mode to Survival Mode]
+[02Apr2025 00:44:05.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tramposo yuha
+[02Apr2025 00:44:13.551] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Apr2025 00:44:13.644] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Apr2025 00:44:13.644] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Apr2025 00:44:13.748] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Apr2025 00:44:14.407] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Apr2025 00:44:14.407] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Apr2025 00:44:14.407] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Apr2025 00:44:14.407] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Apr2025 00:44:14.407] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Apr2025 00:44:14.407] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Apr2025 00:44:14.408] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Apr2025 00:44:14.408] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Apr2025 00:44:21.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Admitiendo que es pasivo, miralo
+[02Apr2025 00:44:32.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Oink tu lo escuchaste, dejandosela poner
+[02Apr2025 00:44:43.447] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@714a2d3b[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:36921): Took too long to log in
+[02Apr2025 00:44:43.448] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@714a2d3b[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:36921) lost connection: Took too long to log in
+[02Apr2025 00:44:43.495] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[02Apr2025 00:44:52.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ya dejare de intetnar unirme
+[02Apr2025 00:44:57.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Intento mas tarde
+[02Apr2025 00:45:19.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Pene
+[02Apr2025 00:45:33.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Nop, mi dieta esta libre de penes
+[02Apr2025 00:46:55.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Awebo
