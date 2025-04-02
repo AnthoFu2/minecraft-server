@@ -934,6 +934,7 @@
       "pumpkin_pie": "2025-03-31 04:16:41 +0000",
       "bread": "2025-03-30 13:15:01 +0000",
       "rotten_flesh": "2025-03-30 12:14:17 +0000",
+      "glow_berries": "2025-04-02 13:44:54 +0000",
       "melon_slice": "2025-03-30 12:38:55 +0000",
       "golden_carrot": "2025-03-31 04:09:56 +0000",
       "cooked_chicken": "2025-03-30 14:13:34 +0000"
@@ -2663,6 +2664,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-02 13:50:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_fence": {
     "criteria": {
       "has_planks": "2025-04-02 12:36:30 +0000"
@@ -2990,6 +2997,12 @@
   "iceandfire:recipes/building_blocks/dread_stone_tile": {
     "criteria": {
       "has_item": "2025-04-02 12:50:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-02 13:50:23 +0000"
     },
     "done": true
   },
