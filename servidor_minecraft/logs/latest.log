@@ -238,3 +238,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [02Apr2025 11:44:14.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
 [02Apr2025 11:44:14.130] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
 [02Apr2025 11:48:00.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu has made the advancement [A Flaming Sword]
+[02Apr2025 11:53:55.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported AnthoFu to Yuha150]
+[02Apr2025 11:57:51.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu has made the advancement [Ant-Agonizer]
+[02Apr2025 11:58:56.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu was blown up by Creeper
