@@ -285,6 +285,7 @@
       "minecraft:savanna_plateau": "2025-03-31 03:53:27 +0000",
       "minecraft:beach": "2025-03-30 12:07:12 +0000",
       "minecraft:dark_forest": "2025-03-30 12:07:16 +0000",
+      "minecraft:stony_peaks": "2025-04-02 12:34:54 +0000",
       "minecraft:mangrove_swamp": "2025-04-01 12:55:44 +0000",
       "minecraft:sparse_jungle": "2025-03-30 12:27:53 +0000",
       "minecraft:river": "2025-03-30 12:26:55 +0000",
@@ -2580,6 +2581,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-04-02 12:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-04-02 12:11:26 +0000"
@@ -2589,6 +2596,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-04-02 12:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-04-02 12:36:30 +0000"
     },
     "done": true
   },
@@ -2625,6 +2638,18 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-04-02 12:27:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-04-02 12:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-04-02 12:36:30 +0000"
     },
     "done": true
   },
@@ -2688,6 +2713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-04-02 12:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_bookshelf": {
     "criteria": {
       "has_book": "2025-04-02 12:19:27 +0000"
@@ -2706,6 +2737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-02 12:36:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_bronze_leggings": {
     "criteria": {
       "has_item": "2025-04-02 12:13:24 +0000"
@@ -2715,6 +2752,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-04-02 12:19:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-04-02 12:36:30 +0000"
     },
     "done": true
   },
@@ -2769,6 +2812,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-04-02 11:56:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-02 12:36:30 +0000"
     },
     "done": true
   },
@@ -2832,6 +2881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-02 12:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-04-02 12:28:03 +0000"
@@ -2859,6 +2914,12 @@
   "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
       "has_sandstone": "2025-04-02 12:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-02 12:36:30 +0000"
     },
     "done": true
   },
