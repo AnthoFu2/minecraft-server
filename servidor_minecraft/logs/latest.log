@@ -426,3 +426,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 01:27:43.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
 [03Apr2025 01:28:07.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Piglin Brute
 [03Apr2025 01:31:08.616] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15225, l='ServerLevel[world]', x=286.00, y=31.00, z=384.90] as it would cause deadlock
+[03Apr2025 01:31:51.772] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15504, l='ServerLevel[world]', x=-116.00, y=31.00, z=436.00] as it would cause deadlock
+[03Apr2025 01:33:14.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Into Fire]
+[03Apr2025 01:35:26.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 withered away
+[03Apr2025 01:38:13.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 burned to death
