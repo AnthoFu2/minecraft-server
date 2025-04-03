@@ -448,3 +448,123 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 01:50:45.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ti :#
 [03Apr2025 01:50:48.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> :3
 [03Apr2025 01:51:03.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> tqm anthico :D
+[03Apr2025 01:53:19.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:53:29.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:53:52.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:54:02.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:54:39.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> nop ya me perdi xd
+[03Apr2025 01:54:41.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:54:56.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> nop ya me perdi xd
+[03Apr2025 01:55:00.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:55:10.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:55:20.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:55:33.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:55:33.649] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Apr2025 01:55:33.670] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Apr2025 01:55:33.696] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Apr2025 01:55:33.737] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Apr2025 01:55:33.737] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Apr2025 01:55:33.737] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Apr2025 01:55:33.744] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Apr2025 01:55:33.820] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Apr2025 01:55:33.848] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Apr2025 01:55:33.891] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Apr2025 01:55:33.987] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Apr2025 01:55:34.028] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Apr2025 01:55:39.083] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Apr2025 01:55:40.762] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Apr2025 01:55:40.762] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Apr2025 01:55:40.849] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Apr2025 01:55:41.394] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[03Apr2025 01:55:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:55:46.760] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:59685] logged in with entity id 27346 at (94.5, 76.0, -512.5)
+[03Apr2025 01:55:46.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[03Apr2025 01:55:46.821] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[03Apr2025 01:56:02.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ya nose donde estoy :,v
+[03Apr2025 01:56:06.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:56:16.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:56:27.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:56:28.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
+[03Apr2025 01:56:28.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[03Apr2025 01:57:03.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:57:10.584] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Apr2025 01:57:10.659] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Apr2025 01:57:10.734] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Apr2025 01:57:10.749] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Apr2025 01:57:10.814] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Apr2025 01:57:10.896] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Apr2025 01:57:10.904] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Apr2025 01:57:10.980] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Apr2025 01:57:11.071] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Apr2025 01:57:11.098] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Apr2025 01:57:11.176] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Apr2025 01:57:11.176] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Apr2025 01:57:20.495] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Apr2025 01:57:23.562] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Apr2025 01:57:23.564] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Apr2025 01:57:23.827] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Apr2025 01:57:24.954] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[03Apr2025 01:57:27.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:56845] logged in with entity id 28568 at (94.5, 76.0, -512.5)
+[03Apr2025 01:57:27.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[03Apr2025 01:57:27.577] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[03Apr2025 01:57:46.516] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.517] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.518] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.519] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.519] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.519] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.519] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.519] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:46.519] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[03Apr2025 01:57:54.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> internet culero
+[03Apr2025 01:58:10.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
+[03Apr2025 01:58:10.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[03Apr2025 01:58:22.442] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[03Apr2025 01:58:22.534] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[03Apr2025 01:58:22.621] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[03Apr2025 01:58:22.621] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[03Apr2025 01:58:22.718] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[03Apr2025 01:58:22.718] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[03Apr2025 01:58:22.808] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[03Apr2025 01:58:22.808] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[03Apr2025 01:58:22.900] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[03Apr2025 01:58:22.900] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[03Apr2025 01:58:22.979] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[03Apr2025 01:58:23.034] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[03Apr2025 01:58:26.005] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[03Apr2025 01:58:27.351] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[03Apr2025 01:58:27.351] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[03Apr2025 01:58:27.411] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[03Apr2025 01:58:27.580] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[03Apr2025 01:58:28.465] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:40189] logged in with entity id 29920 at (94.5, 76.0, -512.5)
+[03Apr2025 01:58:28.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[03Apr2025 01:58:28.523] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[03Apr2025 01:58:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:58:39.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> klaksdjasdj
+[03Apr2025 01:58:40.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> ksdtjdstjs
+[03Apr2025 01:58:44.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> internet de la verga
+[03Apr2025 01:58:47.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> xd
+[03Apr2025 01:58:59.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:59:20.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ah
+[03Apr2025 01:59:20.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
+[03Apr2025 01:59:20.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
