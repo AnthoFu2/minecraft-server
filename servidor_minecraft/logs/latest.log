@@ -430,3 +430,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 01:33:14.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Into Fire]
 [03Apr2025 01:35:26.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 withered away
 [03Apr2025 01:38:13.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 burned to death
+[03Apr2025 01:42:45.732] [Worker-Main-20/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/24192, l='ServerLevel[world]', x=-49.00, y=31.00, z=601.00] as it would cause deadlock
+[03Apr2025 01:43:44.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:43:56.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:44:17.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:44:32.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:45:06.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:45:14.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:49:14.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:49:31.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:49:40.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[03Apr2025 01:49:47.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tramposo
+[03Apr2025 01:49:53.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[03Apr2025 01:49:59.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ANDO BUSCANDO ALGO XD
+[03Apr2025 01:50:12.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> me perdi feo en esta dangeon xd
+[03Apr2025 01:50:37.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Tramposito
+[03Apr2025 01:50:45.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ti :#
+[03Apr2025 01:50:48.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> :3
+[03Apr2025 01:51:03.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> tqm anthico :D

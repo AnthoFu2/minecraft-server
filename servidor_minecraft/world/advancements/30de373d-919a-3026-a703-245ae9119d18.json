@@ -1106,6 +1106,7 @@
       "cooked_porkchop": "2025-04-03 01:15:59 +0000",
       "baked_potato": "2025-04-01 00:50:54 +0000",
       "apple": "2025-03-30 14:33:57 +0000",
+      "pumpkin_pie": "2025-04-03 01:42:37 +0000",
       "bread": "2025-03-30 13:14:39 +0000",
       "golden_apple": "2025-03-31 02:55:54 +0000",
       "rotten_flesh": "2025-03-30 13:06:20 +0000",
@@ -4260,6 +4261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-03 01:39:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-04-03 01:18:20 +0000"
@@ -4299,6 +4306,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-03 01:12:37 +0000",
+      "minecraft:soul_sand_valley": "2025-04-03 01:44:57 +0000",
       "minecraft:warped_forest": "2025-04-03 01:06:11 +0000"
     },
     "done": false
@@ -4330,6 +4338,12 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-04-03 01:33:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-03 01:39:18 +0000"
     },
     "done": true
   },
@@ -4423,6 +4437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-03 01:39:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-03 01:26:47 +0000"
@@ -4459,6 +4479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-03 01:39:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-04-03 01:19:21 +0000"
@@ -4480,6 +4506,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-03 01:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-03 01:39:18 +0000"
     },
     "done": true
   },
@@ -4642,6 +4674,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-04-03 01:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-04-03 01:39:18 +0000"
     },
     "done": true
   },
