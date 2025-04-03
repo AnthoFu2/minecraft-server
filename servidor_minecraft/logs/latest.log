@@ -568,3 +568,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 01:59:20.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ah
 [03Apr2025 01:59:20.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
 [03Apr2025 01:59:20.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[03Apr2025 02:12:04.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[03Apr2025 02:12:04.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
