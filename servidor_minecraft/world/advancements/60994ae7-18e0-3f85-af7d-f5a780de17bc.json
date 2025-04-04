@@ -299,6 +299,7 @@
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
       "minecraft:windswept_savanna": "2025-04-01 12:55:09 +0000",
       "minecraft:frozen_peaks": "2025-04-02 12:48:50 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-04 02:54:22 +0000",
       "minecraft:deep_dark": "2025-04-02 13:36:15 +0000",
       "minecraft:savanna": "2025-03-30 13:17:04 +0000",
       "minecraft:plains": "2025-03-30 12:28:21 +0000"
@@ -3063,6 +3064,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-04 02:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-04-04 02:48:33 +0000"
     },
     "done": true
   },
