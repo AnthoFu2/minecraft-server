@@ -4820,6 +4820,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-04-04 03:11:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_red_chestplate": {
     "criteria": {
       "has_item": "2025-04-04 01:48:51 +0000"
@@ -4868,6 +4874,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 03:15:44 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2025-04-04 00:42:13 +0000"
@@ -4886,9 +4898,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_the_recipe": "2025-04-04 03:11:37 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-04-04 01:20:59 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-04 03:14:15 +0000"
     },
     "done": true
   },
