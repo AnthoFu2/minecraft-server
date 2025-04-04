@@ -281,7 +281,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-04 01:43:56 +0000",
       "minecraft:deep_ocean": "2025-04-01 00:58:34 +0000",
+      "minecraft:cherry_grove": "2025-04-04 01:43:54 +0000",
+      "minecraft:birch_forest": "2025-04-04 01:54:43 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 14:16:42 +0000",
       "minecraft:savanna_plateau": "2025-04-04 01:02:50 +0000",
       "minecraft:beach": "2025-03-30 14:19:07 +0000",
@@ -291,12 +294,14 @@
       "minecraft:river": "2025-03-30 14:19:19 +0000",
       "minecraft:lukewarm_ocean": "2025-04-01 01:05:18 +0000",
       "minecraft:dripstone_caves": "2025-04-04 00:48:28 +0000",
+      "minecraft:grove": "2025-04-04 01:44:30 +0000",
       "minecraft:forest": "2025-04-02 00:28:05 +0000",
       "minecraft:lush_caves": "2025-03-31 01:14:58 +0000",
       "minecraft:jungle": "2025-03-30 14:28:41 +0000",
       "minecraft:ocean": "2025-04-01 00:58:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-01 01:05:31 +0000",
       "minecraft:deep_dark": "2025-04-04 00:50:47 +0000",
+      "minecraft:meadow": "2025-04-04 01:54:47 +0000",
       "minecraft:savanna": "2025-04-01 01:20:54 +0000",
       "minecraft:plains": "2025-03-30 14:26:19 +0000"
     },
@@ -2437,6 +2442,12 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-04 01:42:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-04 01:07:26 +0000"
@@ -2464,6 +2475,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
       "has_dragonscales_electric": "2025-04-04 01:16:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
     },
     "done": true
   },
@@ -2539,6 +2556,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-04-04 01:40:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
@@ -2554,6 +2577,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
     },
     "done": true
   },
@@ -2587,6 +2616,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-04-04 01:48:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2025-04-04 01:10:48 +0000"
@@ -2596,6 +2631,12 @@
   "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
       "has_item": "2025-04-04 01:06:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
     },
     "done": true
   },
@@ -2635,6 +2676,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_monster_room": "2025-04-04 00:57:25 +0000"
@@ -2662,6 +2709,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-04 00:47:52 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-04 01:25:30 +0000"
     },
     "done": true
   },
@@ -2710,6 +2763,12 @@
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-04-04 00:59:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-04-04 01:33:49 +0000"
     },
     "done": true
   },

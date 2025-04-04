@@ -298,6 +298,7 @@
       "minecraft:jungle": "2025-03-30 14:55:03 +0000",
       "minecraft:frozen_peaks": "2025-04-02 13:32:26 +0000",
       "minecraft:deep_dark": "2025-04-02 13:33:16 +0000",
+      "minecraft:meadow": "2025-04-04 01:52:41 +0000",
       "minecraft:savanna": "2025-03-30 13:16:55 +0000",
       "minecraft:plains": "2025-03-30 13:12:37 +0000"
     },
@@ -2650,6 +2651,7 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-04-01 00:50:25 +0000",
+      "in_better_monster_room": "2025-04-04 01:23:52 +0000",
       "in_better_skeleton_dungeon": "2025-03-31 02:52:23 +0000"
     },
     "done": false
@@ -4798,9 +4800,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-04 01:23:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-04-04 00:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
     },
     "done": true
   },
@@ -4810,9 +4830,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-04-04 01:48:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_merchant_campsite": {
     "criteria": {
       "location0": "2025-04-04 00:42:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
     },
     "done": true
   },
