@@ -2424,15 +2424,99 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_deepslate": {
+  "dungeons_arise:find_merchant_campsite": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
+      "location0": "2025-04-04 00:46:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coarse_dirt": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_gravel": "2025-04-04 01:07:17 +0000"
+      "has_slime_ball": "2025-04-04 00:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-04 00:47:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-04 00:47:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skreecher": {
+    "criteria": {
+      "killed": "2025-04-04 00:50:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-04 00:50:50 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-04 00:57:25 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-04 00:57:25 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-04-04 00:59:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-04-04 00:59:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-04-04 00:59:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-04 00:59:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-04-04 00:59:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-04 00:59:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-04-04 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
     },
     "done": true
   },
@@ -2442,45 +2526,9 @@
     },
     "done": true
   },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2025-04-04 01:42:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-04-04 01:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-04 01:06:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/lapis_block": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-04-04 01:06:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
-    "criteria": {
-      "has_dragonscales_electric": "2025-04-04 01:16:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-04 01:48:51 +0000"
     },
     "done": true
   },
@@ -2502,33 +2550,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
-    "criteria": {
-      "has_dragonscales_bronze": "2025-04-04 00:59:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_boots": {
-    "criteria": {
-      "has_item": "2025-04-04 00:59:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_bronze_leggings": {
-    "criteria": {
-      "has_item": "2025-04-04 00:59:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:small_dungeon": {
-    "criteria": {
-      "in_better_monster_room": "2025-04-04 00:57:25 +0000"
     },
     "done": true
   },
@@ -2538,27 +2562,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/ash": {
-    "criteria": {
-      "has_item": "2025-04-04 01:02:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_electric_leggings": {
-    "criteria": {
-      "has_item": "2025-04-04 01:16:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-04-04 01:40:08 +0000"
     },
     "done": true
   },
@@ -2568,39 +2574,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-04-04 00:47:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_red_helmet": {
-    "criteria": {
-      "has_item": "2025-04-04 01:48:51 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:simplyswords": {
-    "criteria": {
-      "requirement": "2025-04-04 01:04:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-04-04 01:10:48 +0000"
     },
     "done": true
   },
@@ -2613,36 +2595,6 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
-    "criteria": {
-      "has_dragonscales_red": "2025-04-04 01:48:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-04-04 01:10:48 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
-    "criteria": {
-      "has_item": "2025-04-04 01:06:51 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_boots": {
-    "criteria": {
-      "has_item": "2025-04-04 01:48:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-04-04 00:47:52 +0000"
     },
     "done": true
   },
@@ -2670,51 +2622,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_merchant_campsite": {
-    "criteria": {
-      "location0": "2025-04-04 00:46:49 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_red_leggings": {
-    "criteria": {
-      "has_item": "2025-04-04 01:48:51 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:all_dungeons": {
-    "criteria": {
-      "in_better_monster_room": "2025-04-04 00:57:25 +0000"
-    },
-    "done": false
-  },
-  "alexsmobs:alexsmobs/skreecher": {
-    "criteria": {
-      "killed": "2025-04-04 00:50:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-04-04 00:50:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-04-04 00:47:52 +0000"
-    },
-    "done": true
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2025-04-04 01:25:30 +0000"
     },
     "done": true
   },
@@ -2724,27 +2634,81 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_electric_chestplate": {
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-04 01:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-04 01:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-04 01:06:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-04-04 01:06:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-04 01:07:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-04 01:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-04 01:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-04 01:10:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-04 01:10:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
+    "criteria": {
+      "has_dragonscales_electric": "2025-04-04 01:16:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_electric_leggings": {
     "criteria": {
       "has_item": "2025-04-04 01:16:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+  "iceandfire:recipes/combat/armor_electric_chestplate": {
     "criteria": {
-      "has_item": "2025-04-04 00:59:27 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_egg": {
-    "criteria": {
-      "egg": "2025-04-04 00:59:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-04-04 01:02:05 +0000"
+      "has_item": "2025-04-04 01:16:28 +0000"
     },
     "done": true
   },
@@ -2760,9 +2724,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_bronze_helmet": {
+  "artifacts:amateur_archaeologist": {
     "criteria": {
-      "has_item": "2025-04-04 00:59:27 +0000"
+      "find_artifact": "2025-04-04 01:25:30 +0000"
     },
     "done": true
   },
@@ -2772,9 +2736,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
-      "has_raw_copper": "2025-04-04 01:10:48 +0000"
+      "has_diamond_backpack": "2025-04-04 01:40:08 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-04 01:42:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
+    "criteria": {
+      "has_dragonscales_red": "2025-04-04 01:48:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-04 01:48:51 +0000"
     },
     "done": true
   },

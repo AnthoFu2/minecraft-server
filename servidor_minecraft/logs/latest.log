@@ -366,3 +366,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 01:56:54.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
 [04Apr2025 01:56:55.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
 [04Apr2025 01:56:58.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[04Apr2025 02:00:22.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Lightning Dragon
+[04Apr2025 02:00:30.501] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku lost connection: Timed out
+[04Apr2025 02:00:30.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku left the game
+[04Apr2025 02:01:01.642] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@d0c9f5b[id=<null>,name=OinkOtaku,properties={},legacy=false] (/127.165.213.184:51295) lost connection: Disconnected
+[04Apr2025 02:01:04.997] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Apr2025 02:01:05.092] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Apr2025 02:01:05.092] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Apr2025 02:01:05.187] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Apr2025 02:01:05.281] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Apr2025 02:01:05.281] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Apr2025 02:01:05.377] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Apr2025 02:01:05.377] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Apr2025 02:01:05.473] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Apr2025 02:01:05.473] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Apr2025 02:01:05.568] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Apr2025 02:01:05.568] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Apr2025 02:01:06.232] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Apr2025 02:01:06.376] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Apr2025 02:01:06.376] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Apr2025 02:01:06.376] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Apr2025 02:01:06.393] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Apr2025 02:01:08.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OinkOtaku[/127.165.213.184:48727] logged in with entity id 34249 at (-2275.958740234375, 139.24000239372253, 673.2456665039062)
+[04Apr2025 02:01:08.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku joined the game
+[04Apr2025 02:01:08.994] [Server thread/INFO] [Jade/]: Syncing config to OinkOtaku (21203e84-2cd0-3cbd-94d5-bd14551e72fa)
+[04Apr2025 02:01:13.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[04Apr2025 02:05:56.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku lost connection: Disconnected
+[04Apr2025 02:05:56.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku left the game
