@@ -288,3 +288,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 01:05:05.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
 [04Apr2025 01:05:43.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Chest Slayer]
 [04Apr2025 01:06:58.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported Yuha150 to OinkOtaku]
+[04Apr2025 01:09:30.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was energized by Lightning Dragon
+[04Apr2025 01:09:38.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[04Apr2025 01:09:50.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was energized by Lightning Dragon
+[04Apr2025 01:09:55.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[04Apr2025 01:09:59.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[04Apr2025 01:10:08.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[04Apr2025 01:11:17.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku fell from a high place
+[04Apr2025 01:11:24.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was energized by Lightning Dragon
+[04Apr2025 01:11:27.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[04Apr2025 01:11:28.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[04Apr2025 01:11:55.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Applied effect Night Vision to OinkOtaku]
+[04Apr2025 01:12:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was energized by Lightning Dragon
+[04Apr2025 01:12:25.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[04Apr2025 01:13:50.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was energized by Lightning Dragon
+[04Apr2025 01:13:56.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[04Apr2025 01:14:14.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Al parecer van a reiniciar el internet, preparense por si se cae el server
+[04Apr2025 01:14:26.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] segun por mantenimiento
+[04Apr2025 01:14:42.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Lightning Dragon
+[04Apr2025 01:14:49.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was struck with lightning by Lightning Dragon
+[04Apr2025 01:14:54.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[04Apr2025 01:16:46.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Applied effect Night Vision to OinkOtaku]
