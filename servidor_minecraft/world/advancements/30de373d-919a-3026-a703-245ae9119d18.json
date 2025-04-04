@@ -287,6 +287,7 @@
       "minecraft:savanna_plateau": "2025-03-31 03:53:25 +0000",
       "minecraft:beach": "2025-03-30 12:42:17 +0000",
       "minecraft:dark_forest": "2025-03-30 12:42:35 +0000",
+      "minecraft:stony_peaks": "2025-04-04 00:49:35 +0000",
       "minecraft:sparse_jungle": "2025-03-30 13:26:59 +0000",
       "minecraft:river": "2025-03-30 13:02:21 +0000",
       "minecraft:lukewarm_ocean": "2025-04-01 01:04:48 +0000",
@@ -4788,6 +4789,24 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-04-03 02:11:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-04-04 00:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-04 00:49:47 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-04-04 00:42:13 +0000"
     },
     "done": true
   },
