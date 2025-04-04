@@ -816,6 +816,7 @@
       "minecraft:spider": "2025-03-30 13:08:11 +0000",
       "minecraft:piglin_brute": "2025-04-02 12:20:12 +0000",
       "minecraft:creeper": "2025-03-30 12:56:05 +0000",
+      "minecraft:wither": "2025-04-04 02:44:51 +0000",
       "minecraft:phantom": "2025-03-31 04:12:05 +0000",
       "minecraft:witch": "2025-03-30 14:46:10 +0000",
       "minecraft:wither_skeleton": "2025-03-31 04:04:07 +0000",
@@ -4795,9 +4796,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-04-04 02:42:20 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-04-04 01:05:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-04-04 02:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-04-04 02:42:20 +0000"
     },
     "done": true
   },
@@ -4816,6 +4835,12 @@
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-04-04 00:54:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-04-04 02:29:14 +0000"
     },
     "done": true
   },
