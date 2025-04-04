@@ -309,3 +309,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 01:14:49.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was struck with lightning by Lightning Dragon
 [04Apr2025 01:14:54.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
 [04Apr2025 01:16:46.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Applied effect Night Vision to OinkOtaku]
+[04Apr2025 01:20:59.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Mother of Dragons]
+[04Apr2025 01:23:52.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Quite the Renovation]
+[04Apr2025 01:25:30.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Amateur Archaeologist]

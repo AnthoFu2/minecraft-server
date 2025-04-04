@@ -4816,5 +4816,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-04 01:20:59 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
