@@ -232,3 +232,41 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [04Apr2025 12:28:33.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 69.16548955129744,0.0,11.172360773965124
 [04Apr2025 12:28:33.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 67.82326476464715,0.0,11.226493575102552
 [04Apr2025 12:28:33.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 66.42352230784118,0.0,11.262905867149414
+[04Apr2025 12:29:23.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.4158298032185225
+[04Apr2025 12:30:06.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.35696721199100606
+[04Apr2025 12:30:07.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.38693525547814367
+[04Apr2025 12:30:08.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.7701657801038317
+[04Apr2025 12:30:08.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.8082432211247343
+[04Apr2025 12:30:10.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.8301170508837473
+[04Apr2025 12:30:29.458] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 bison_fur because there is no smelting recipe
+[04Apr2025 12:30:47.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.4211872673802582
+[04Apr2025 12:31:29.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[04Apr2025 12:31:29.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[04Apr2025 12:31:29.446] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Apr2025 12:32:42.854] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Apr2025 12:32:42.986] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Apr2025 12:32:43.026] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Apr2025 12:32:43.026] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Apr2025 12:32:43.121] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Apr2025 12:32:43.128] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Apr2025 12:32:43.128] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Apr2025 12:32:43.259] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Apr2025 12:32:43.259] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Apr2025 12:32:43.391] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Apr2025 12:32:43.392] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Apr2025 12:32:43.392] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Apr2025 12:32:45.085] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Apr2025 12:32:45.274] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Apr2025 12:32:45.275] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Apr2025 12:32:45.279] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Apr2025 12:32:45.320] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Apr2025 12:32:46.698] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:48125] logged in with entity id 3509 at (100.0880977753188, 71.9375, -493.3350079756812)
+[04Apr2025 12:32:46.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[04Apr2025 12:32:46.783] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[04Apr2025 12:33:08.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.42136958726136037
+[04Apr2025 12:33:16.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Amphithere (vehicle of Yuha150) moved wrongly! 0.8095271629738917
+[04Apr2025 12:34:17.071] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 4 bison_fur because there is no smelting recipe
+[04Apr2025 12:37:04.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[04Apr2025 12:37:29.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[04Apr2025 12:39:34.475] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 4 bison_fur because there is no smelting recipe
+[04Apr2025 12:39:43.924] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 2 bison_fur because there is no smelting recipe
