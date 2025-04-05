@@ -283,7 +283,9 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-02 12:48:40 +0000",
       "minecraft:mushroom_fields": "2025-04-05 02:45:21 +0000",
+      "minecraft:taiga": "2025-04-05 03:00:47 +0000",
       "minecraft:cherry_grove": "2025-04-02 12:48:02 +0000",
+      "minecraft:sunflower_plains": "2025-04-05 02:55:05 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 00:32:39 +0000",
       "minecraft:savanna_plateau": "2025-03-31 03:53:27 +0000",
       "minecraft:beach": "2025-03-30 12:07:12 +0000",
@@ -294,6 +296,7 @@
       "minecraft:river": "2025-03-30 12:26:55 +0000",
       "minecraft:lukewarm_ocean": "2025-04-02 12:09:10 +0000",
       "minecraft:dripstone_caves": "2025-03-31 04:23:37 +0000",
+      "minecraft:cold_ocean": "2025-04-05 02:56:10 +0000",
       "minecraft:forest": "2025-03-31 03:52:31 +0000",
       "minecraft:lush_caves": "2025-03-30 12:08:23 +0000",
       "minecraft:jungle": "2025-03-30 12:26:59 +0000",
@@ -302,6 +305,7 @@
       "minecraft:frozen_peaks": "2025-04-02 12:48:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-04 02:54:22 +0000",
       "minecraft:deep_dark": "2025-04-02 13:36:15 +0000",
+      "minecraft:meadow": "2025-04-05 03:01:55 +0000",
       "minecraft:savanna": "2025-03-30 13:17:04 +0000",
       "minecraft:plains": "2025-03-30 12:28:21 +0000"
     },
@@ -3121,6 +3125,12 @@
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-04-05 01:41:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-04-05 02:56:46 +0000"
     },
     "done": true
   },

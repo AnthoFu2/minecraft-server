@@ -286,6 +286,7 @@
       "minecraft:taiga": "2025-04-05 02:48:20 +0000",
       "minecraft:deep_ocean": "2025-04-05 02:43:10 +0000",
       "minecraft:cherry_grove": "2025-04-02 12:48:00 +0000",
+      "minecraft:sunflower_plains": "2025-04-05 02:55:06 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 12:37:30 +0000",
       "minecraft:savanna_plateau": "2025-03-31 03:53:25 +0000",
       "minecraft:beach": "2025-03-30 12:42:17 +0000",
@@ -304,6 +305,7 @@
       "minecraft:jungle": "2025-03-30 14:55:03 +0000",
       "minecraft:windswept_savanna": "2025-04-05 02:38:58 +0000",
       "minecraft:frozen_peaks": "2025-04-02 13:32:26 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-05 03:04:46 +0000",
       "minecraft:deep_dark": "2025-04-02 13:33:16 +0000",
       "minecraft:meadow": "2025-04-04 01:52:41 +0000",
       "minecraft:savanna": "2025-03-30 13:16:55 +0000",
@@ -4983,6 +4985,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-04-05 02:57:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-05 02:39:28 +0000"
@@ -5067,6 +5075,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-04-05 03:03:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-04-05 01:48:22 +0000"
@@ -5094,6 +5108,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-05 02:50:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-05 03:04:25 +0000"
     },
     "done": true
   },

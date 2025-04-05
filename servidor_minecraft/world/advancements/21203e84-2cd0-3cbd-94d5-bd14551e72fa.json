@@ -283,6 +283,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-04 01:43:56 +0000",
       "minecraft:mushroom_fields": "2025-04-05 02:43:46 +0000",
+      "minecraft:taiga": "2025-04-05 03:01:21 +0000",
       "minecraft:deep_ocean": "2025-04-01 00:58:34 +0000",
       "minecraft:cherry_grove": "2025-04-04 01:43:54 +0000",
       "minecraft:birch_forest": "2025-04-04 01:54:43 +0000",
@@ -2841,6 +2842,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-04-05 03:03:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-05 03:02:29 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2025-04-05 00:24:21 +0000"
@@ -2919,6 +2932,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-05 03:03:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-04-05 00:43:07 +0000"
@@ -2976,6 +2995,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-05 01:46:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-05 03:03:18 +0000"
     },
     "done": true
   },
@@ -3117,6 +3142,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-04-05 03:03:18 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-05 00:41:15 +0000"
@@ -3168,6 +3199,12 @@
   "sophisticatedbackpacks:recipes/misc/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-05 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-05 03:03:18 +0000"
     },
     "done": true
   },
