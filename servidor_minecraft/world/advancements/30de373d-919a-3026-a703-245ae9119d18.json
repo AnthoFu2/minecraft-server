@@ -294,6 +294,7 @@
       "minecraft:dripstone_caves": "2025-03-31 04:23:30 +0000",
       "minecraft:forest": "2025-03-31 03:52:30 +0000",
       "minecraft:lush_caves": "2025-03-30 12:58:16 +0000",
+      "minecraft:desert": "2025-04-05 01:41:06 +0000",
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
       "minecraft:jungle": "2025-03-30 14:55:03 +0000",
       "minecraft:frozen_peaks": "2025-04-02 13:32:26 +0000",
@@ -4934,21 +4935,27 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
-    "criteria": {
-      "has_jukebox_upgrade": "2025-04-05 00:33:12 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonarmor_iron_tail": {
     "criteria": {
       "has_the_recipe": "2025-04-05 00:32:07 +0000"
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_jukebox_upgrade": "2025-04-05 00:33:12 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_lighthouse": {
     "criteria": {
       "location0": "2025-04-05 00:43:13 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-04-05 01:41:06 +0000"
     },
     "done": true
   },

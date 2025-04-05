@@ -295,9 +295,11 @@
       "minecraft:lukewarm_ocean": "2025-04-01 01:05:18 +0000",
       "minecraft:dripstone_caves": "2025-04-04 00:48:28 +0000",
       "minecraft:grove": "2025-04-04 01:44:30 +0000",
+      "minecraft:cold_ocean": "2025-04-05 01:27:56 +0000",
       "minecraft:forest": "2025-04-02 00:28:05 +0000",
       "minecraft:lush_caves": "2025-03-31 01:14:58 +0000",
       "minecraft:deep_cold_ocean": "2025-04-05 01:24:56 +0000",
+      "minecraft:desert": "2025-04-05 01:37:43 +0000",
       "minecraft:jungle": "2025-03-30 14:28:41 +0000",
       "minecraft:ocean": "2025-04-01 00:58:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-01 01:05:31 +0000",
@@ -3143,6 +3145,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-04-05 00:49:46 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-04-05 01:37:48 +0000"
     },
     "done": true
   },
