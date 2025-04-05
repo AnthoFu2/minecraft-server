@@ -1388,3 +1388,55 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Apr2025 14:37:07.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RED_WasT4ken[/127.165.213.184:43695] logged in with entity id 35075 at (-3422.4694154715826, 33.0, -529.6999999880791)
 [05Apr2025 14:37:07.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken joined the game
 [05Apr2025 14:37:07.160] [Server thread/INFO] [Jade/]: Syncing config to RED_WasT4ken (72478887-aed8-3f29-9d95-504f40cbb071)
+[05Apr2025 14:37:35.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[05Apr2025 14:38:28.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[05Apr2025 14:38:47.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was incinerated by Fire Dragon
+[05Apr2025 14:38:56.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[05Apr2025 14:39:51.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was incinerated by Fire Dragon
+[05Apr2025 14:40:04.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[05Apr2025 14:40:19.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Applied effect Night Vision to OinkOtaku]
+[05Apr2025 14:40:33.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set own game mode to Creative Mode]
+[05Apr2025 14:40:38.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RED_WasT4ken lost connection: Disconnected
+[05Apr2025 14:40:38.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken left the game
+[05Apr2025 14:40:38.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Kicked RED_WasT4ken: Kicked by an operator]
+[05Apr2025 14:40:38.627] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Apr2025 14:40:40.981] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Apr2025 14:40:41.060] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Apr2025 14:40:41.138] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Apr2025 14:40:41.139] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Apr2025 14:40:41.217] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Apr2025 14:40:41.300] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Apr2025 14:40:41.301] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Apr2025 14:40:41.382] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Apr2025 14:40:41.383] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Apr2025 14:40:41.457] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Apr2025 14:40:41.535] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Apr2025 14:40:41.535] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Apr2025 14:40:42.109] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Apr2025 14:40:42.125] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Apr2025 14:40:42.130] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Apr2025 14:40:42.130] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Apr2025 14:40:42.151] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[05Apr2025 14:40:44.802] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RED_WasT4ken[/127.165.213.184:34557] logged in with entity id 40787 at (-3427.3189236567932, -8.217384094877998, -532.2805615412162)
+[05Apr2025 14:40:44.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken joined the game
+[05Apr2025 14:40:44.860] [Server thread/INFO] [Jade/]: Syncing config to RED_WasT4ken (72478887-aed8-3f29-9d95-504f40cbb071)
+[05Apr2025 14:40:51.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Set RED_WasT4ken's game mode to Adventure Mode]
+[05Apr2025 14:40:56.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set own game mode to Survival Mode]
+[05Apr2025 14:40:59.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Set RED_WasT4ken's game mode to Adventure Mode]
+[05Apr2025 14:41:01.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set own game mode to Survival Mode]
+[05Apr2025 14:41:05.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Apr2025 14:43:18.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[05Apr2025 14:43:31.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[05Apr2025 14:43:51.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[05Apr2025 14:45:16.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to RED_WasT4ken]
+[05Apr2025 14:45:35.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set own game mode to Creative Mode]
+[05Apr2025 14:45:41.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Set RED_WasT4ken's game mode to Adventure Mode]
+[05Apr2025 14:45:58.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set own game mode to Survival Mode]
+[05Apr2025 14:46:30.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Fire Dragon
+[05Apr2025 14:46:31.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[05Apr2025 14:46:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[05Apr2025 14:46:45.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[05Apr2025 14:46:55.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[05Apr2025 14:47:03.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[05Apr2025 14:47:10.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4445ms or 88 ticks behind
+[05Apr2025 14:47:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
