@@ -282,10 +282,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-02 12:48:40 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-04-05 03:23:16 +0000",
       "minecraft:mushroom_fields": "2025-04-05 02:45:21 +0000",
       "minecraft:taiga": "2025-04-05 03:00:47 +0000",
       "minecraft:cherry_grove": "2025-04-02 12:48:02 +0000",
       "minecraft:sunflower_plains": "2025-04-05 02:55:05 +0000",
+      "minecraft:birch_forest": "2025-04-05 03:19:41 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 00:32:39 +0000",
       "minecraft:savanna_plateau": "2025-03-31 03:53:27 +0000",
       "minecraft:beach": "2025-03-30 12:07:12 +0000",
@@ -301,7 +303,9 @@
       "minecraft:lush_caves": "2025-03-30 12:08:23 +0000",
       "minecraft:jungle": "2025-03-30 12:26:59 +0000",
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-05 03:22:33 +0000",
       "minecraft:windswept_savanna": "2025-04-01 12:55:09 +0000",
+      "minecraft:flower_forest": "2025-04-05 03:19:06 +0000",
       "minecraft:frozen_peaks": "2025-04-02 12:48:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-04 02:54:22 +0000",
       "minecraft:deep_dark": "2025-04-02 13:36:15 +0000",
@@ -3131,6 +3135,54 @@
   "dungeons_arise:find_coliseum": {
     "criteria": {
       "location0": "2025-04-05 02:56:46 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-05 03:09:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-04-05 03:10:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-05 03:10:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-05 03:10:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-04-05 03:10:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-05 03:10:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-05 03:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-05 03:14:25 +0000"
     },
     "done": true
   },

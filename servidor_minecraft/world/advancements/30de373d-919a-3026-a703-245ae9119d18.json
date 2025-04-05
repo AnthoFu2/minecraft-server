@@ -282,11 +282,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-02 12:55:27 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-04-05 03:23:16 +0000",
       "minecraft:mushroom_fields": "2025-04-05 02:43:35 +0000",
       "minecraft:taiga": "2025-04-05 02:48:20 +0000",
       "minecraft:deep_ocean": "2025-04-05 02:43:10 +0000",
       "minecraft:cherry_grove": "2025-04-02 12:48:00 +0000",
       "minecraft:sunflower_plains": "2025-04-05 02:55:06 +0000",
+      "minecraft:birch_forest": "2025-04-05 03:19:40 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 12:37:30 +0000",
       "minecraft:savanna_plateau": "2025-03-31 03:53:25 +0000",
       "minecraft:beach": "2025-03-30 12:42:17 +0000",
@@ -303,7 +305,9 @@
       "minecraft:desert": "2025-04-05 01:41:06 +0000",
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
       "minecraft:jungle": "2025-03-30 14:55:03 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-05 03:22:33 +0000",
       "minecraft:windswept_savanna": "2025-04-05 02:38:58 +0000",
+      "minecraft:flower_forest": "2025-04-05 03:19:05 +0000",
       "minecraft:frozen_peaks": "2025-04-02 13:32:26 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-05 03:04:46 +0000",
       "minecraft:deep_dark": "2025-04-02 13:33:16 +0000",
@@ -822,10 +826,12 @@
       "minecraft:pillager": "2025-03-31 04:56:33 +0000",
       "minecraft:skeleton": "2025-03-30 12:56:07 +0000",
       "minecraft:hoglin": "2025-03-31 04:04:30 +0000",
+      "minecraft:vindicator": "2025-04-05 03:23:35 +0000",
       "minecraft:spider": "2025-03-30 13:08:11 +0000",
       "minecraft:piglin_brute": "2025-04-02 12:20:12 +0000",
       "minecraft:creeper": "2025-03-30 12:56:05 +0000",
       "minecraft:wither": "2025-04-04 02:44:51 +0000",
+      "minecraft:evoker": "2025-04-05 03:23:35 +0000",
       "minecraft:phantom": "2025-03-31 04:12:05 +0000",
       "minecraft:witch": "2025-03-30 14:46:10 +0000",
       "minecraft:wither_skeleton": "2025-03-31 04:04:07 +0000",
@@ -4991,6 +4997,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-04-05 03:10:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-05 03:12:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-04-05 02:39:28 +0000"
@@ -5033,6 +5051,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-05 03:10:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-04-05 02:11:53 +0000"
@@ -5054,6 +5078,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-05 01:46:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-05 03:10:07 +0000"
     },
     "done": true
   },
@@ -5087,6 +5117,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-04-05 03:25:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-05 01:46:51 +0000"
@@ -5105,6 +5141,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-04-05 03:10:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-04-05 02:50:40 +0000"
@@ -5120,6 +5162,12 @@
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-04-05 02:18:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-05 03:10:07 +0000"
     },
     "done": true
   },
@@ -5180,6 +5228,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-04-05 02:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-05 03:08:01 +0000"
     },
     "done": true
   },

@@ -282,9 +282,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-04 01:43:56 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-04-05 03:30:07 +0000",
       "minecraft:mushroom_fields": "2025-04-05 02:43:46 +0000",
       "minecraft:taiga": "2025-04-05 03:01:21 +0000",
       "minecraft:deep_ocean": "2025-04-01 00:58:34 +0000",
+      "minecraft:frozen_river": "2025-04-05 03:29:02 +0000",
       "minecraft:cherry_grove": "2025-04-04 01:43:54 +0000",
       "minecraft:birch_forest": "2025-04-04 01:54:43 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 14:16:42 +0000",
@@ -295,15 +297,21 @@
       "minecraft:sparse_jungle": "2025-03-30 14:24:49 +0000",
       "minecraft:river": "2025-03-30 14:19:19 +0000",
       "minecraft:lukewarm_ocean": "2025-04-01 01:05:18 +0000",
+      "minecraft:snowy_plains": "2025-04-05 03:29:23 +0000",
       "minecraft:dripstone_caves": "2025-04-04 00:48:28 +0000",
+      "minecraft:snowy_taiga": "2025-04-05 03:28:40 +0000",
       "minecraft:grove": "2025-04-04 01:44:30 +0000",
+      "minecraft:swamp": "2025-04-05 03:30:11 +0000",
       "minecraft:cold_ocean": "2025-04-05 01:27:56 +0000",
       "minecraft:forest": "2025-04-02 00:28:05 +0000",
       "minecraft:lush_caves": "2025-03-31 01:14:58 +0000",
       "minecraft:deep_cold_ocean": "2025-04-05 01:24:56 +0000",
+      "minecraft:frozen_ocean": "2025-04-05 03:29:27 +0000",
       "minecraft:desert": "2025-04-05 01:37:43 +0000",
       "minecraft:jungle": "2025-03-30 14:28:41 +0000",
       "minecraft:ocean": "2025-04-01 00:58:04 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-05 03:17:30 +0000",
+      "minecraft:snowy_beach": "2025-04-05 03:29:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-01 01:05:31 +0000",
       "minecraft:deep_dark": "2025-04-04 00:50:47 +0000",
       "minecraft:meadow": "2025-04-04 01:54:47 +0000",
@@ -2478,9 +2486,11 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-04-05 02:46:45 +0000",
-      "in_better_monster_room": "2025-04-04 00:57:25 +0000"
+      "in_better_monster_room": "2025-04-04 00:57:25 +0000",
+      "in_better_spider_dungeon": "2025-04-05 03:16:29 +0000",
+      "in_better_skeleton_dungeon": "2025-04-05 03:17:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
@@ -2842,6 +2852,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-04-05 03:16:56 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_white_leggings": {
     "criteria": {
       "has_item": "2025-04-05 03:03:18 +0000"
@@ -2956,6 +2972,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 03:22:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-05 00:41:15 +0000"
@@ -3052,6 +3074,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-05 03:22:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_3": {
     "criteria": {
       "has_the_recipe": "2025-04-05 02:24:02 +0000"
@@ -3073,6 +3101,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-04-05 00:43:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 03:22:27 +0000"
     },
     "done": true
   },
@@ -3124,6 +3158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 03:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2025-04-05 00:42:28 +0000"
@@ -3160,6 +3200,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-04-05 03:21:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-04-05 00:23:47 +0000"
@@ -3187,6 +3233,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-05 02:13:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_lighthouse": {
+    "criteria": {
+      "location0": "2025-04-05 03:29:08 +0000"
     },
     "done": true
   },
@@ -3238,6 +3290,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 03:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-04-05 02:13:19 +0000"
@@ -3256,6 +3314,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-05 03:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-04-05 00:23:47 +0000"
@@ -3265,6 +3329,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2025-04-05 01:46:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-05 03:22:35 +0000"
     },
     "done": true
   },
@@ -3322,6 +3392,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 03:22:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-05 02:13:25 +0000"
@@ -3331,6 +3407,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-04-05 02:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-04-05 03:08:51 +0000"
     },
     "done": true
   },
@@ -3370,6 +3452,12 @@
     },
     "done": true
   },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-04-05 03:17:17 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/restock_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-05 00:41:15 +0000"
@@ -3394,9 +3482,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-05 03:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-04-05 00:43:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-05 03:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-05 03:22:27 +0000"
     },
     "done": true
   },
@@ -3409,6 +3515,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-05 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-05 03:16:29 +0000"
     },
     "done": true
   },
