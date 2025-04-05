@@ -728,8 +728,10 @@
       "minecraft:skeleton": "2025-03-30 14:20:18 +0000",
       "minecraft:spider": "2025-03-30 13:48:04 +0000",
       "minecraft:creeper": "2025-04-02 01:33:37 +0000",
+      "minecraft:wither_skeleton": "2025-04-05 02:08:52 +0000",
       "minecraft:husk": "2025-03-30 14:17:16 +0000",
       "minecraft:piglin": "2025-03-30 13:22:59 +0000",
+      "minecraft:enderman": "2025-04-05 01:57:35 +0000",
       "minecraft:zombie": "2025-03-30 14:16:32 +0000"
     },
     "done": false
@@ -1915,6 +1917,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
       "has_log": "2025-04-05 00:49:19 +0000"
@@ -1924,6 +1932,12 @@
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-04-05 00:10:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
     },
     "done": true
   },
@@ -2113,6 +2127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-04-05 01:33:58 +0000"
@@ -2170,6 +2190,18 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-04-05 00:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
     },
     "done": true
   },
@@ -2335,6 +2367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-04-05 00:13:23 +0000"
@@ -2344,6 +2382,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-05 01:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
     },
     "done": true
   },
@@ -2377,6 +2421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-04-05 01:10:28 +0000"
@@ -2398,6 +2448,12 @@
   "iceandfire:recipes/combat/armor_black_boots": {
     "criteria": {
       "has_item": "2025-04-05 01:04:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_bricks_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
     },
     "done": true
   },
@@ -2539,6 +2595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-04-05 00:10:35 +0000"
@@ -2566,6 +2628,18 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2025-04-05 00:36:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab_from_stonecutting": {
+    "criteria": {
+      "has_quartz_block": "2025-04-05 02:07:24 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-05 02:11:29 +0000"
     },
     "done": true
   },
@@ -2716,6 +2790,12 @@
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-04-05 01:46:35 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_scorched_mines": {
+    "criteria": {
+      "location0": "2025-04-05 02:08:42 +0000"
     },
     "done": true
   },
