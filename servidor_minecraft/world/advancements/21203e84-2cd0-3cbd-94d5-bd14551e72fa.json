@@ -282,6 +282,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-04 01:43:56 +0000",
+      "minecraft:mushroom_fields": "2025-04-05 02:43:46 +0000",
       "minecraft:deep_ocean": "2025-04-01 00:58:34 +0000",
       "minecraft:cherry_grove": "2025-04-04 01:43:54 +0000",
       "minecraft:birch_forest": "2025-04-04 01:54:43 +0000",
@@ -945,8 +946,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-30 14:58:24 +0000",
+      "beef": "2025-04-05 02:45:00 +0000",
       "bread": "2025-04-01 01:26:37 +0000",
       "golden_apple": "2025-04-05 00:13:44 +0000",
+      "rotten_flesh": "2025-04-05 02:33:14 +0000",
       "melon_slice": "2025-03-30 14:37:43 +0000",
       "golden_carrot": "2025-04-01 01:12:08 +0000",
       "carrot": "2025-04-01 01:00:04 +0000"
@@ -2473,6 +2476,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-04-05 02:46:45 +0000",
       "in_better_monster_room": "2025-04-04 00:57:25 +0000"
     },
     "done": false
@@ -3232,6 +3236,12 @@
       "has_sherd": "2025-04-05 01:47:45 +0000"
     },
     "done": false
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-04-05 02:46:45 +0000"
+    },
+    "done": true
   },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
