@@ -297,7 +297,9 @@
       "minecraft:sparse_jungle": "2025-03-30 13:26:59 +0000",
       "minecraft:river": "2025-03-30 13:02:21 +0000",
       "minecraft:lukewarm_ocean": "2025-04-01 01:04:48 +0000",
+      "minecraft:snowy_plains": "2025-04-05 15:39:23 +0000",
       "minecraft:dripstone_caves": "2025-03-31 04:23:30 +0000",
+      "minecraft:snowy_taiga": "2025-04-05 15:39:22 +0000",
       "minecraft:cold_ocean": "2025-04-05 02:48:17 +0000",
       "minecraft:forest": "2025-03-31 03:52:30 +0000",
       "minecraft:lush_caves": "2025-03-30 12:58:16 +0000",
@@ -306,6 +308,7 @@
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
       "minecraft:jungle": "2025-03-30 14:55:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-05 03:22:33 +0000",
+      "minecraft:snowy_beach": "2025-04-05 15:39:21 +0000",
       "minecraft:windswept_savanna": "2025-04-05 02:38:58 +0000",
       "minecraft:flower_forest": "2025-04-05 03:19:05 +0000",
       "minecraft:frozen_peaks": "2025-04-02 13:32:26 +0000",
@@ -2669,9 +2672,10 @@
     "criteria": {
       "in_better_zombie_dungeon": "2025-04-01 00:50:25 +0000",
       "in_better_monster_room": "2025-04-04 01:23:52 +0000",
+      "in_better_spider_dungeon": "2025-04-05 15:38:25 +0000",
       "in_better_skeleton_dungeon": "2025-03-31 02:52:23 +0000"
     },
-    "done": false
+    "done": true
   },
   "betterdungeons:skeleton_dungeon": {
     "criteria": {
@@ -5441,6 +5445,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-05 15:46:06 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-04-05 14:54:57 +0000"
@@ -5453,9 +5463,21 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-05 15:38:25 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-04-05 15:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-05 15:46:06 +0000"
     },
     "done": true
   },

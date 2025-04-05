@@ -2171,3 +2171,93 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Apr2025 15:37:53.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set own game mode to Survival Mode]
 [05Apr2025 15:38:25.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Professional Dungeoneer]
 [05Apr2025 15:38:25.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Cobweb Entanglement]
+[05Apr2025 15:38:41.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[05Apr2025 15:38:47.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> quitense esa mamada
+[05Apr2025 15:38:56.461] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[05Apr2025 15:38:57.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> apoco
+[05Apr2025 15:39:00.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[05Apr2025 15:39:02.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> me quedo con hambre
+[05Apr2025 15:39:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[05Apr2025 15:39:15.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 15:39:19.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[05Apr2025 15:39:26.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[05Apr2025 15:39:40.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was frozen by Ice Dragon
+[05Apr2025 15:39:45.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 15:40:19.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was doomed to fall
+[05Apr2025 15:40:35.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 15:40:47.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was turned to ice by Ice Dragon
+[05Apr2025 15:40:52.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Ice Dragon
+[05Apr2025 15:40:53.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[05Apr2025 15:40:54.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 15:41:15.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Ice Dragon
+[05Apr2025 15:41:19.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 15:41:34.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was turned to ice by Ice Dragon
+[05Apr2025 15:41:36.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 15:41:54.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ice Dragon
+[05Apr2025 15:41:57.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[05Apr2025 15:42:02.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken walked into a cactus whilst trying to escape Ice Dragon
+[05Apr2025 15:42:05.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 15:42:52.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> yo te doy huevo yuha 7w7
+[05Apr2025 15:43:36.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set own game mode to Survival Mode]
+[05Apr2025 15:43:43.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> tramposos
+[05Apr2025 15:44:05.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> ah
+[05Apr2025 15:44:06.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[05Apr2025 15:44:22.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Applied effect Night Vision to OinkOtaku]
+[05Apr2025 15:45:43.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Apr2025 15:45:49.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to AnthoFu]
+[05Apr2025 15:46:06.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Spooky Scary Skeleton]
+[05Apr2025 15:46:42.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu burned to death
+[05Apr2025 15:46:44.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_ignore_bushes] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_blind_effect] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_predator_suppression] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_wake_up_surprise] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_vicious_wolves_bears] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_climb_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_passive_nightvision] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_predator_bite_threshold] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_against_preys] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_dig_berries_up] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_claw_shovel] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_bite_sound_cd] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_sleep_under_shade] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_weakness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_kill_foxes] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_super-effective] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality_suppressed_regen] from power ResourceKey[apoli:configured_power / thorigins:fox/thfoxiality]
+[05Apr2025 15:46:44.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_show_soul] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_ticks_20] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_kitsune] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_transformable] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ice] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_ninetails] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temp_disable_sleepin] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_cooldown] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_unlocker_lightning] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_active_self] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_lock_fire] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_souls] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:thtransform_temperature] from power ResourceKey[apoli:configured_power / thorigins:thtransform]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_effect_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_snowness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_no_freezing] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_more_fire_exp_dmg] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_wetness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_water] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_slowdown] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_is_shaking] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:46:44.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks_5] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 15:47:12.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[05Apr2025 15:47:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> tramposo
+[05Apr2025 15:47:26.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[05Apr2025 15:47:30.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> de hecho, eres furro
+[05Apr2025 15:47:30.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[05Apr2025 15:47:32.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> tienes orejas
+[05Apr2025 15:47:46.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[05Apr2025 15:48:24.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> bien toxico el red
+[05Apr2025 15:48:27.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]

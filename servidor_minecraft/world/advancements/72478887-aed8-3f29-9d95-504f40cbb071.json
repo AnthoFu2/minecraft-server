@@ -284,7 +284,9 @@
       "minecraft:old_growth_pine_taiga": "2025-04-05 15:19:30 +0000",
       "minecraft:taiga": "2025-04-05 15:14:29 +0000",
       "minecraft:deep_ocean": "2025-04-05 01:11:18 +0000",
+      "minecraft:sunflower_plains": "2025-04-05 15:36:51 +0000",
       "minecraft:birch_forest": "2025-04-05 01:10:18 +0000",
+      "minecraft:windswept_hills": "2025-04-05 15:37:28 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 13:10:50 +0000",
       "minecraft:savanna_plateau": "2025-04-05 00:16:07 +0000",
       "minecraft:beach": "2025-03-30 14:07:54 +0000",
@@ -292,13 +294,17 @@
       "minecraft:sparse_jungle": "2025-03-30 14:07:03 +0000",
       "minecraft:river": "2025-03-30 13:35:49 +0000",
       "minecraft:lukewarm_ocean": "2025-04-05 00:51:35 +0000",
+      "minecraft:snowy_plains": "2025-04-05 15:44:08 +0000",
       "minecraft:dripstone_caves": "2025-04-05 14:37:23 +0000",
+      "minecraft:snowy_taiga": "2025-04-05 15:41:14 +0000",
+      "minecraft:swamp": "2025-04-05 15:37:36 +0000",
       "minecraft:forest": "2025-03-30 13:37:12 +0000",
       "minecraft:lush_caves": "2025-04-05 01:37:28 +0000",
       "minecraft:desert": "2025-04-05 00:56:02 +0000",
       "minecraft:jungle": "2025-03-30 14:58:23 +0000",
       "minecraft:ocean": "2025-04-05 01:08:59 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-05 15:22:59 +0000",
+      "minecraft:snowy_beach": "2025-04-05 15:39:17 +0000",
       "minecraft:windswept_savanna": "2025-04-05 00:36:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-05 00:52:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-05 15:35:50 +0000",
@@ -3405,6 +3411,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-05 15:39:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-04-05 14:43:28 +0000"
@@ -3480,6 +3492,12 @@
   "iceandfire:recipes/combat/armor_red_helmet": {
     "criteria": {
       "has_item": "2025-04-05 14:50:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-04-05 15:40:50 +0000"
     },
     "done": true
   },
@@ -3570,6 +3588,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2025-04-05 14:50:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-04-05 15:42:17 +0000"
     },
     "done": true
   },
