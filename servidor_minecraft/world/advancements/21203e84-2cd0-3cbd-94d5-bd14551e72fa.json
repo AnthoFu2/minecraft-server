@@ -4109,9 +4109,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-04-05 17:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2025-04-05 17:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-04-05 17:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-04-05 17:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-05 17:47:28 +0000"
     },
     "done": true
   },
@@ -4127,6 +4151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-05 17:47:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-04-05 17:17:43 +0000"
@@ -4136,6 +4166,18 @@
   "dungeons_arise:find_mushroom_house": {
     "criteria": {
       "location0": "2025-04-05 17:36:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2025-04-05 17:50:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-05 17:47:28 +0000"
     },
     "done": true
   },
