@@ -1346,3 +1346,45 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [05Apr2025 14:26:46.956] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_is_shaking] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
 [05Apr2025 14:26:46.956] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
 [05Apr2025 14:26:46.956] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks_5] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[05Apr2025 14:27:36.173] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10879, l='ServerLevel[world]', x=149.50, y=73.00, z=-462.22] died, message: 'Farmer was slain by Zombie'
+[05Apr2025 14:31:31.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Lightning Dragon
+[05Apr2025 14:31:31.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[05Apr2025 14:31:51.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Applied effect Night Vision to OinkOtaku]
+[05Apr2025 14:32:10.391] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[05Apr2025 14:32:11.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Lightning Dragon
+[05Apr2025 14:32:27.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Lightning Dragon
+[05Apr2025 14:33:13.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 14:33:19.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 14:33:25.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[05Apr2025 14:34:19.127] [Worker-Main-11/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[05Apr2025 14:34:19.132] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[05Apr2025 14:34:19.440] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[05Apr2025 14:34:19.449] [Worker-Main-28/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[05Apr2025 14:34:23.944] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[05Apr2025 14:34:23.949] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[05Apr2025 14:34:23.949] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[05Apr2025 14:34:55.520] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[05Apr2025 14:34:55.520] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[05Apr2025 14:34:55.533] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[05Apr2025 14:35:57.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RED_WasT4ken lost connection: Disconnected
+[05Apr2025 14:35:57.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken left the game
+[05Apr2025 14:37:03.211] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[05Apr2025 14:37:03.300] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[05Apr2025 14:37:03.301] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[05Apr2025 14:37:03.390] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[05Apr2025 14:37:03.430] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[05Apr2025 14:37:03.480] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[05Apr2025 14:37:03.480] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[05Apr2025 14:37:03.571] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[05Apr2025 14:37:03.661] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[05Apr2025 14:37:03.684] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[05Apr2025 14:37:03.752] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[05Apr2025 14:37:03.752] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[05Apr2025 14:37:04.469] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[05Apr2025 14:37:04.498] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[05Apr2025 14:37:04.533] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[05Apr2025 14:37:04.533] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[05Apr2025 14:37:04.533] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[05Apr2025 14:37:07.094] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RED_WasT4ken[/127.165.213.184:43695] logged in with entity id 35075 at (-3422.4694154715826, 33.0, -529.6999999880791)
+[05Apr2025 14:37:07.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken joined the game
+[05Apr2025 14:37:07.160] [Server thread/INFO] [Jade/]: Syncing config to RED_WasT4ken (72478887-aed8-3f29-9d95-504f40cbb071)
