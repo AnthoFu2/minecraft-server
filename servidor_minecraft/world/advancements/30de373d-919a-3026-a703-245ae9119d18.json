@@ -286,6 +286,7 @@
       "minecraft:mushroom_fields": "2025-04-05 02:43:35 +0000",
       "minecraft:taiga": "2025-04-05 02:48:20 +0000",
       "minecraft:deep_ocean": "2025-04-05 02:43:10 +0000",
+      "minecraft:frozen_river": "2025-04-05 16:29:22 +0000",
       "minecraft:cherry_grove": "2025-04-02 12:48:00 +0000",
       "minecraft:sunflower_plains": "2025-04-05 02:55:06 +0000",
       "minecraft:birch_forest": "2025-04-05 03:19:40 +0000",
@@ -304,6 +305,7 @@
       "minecraft:forest": "2025-03-31 03:52:30 +0000",
       "minecraft:lush_caves": "2025-03-30 12:58:16 +0000",
       "minecraft:deep_cold_ocean": "2025-04-05 02:48:13 +0000",
+      "minecraft:frozen_ocean": "2025-04-05 16:41:33 +0000",
       "minecraft:desert": "2025-04-05 01:41:06 +0000",
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
       "minecraft:jungle": "2025-03-30 14:55:03 +0000",
@@ -5325,6 +5327,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_boots": {
+    "criteria": {
+      "has_item": "2025-04-05 16:45:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
     "criteria": {
       "has_item": "2025-04-05 14:54:57 +0000"
@@ -5337,15 +5345,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-05 16:45:36 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-04-05 15:11:31 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_input": {
+    "criteria": {
+      "has_item": "2025-04-05 16:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/snow": {
     "criteria": {
       "has_snowball": "2025-04-05 15:48:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_silver_helmet": {
+    "criteria": {
+      "has_item": "2025-04-05 16:45:36 +0000"
     },
     "done": true
   },
@@ -5370,6 +5396,12 @@
   "minecraft:recipes/misc/red_dye_from_rose_bush": {
     "criteria": {
       "has_rose_bush": "2025-04-05 14:54:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-04-05 16:14:16 +0000"
     },
     "done": true
   },
@@ -5403,6 +5435,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_silver_leggings": {
+    "criteria": {
+      "has_item": "2025-04-05 16:45:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed": {
     "criteria": {
       "has_cyan_wool": "2025-04-05 14:54:12 +0000"
@@ -5412,6 +5450,12 @@
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2025-04-05 14:54:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-04-05 16:27:51 +0000"
     },
     "done": true
   },
@@ -5445,6 +5489,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/forest_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-04-05 16:27:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-04-05 14:54:56 +0000"
@@ -5469,6 +5519,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_silver_to_dragonscale_silver": {
+    "criteria": {
+      "has_dragonscales_silver": "2025-04-05 16:45:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-04-05 16:14:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_core_disabled": {
+    "criteria": {
+      "has_item": "2025-04-05 16:14:25 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-04-05 15:38:25 +0000"
@@ -5490,6 +5558,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-04-05 15:48:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-05 16:27:51 +0000"
     },
     "done": true
   },
