@@ -308,6 +308,7 @@
       "minecraft:windswept_savanna": "2025-04-05 00:36:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-05 00:52:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-05 15:35:50 +0000",
+      "minecraft:deep_dark": "2025-04-05 15:59:19 +0000",
       "minecraft:savanna": "2025-03-30 13:37:35 +0000",
       "minecraft:plains": "2025-03-30 13:36:00 +0000"
     },
@@ -744,7 +745,8 @@
       "minecraft:husk": "2025-03-30 14:17:16 +0000",
       "minecraft:piglin": "2025-03-30 13:22:59 +0000",
       "minecraft:enderman": "2025-04-05 01:57:35 +0000",
-      "minecraft:zombie": "2025-03-30 14:16:32 +0000"
+      "minecraft:zombie": "2025-03-30 14:16:32 +0000",
+      "minecraft:zombie_villager": "2025-04-05 15:50:28 +0000"
     },
     "done": false
   },
