@@ -5375,6 +5375,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-04-05 16:59:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2025-04-05 15:11:31 +0000"
