@@ -281,6 +281,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-05 15:19:30 +0000",
+      "minecraft:taiga": "2025-04-05 15:14:29 +0000",
       "minecraft:deep_ocean": "2025-04-05 01:11:18 +0000",
       "minecraft:birch_forest": "2025-04-05 01:10:18 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 13:10:50 +0000",
@@ -296,8 +298,10 @@
       "minecraft:desert": "2025-04-05 00:56:02 +0000",
       "minecraft:jungle": "2025-03-30 14:58:23 +0000",
       "minecraft:ocean": "2025-04-05 01:08:59 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-05 15:22:59 +0000",
       "minecraft:windswept_savanna": "2025-04-05 00:36:49 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-05 00:52:22 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-05 15:35:50 +0000",
       "minecraft:savanna": "2025-03-30 13:37:35 +0000",
       "minecraft:plains": "2025-03-30 13:36:00 +0000"
     },
@@ -729,6 +733,7 @@
       "minecraft:skeleton": "2025-03-30 14:20:18 +0000",
       "minecraft:spider": "2025-03-30 13:48:04 +0000",
       "minecraft:creeper": "2025-04-02 01:33:37 +0000",
+      "minecraft:witch": "2025-04-05 15:19:14 +0000",
       "minecraft:wither_skeleton": "2025-04-05 02:08:52 +0000",
       "minecraft:husk": "2025-03-30 14:17:16 +0000",
       "minecraft:piglin": "2025-03-30 13:22:59 +0000",
@@ -3388,6 +3393,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-04-05 14:43:28 +0000"
@@ -3406,6 +3423,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-05 15:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-05 15:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-04-05 14:43:28 +0000"
@@ -3415,6 +3462,12 @@
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-04-05 14:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
     },
     "done": true
   },
@@ -3430,6 +3483,24 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_sword_lightning": {
+    "criteria": {
+      "has_item": "2025-04-05 15:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-05 15:20:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-05 15:18:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_red_to_dragonscale_red": {
     "criteria": {
       "has_dragonscales_red": "2025-04-05 14:50:43 +0000"
@@ -3439,6 +3510,12 @@
   "iceandfire:recipes/combat/armor_red_boots": {
     "criteria": {
       "has_item": "2025-04-05 14:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
     },
     "done": true
   },
@@ -3454,9 +3531,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-05 15:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-04-05 14:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
     },
     "done": true
   },
@@ -3469,6 +3576,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-05 14:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-05 15:28:47 +0000"
     },
     "done": true
   },
