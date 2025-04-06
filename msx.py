@@ -1,7 +1,19 @@
+RED = "\003[31m"
+RESET="\003[3m"
+print (f"{RED} Texto en rojo para testeo {RESET}")
 
+import os
+import sys
 
+SUPPORT_COLOR = sys.stdout.isatty() and os.getenv('TERM') not in [None, 'dumb']
 
+def print_color(text, color_code):
+	if SUPPORT_COLOR:
+		print (f"{color_code}{text}\033[0m")
+	else:
+		print (text)
 
+print_color("Texto rojo", "\033[31m")
 
 # ================
 # MSX LAUNCHER 1.1
