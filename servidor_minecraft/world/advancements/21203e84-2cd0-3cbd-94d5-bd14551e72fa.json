@@ -4365,6 +4365,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_input": {
+    "criteria": {
+      "has_the_recipe": "2025-04-06 03:45:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_forge_core": {
     "criteria": {
       "core": "2025-04-06 03:34:18 +0000"
@@ -4434,6 +4440,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-06 02:37:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_core_disabled": {
+    "criteria": {
+      "has_the_recipe": "2025-04-06 03:44:57 +0000"
     },
     "done": true
   },
