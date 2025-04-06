@@ -830,6 +830,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-31 04:56:33 +0000",
       "minecraft:skeleton": "2025-03-30 12:56:07 +0000",
+      "minecraft:ghast": "2025-04-06 04:54:14 +0000",
       "minecraft:hoglin": "2025-03-31 04:04:30 +0000",
       "minecraft:vindicator": "2025-04-05 03:23:35 +0000",
       "minecraft:spider": "2025-03-30 13:08:11 +0000",
@@ -5741,6 +5742,12 @@
   "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
     "criteria": {
       "has_item": "2025-04-06 03:41:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-06 04:56:10 +0000"
     },
     "done": true
   },
