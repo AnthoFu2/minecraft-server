@@ -4630,6 +4630,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-04-06 23:46:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonarmor_iron_head": {
     "criteria": {
       "has_the_recipe": "2025-04-06 23:37:15 +0000"
