@@ -1127,6 +1127,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-03 01:15:59 +0000",
+      "cooked_mutton": "2025-04-06 01:49:47 +0000",
       "cooked_beef": "2025-04-04 02:23:49 +0000",
       "baked_potato": "2025-04-01 00:50:54 +0000",
       "apple": "2025-03-30 14:33:57 +0000",
@@ -5570,6 +5571,24 @@
   "alexsmobs:alexsmobs/sunbird_blessing": {
     "criteria": {
       "all_effects": "2025-04-05 16:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-06 01:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-06 01:51:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-06 01:51:07 +0000"
     },
     "done": true
   },
