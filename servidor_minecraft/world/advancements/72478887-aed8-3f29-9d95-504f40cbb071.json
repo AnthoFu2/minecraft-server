@@ -3618,12 +3618,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_bed": {
-    "criteria": {
-      "has_yellow_wool": "2025-04-05 17:17:09 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/ghost_sword": {
     "criteria": {
       "has_item": "2025-04-05 17:12:54 +0000"
@@ -3633,6 +3627,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-04-05 17:14:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_bed": {
+    "criteria": {
+      "has_yellow_wool": "2025-04-05 17:17:09 +0000"
     },
     "done": true
   },
