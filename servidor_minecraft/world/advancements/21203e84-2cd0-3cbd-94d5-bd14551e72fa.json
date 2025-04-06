@@ -4293,6 +4293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-06 03:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-06 02:37:09 +0000"
@@ -4380,6 +4386,12 @@
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-06 02:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-06 03:08:58 +0000"
     },
     "done": true
   },
