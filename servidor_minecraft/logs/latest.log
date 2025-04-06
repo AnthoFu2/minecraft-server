@@ -1486,3 +1486,60 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Apr2025 04:42:41.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
 [06Apr2025 04:42:51.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> mesa de enchants
 [06Apr2025 04:44:00.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> capaz porque estuviste cuando estuve roto
+[06Apr2025 04:44:52.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> un pez?
+[06Apr2025 04:44:55.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> en el nether?
+[06Apr2025 04:45:03.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> waos
+[06Apr2025 04:45:18.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> sigo decorando :c
+[06Apr2025 04:46:06.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> ese coso si se ve feo
+[06Apr2025 04:46:07.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[06Apr2025 04:47:09.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> sip
+[06Apr2025 04:47:11.631] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=61, z=-19} BlockPos{x=-148, y=60, z=-20}
+[06Apr2025 04:47:27.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> me gusto como quedo
+[06Apr2025 04:47:32.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> No soy muy bueno decorando
+[06Apr2025 04:47:55.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-149, y=60, z=-32} BlockPos{x=-148, y=60, z=-31}
+[06Apr2025 04:48:00.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> ptm la cague
+[06Apr2025 04:48:01.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[06Apr2025 04:48:14.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> tenia que poner 2 bloques de madera, no 1
+[06Apr2025 04:48:16.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> ahora queda raro
+[06Apr2025 04:48:49.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> hmm
+[06Apr2025 04:48:54.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> rayos
+[06Apr2025 04:49:02.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> no se que hacer ahora
+[06Apr2025 04:49:09.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> habia quedado todo tan bien
+[06Apr2025 04:49:15.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Pero si lo muevo se daña el diseño
+[06Apr2025 04:49:26.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Sip
+[06Apr2025 04:49:37.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Es el bloque de los marcos
+[06Apr2025 04:50:30.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> shi
+[06Apr2025 04:50:46.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> bueno ni modo, dejare el coso de los marcos asi
+[06Apr2025 04:51:04.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Sip, tengo un cultivo enorme
+[06Apr2025 04:51:43.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> NOOO SE ESCAPO ANT-OFU
+[06Apr2025 04:52:29.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> pq hay un simbolo nazi en la casa?
+[06Apr2025 04:52:30.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[06Apr2025 04:53:12.433] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.434] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[06Apr2025 04:53:12.435] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]

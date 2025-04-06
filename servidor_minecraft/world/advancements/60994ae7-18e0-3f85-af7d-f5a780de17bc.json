@@ -3734,6 +3734,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-04-06 04:41:24 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-06 04:41:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-04-06 03:31:18 +0000"
@@ -3773,6 +3785,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-06 03:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-06 04:41:24 +0000"
     },
     "done": true
   },
