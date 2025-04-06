@@ -314,6 +314,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-04-05 03:17:30 +0000",
       "minecraft:snowy_beach": "2025-04-05 03:29:03 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-01 01:05:31 +0000",
+      "minecraft:flower_forest": "2025-04-06 02:28:05 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-05 15:37:27 +0000",
       "minecraft:deep_dark": "2025-04-04 00:50:47 +0000",
       "minecraft:meadow": "2025-04-04 01:54:47 +0000",
@@ -960,11 +961,13 @@
       "cooked_mutton": "2025-03-30 14:58:24 +0000",
       "cooked_beef": "2025-04-05 17:10:15 +0000",
       "beef": "2025-04-05 02:45:00 +0000",
+      "spider_eye": "2025-04-06 02:08:56 +0000",
       "bread": "2025-04-01 01:26:37 +0000",
       "golden_apple": "2025-04-05 00:13:44 +0000",
       "rotten_flesh": "2025-04-05 02:33:14 +0000",
       "melon_slice": "2025-03-30 14:37:43 +0000",
       "golden_carrot": "2025-04-01 01:12:08 +0000",
+      "enchanted_golden_apple": "2025-04-06 02:23:34 +0000",
       "carrot": "2025-04-01 01:00:04 +0000"
     },
     "done": false
@@ -4263,6 +4266,54 @@
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2025-04-05 17:52:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-04-06 02:29:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-04-06 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-06 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-04-06 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-04-06 02:12:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-04-06 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/nether_star_hook": {
+    "criteria": {
+      "has_items": "2025-04-06 02:12:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 02:30:05 +0000"
     },
     "done": true
   },
