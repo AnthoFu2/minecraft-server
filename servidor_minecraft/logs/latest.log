@@ -1022,3 +1022,55 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Apr2025 02:29:45.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
 [06Apr2025 02:30:28.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to AnthoFu]
 [06Apr2025 02:30:51.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[06Apr2025 02:31:23.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[06Apr2025 02:31:28.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[06Apr2025 02:31:38.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Fire Dragon
+[06Apr2025 02:31:44.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX was slain by Husk
+[06Apr2025 02:31:49.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[06Apr2025 02:32:02.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was turned into KFC by Fire Dragon
+[06Apr2025 02:32:03.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[06Apr2025 02:32:38.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2050ms or 41 ticks behind
+[06Apr2025 02:32:45.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> rode tas vivo
+[06Apr2025 02:32:47.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> no se te escucha
+[06Apr2025 02:33:13.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set own game mode to Creative Mode]
+[06Apr2025 02:33:29.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Kicked RED_WasT4ken: Kicked by an operator]
+[06Apr2025 02:33:29.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RED_WasT4ken lost connection: Kicked by an operator
+[06Apr2025 02:33:29.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken left the game
+[06Apr2025 02:33:31.839] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[06Apr2025 02:33:31.931] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[06Apr2025 02:33:32.020] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[06Apr2025 02:33:32.021] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[06Apr2025 02:33:32.112] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[06Apr2025 02:33:32.112] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[06Apr2025 02:33:32.221] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[06Apr2025 02:33:32.221] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[06Apr2025 02:33:32.304] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[06Apr2025 02:33:32.310] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[06Apr2025 02:33:32.394] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[06Apr2025 02:33:32.467] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[06Apr2025 02:33:33.047] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[06Apr2025 02:33:33.115] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[06Apr2025 02:33:33.115] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[06Apr2025 02:33:33.122] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[06Apr2025 02:33:33.122] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[06Apr2025 02:33:35.702] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RED_WasT4ken[/127.165.213.184:47421] logged in with entity id 58434 at (-1684.3822516191365, 42.78893851922387, 2451.157230196831)
+[06Apr2025 02:33:35.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken joined the game
+[06Apr2025 02:33:35.792] [Server thread/INFO] [Jade/]: Syncing config to RED_WasT4ken (72478887-aed8-3f29-9d95-504f40cbb071)
+[06Apr2025 02:33:40.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX has made the advancement [The Only Good Bug...]
+[06Apr2025 02:34:17.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set own game mode to Survival Mode]
+[06Apr2025 02:34:30.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX was slain by Myrmex Queen
+[06Apr2025 02:34:43.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to AnthoFu]
+[06Apr2025 02:35:04.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to AnthoFu]
+[06Apr2025 02:35:23.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX was slain by Myrmex Queen
+[06Apr2025 02:35:37.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX was slain by Myrmex Queen
+[06Apr2025 02:36:02.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX was slain by Myrmex Queen
+[06Apr2025 02:36:46.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX was slain by Myrmex Queen
+[06Apr2025 02:37:04.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [An Ear-Shattering Roar]
+[06Apr2025 02:37:27.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [Dragon Commander]
+[06Apr2025 02:38:08.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Creative Mode]
+[06Apr2025 02:38:17.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[06Apr2025 02:39:12.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX has made the advancement [Who You Gonna Call?]
+[06Apr2025 02:39:30.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX was slain by Ghost
+[06Apr2025 02:39:51.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=67, z=-517} BlockPos{x=92, y=67, z=-517}
+[06Apr2025 02:39:51.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=93, y=67, z=-517} BlockPos{x=92, y=67, z=-517}
+[06Apr2025 02:41:43.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [Best Friends Forever]

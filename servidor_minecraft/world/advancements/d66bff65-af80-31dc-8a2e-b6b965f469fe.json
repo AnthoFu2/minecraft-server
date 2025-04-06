@@ -243,6 +243,8 @@
       "minecraft:dark_forest": "2025-04-06 01:55:15 +0000",
       "minecraft:sparse_jungle": "2025-04-06 02:02:01 +0000",
       "minecraft:river": "2025-04-06 02:01:31 +0000",
+      "minecraft:stony_shore": "2025-04-06 02:38:52 +0000",
+      "minecraft:forest": "2025-04-06 02:39:55 +0000",
       "minecraft:lush_caves": "2025-04-06 01:56:17 +0000",
       "minecraft:jungle": "2025-04-06 02:01:38 +0000",
       "minecraft:savanna": "2025-04-06 02:13:12 +0000",
@@ -760,6 +762,7 @@
       "minecraft:skeleton": "2025-04-06 01:55:45 +0000",
       "minecraft:spider": "2025-04-06 02:12:03 +0000",
       "minecraft:creeper": "2025-04-06 02:10:49 +0000",
+      "minecraft:silverfish": "2025-04-06 02:39:09 +0000",
       "minecraft:zombie": "2025-04-06 01:54:52 +0000"
     },
     "done": false
@@ -1136,6 +1139,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-04-06 02:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-06 02:26:05 +0000"
@@ -1214,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-06 02:31:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-06 02:26:05 +0000"
@@ -1268,6 +1283,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-04-06 02:26:05 +0000"
@@ -1307,6 +1328,18 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-06 02:12:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:40 +0000"
     },
     "done": true
   },
@@ -1352,6 +1385,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-04-06 02:26:05 +0000"
@@ -1364,6 +1403,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-04-06 02:31:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-04-06 02:27:35 +0000"
@@ -1373,6 +1418,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-06 02:27:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:40 +0000"
     },
     "done": true
   },
@@ -1418,15 +1469,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-04-06 02:32:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-04-06 02:27:35 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2025-04-06 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:40 +0000"
     },
     "done": true
   },
@@ -1496,6 +1565,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-06 02:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-06 02:07:19 +0000"
@@ -1545,9 +1620,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-06 02:12:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-04-06 02:33:40 +0000"
     },
     "done": true
   },

@@ -3751,5 +3751,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-04-06 02:37:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-04-06 02:37:27 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
