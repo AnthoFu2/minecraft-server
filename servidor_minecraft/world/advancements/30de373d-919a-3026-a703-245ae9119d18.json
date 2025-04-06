@@ -5706,6 +5706,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-04-06 04:01:20 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
     "criteria": {
       "has_item": "2025-04-06 03:41:06 +0000"
