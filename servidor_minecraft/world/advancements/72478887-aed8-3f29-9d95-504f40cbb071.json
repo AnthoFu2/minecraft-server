@@ -3753,6 +3753,24 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-04-06 02:37:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-04-06 02:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-06 02:41:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2025-04-06 02:43:56 +0000"
@@ -3765,27 +3783,27 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_horn": {
-    "criteria": {
-      "bestiary": "2025-04-06 02:37:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/tame_an_animal": {
-    "criteria": {
-      "tamed_animal": "2025-04-06 02:41:43 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/amphithere_arrow": {
     "criteria": {
       "has_item": "2025-04-06 02:50:04 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
+  "minecraft:recipes/building_blocks/packed_mud": {
     "criteria": {
-      "bestiary": "2025-04-06 02:37:27 +0000"
+      "has_mud": "2025-04-06 23:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-06 22:54:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-06 22:54:46 +0000"
     },
     "done": true
   },
