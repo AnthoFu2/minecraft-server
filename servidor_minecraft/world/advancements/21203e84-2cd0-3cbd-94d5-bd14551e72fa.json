@@ -307,6 +307,7 @@
       "minecraft:forest": "2025-04-02 00:28:05 +0000",
       "minecraft:lush_caves": "2025-03-31 01:14:58 +0000",
       "minecraft:deep_cold_ocean": "2025-04-05 01:24:56 +0000",
+      "minecraft:ice_spikes": "2025-04-07 01:14:11 +0000",
       "minecraft:frozen_ocean": "2025-04-05 03:29:27 +0000",
       "minecraft:desert": "2025-04-05 01:37:43 +0000",
       "minecraft:jungle": "2025-03-30 14:28:41 +0000",
@@ -387,6 +388,7 @@
       "minecraft:creeper": "2025-04-04 00:56:42 +0000",
       "minecraft:wither_skeleton": "2025-04-05 02:06:45 +0000",
       "minecraft:husk": "2025-04-01 01:24:19 +0000",
+      "minecraft:piglin": "2025-04-07 01:02:06 +0000",
       "minecraft:zombie": "2025-03-30 14:46:40 +0000",
       "minecraft:drowned": "2025-03-30 14:20:29 +0000",
       "minecraft:zombie_villager": "2025-04-06 23:28:22 +0000"
@@ -1096,6 +1098,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:nether_wastes": "2025-04-07 01:04:22 +0000",
       "minecraft:warped_forest": "2025-03-30 15:04:49 +0000"
     },
     "done": false
@@ -4772,6 +4775,240 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-04-07 00:19:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
+    "criteria": {
+      "has_dragonsteel_lightning_ingot": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
+    "criteria": {
+      "has_item": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
+    "criteria": {
+      "has_item": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-07 00:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-07 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
+    "criteria": {
+      "has_item": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-07 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-04-07 01:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
+    "criteria": {
+      "has_item": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-07 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-07 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_blasting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-04-07 00:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-07 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-07 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
+    "criteria": {
+      "has_item": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
+    "criteria": {
+      "has_deepslate_diamond_ore": "2025-04-07 00:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-04-07 00:58:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
+    "criteria": {
+      "has_item": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-04-07 01:07:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-07 00:53:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-07 00:57:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-07 01:01:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-07 01:01:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-04-07 01:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+    "criteria": {
+      "has_item": "2025-04-07 00:53:10 +0000"
     },
     "done": true
   },
