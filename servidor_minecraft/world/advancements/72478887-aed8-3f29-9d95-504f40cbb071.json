@@ -3869,6 +3869,19 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-06 23:40:10 +0000",
+      "in_better_monster_room": "2025-04-07 00:38:50 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-04-06 23:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-06 23:43:58 +0000"
@@ -3887,15 +3900,63 @@
     },
     "done": true
   },
-  "betterdungeons:all_dungeons": {
+  "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-06 23:40:10 +0000"
+      "has_planks": "2025-04-07 00:09:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "in_better_spider_dungeon": "2025-04-06 23:40:10 +0000"
+      "has_planks": "2025-04-07 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-04-07 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-04-07 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-07 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-07 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-04-07 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-07 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-07 00:09:19 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-04-07 00:38:50 +0000"
     },
     "done": true
   },

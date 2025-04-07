@@ -839,10 +839,12 @@
       "minecraft:creeper": "2025-03-30 12:56:05 +0000",
       "minecraft:wither": "2025-04-04 02:44:51 +0000",
       "minecraft:evoker": "2025-04-05 03:23:35 +0000",
+      "minecraft:slime": "2025-04-07 00:10:05 +0000",
       "minecraft:phantom": "2025-03-31 04:12:05 +0000",
       "minecraft:witch": "2025-03-30 14:46:10 +0000",
       "minecraft:wither_skeleton": "2025-03-31 04:04:07 +0000",
       "minecraft:husk": "2025-03-30 14:25:28 +0000",
+      "minecraft:cave_spider": "2025-04-07 00:24:20 +0000",
       "minecraft:piglin": "2025-04-02 12:20:11 +0000",
       "minecraft:enderman": "2025-04-03 01:09:00 +0000",
       "minecraft:zombie": "2025-03-30 13:06:16 +0000",
@@ -5782,6 +5784,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2025-04-07 00:22:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
     "criteria": {
       "has_item": "2025-04-06 23:39:08 +0000"
@@ -5791,6 +5799,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-04-06 23:47:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-07 00:10:52 +0000"
     },
     "done": true
   },
@@ -5827,6 +5841,12 @@
   "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
     "criteria": {
       "has_item": "2025-04-06 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-06 23:59:39 +0000"
     },
     "done": true
   },
