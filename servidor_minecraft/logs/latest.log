@@ -448,3 +448,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Apr2025 13:28:30.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:40089] logged in with entity id 19308 at (100.27353078348527, 72.0, -503.7805474700129)
 [07Apr2025 13:28:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
 [07Apr2025 13:28:31.085] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[07Apr2025 13:37:07.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17360, l='ServerLevel[world]', x=124.21, y=72.42, z=-481.70] died, message: 'Unemployed was squished too much'
+[07Apr2025 13:38:59.573] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17353, l='ServerLevel[world]', x=124.15, y=72.41, z=-481.10] died, message: 'Unemployed was squished too much'
+[07Apr2025 13:41:36.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17356, l='ServerLevel[world]', x=124.20, y=72.27, z=-481.70] died, message: 'Unemployed was squished too much'
+[07Apr2025 13:42:08.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Spectator Mode]
+[07Apr2025 13:42:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
