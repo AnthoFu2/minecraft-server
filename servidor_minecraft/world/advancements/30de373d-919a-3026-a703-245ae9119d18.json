@@ -5763,6 +5763,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_the_recipe": "2025-04-07 01:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-04-06 23:36:57 +0000"
@@ -5790,6 +5796,12 @@
   "alexsmobs:alexsmobs/alligator_snapping_turtle": {
     "criteria": {
       "killed_by": "2025-04-07 00:22:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2025-04-07 01:28:37 +0000"
     },
     "done": true
   },
