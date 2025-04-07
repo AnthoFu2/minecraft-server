@@ -379,3 +379,72 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Apr2025 13:20:44.131] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [07Apr2025 13:21:26.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> a
 [07Apr2025 13:21:29.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> awebo
+[07Apr2025 13:22:10.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[07Apr2025 13:22:10.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[07Apr2025 13:22:13.106] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[07Apr2025 13:22:13.188] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[07Apr2025 13:22:13.270] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[07Apr2025 13:22:13.270] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[07Apr2025 13:22:13.352] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[07Apr2025 13:22:13.437] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[07Apr2025 13:22:13.477] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[07Apr2025 13:22:13.530] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[07Apr2025 13:22:13.531] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[07Apr2025 13:22:13.614] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[07Apr2025 13:22:13.615] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[07Apr2025 13:22:13.695] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[07Apr2025 13:22:15.472] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[07Apr2025 13:22:16.038] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[07Apr2025 13:22:16.072] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[07Apr2025 13:22:16.113] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[07Apr2025 13:22:16.175] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[07Apr2025 13:22:16.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:39699] logged in with entity id 16046 at (-4263.874154033956, -38.64346946888911, -3761.5360272125804)
+[07Apr2025 13:22:17.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[07Apr2025 13:22:17.085] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[07Apr2025 13:23:45.283] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Timed out
+[07Apr2025 13:23:45.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[07Apr2025 13:24:06.155] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[07Apr2025 13:24:06.323] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[07Apr2025 13:24:06.327] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[07Apr2025 13:24:06.327] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[07Apr2025 13:24:06.455] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[07Apr2025 13:24:06.456] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[07Apr2025 13:24:06.457] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[07Apr2025 13:24:06.586] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[07Apr2025 13:24:06.627] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[07Apr2025 13:24:06.628] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[07Apr2025 13:24:06.745] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[07Apr2025 13:24:06.746] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[07Apr2025 13:24:09.923] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[07Apr2025 13:24:10.637] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[07Apr2025 13:24:10.637] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[07Apr2025 13:24:10.642] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[07Apr2025 13:24:10.770] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[07Apr2025 13:24:11.499] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:58321] logged in with entity id 16648 at (-4218.978470113706, -52.0, -3805.9189703187376)
+[07Apr2025 13:24:11.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[07Apr2025 13:24:11.581] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[07Apr2025 13:25:09.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[07Apr2025 13:25:51.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[07Apr2025 13:26:21.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to AnthoFu]
+[07Apr2025 13:26:24.836] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[07Apr2025 13:26:24.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[07Apr2025 13:28:24.860] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[07Apr2025 13:28:24.980] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[07Apr2025 13:28:24.984] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[07Apr2025 13:28:25.024] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[07Apr2025 13:28:25.024] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[07Apr2025 13:28:25.111] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[07Apr2025 13:28:25.131] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[07Apr2025 13:28:25.242] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[07Apr2025 13:28:25.243] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[07Apr2025 13:28:25.244] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[07Apr2025 13:28:25.367] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[07Apr2025 13:28:25.369] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[07Apr2025 13:28:29.022] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[07Apr2025 13:28:29.766] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[07Apr2025 13:28:29.767] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[07Apr2025 13:28:29.775] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[07Apr2025 13:28:29.944] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[07Apr2025 13:28:30.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:40089] logged in with entity id 19308 at (100.27353078348527, 72.0, -503.7805474700129)
+[07Apr2025 13:28:31.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[07Apr2025 13:28:31.085] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
