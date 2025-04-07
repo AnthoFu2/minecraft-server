@@ -4880,6 +4880,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-04-07 01:39:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
     "criteria": {
       "has_item": "2025-04-07 00:53:10 +0000"
@@ -4973,6 +4979,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-04-07 01:44:20 +0000"
     },
     "done": true
   },

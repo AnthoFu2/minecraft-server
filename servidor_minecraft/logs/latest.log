@@ -910,3 +910,31 @@
 [07Apr2025 01:39:31.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171208, l='ServerLevel[world]', x=124.14, y=72.47, z=-481.10] died, message: 'Unemployed was squished too much'
 [07Apr2025 01:40:30.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171233, l='ServerLevel[world]', x=124.70, y=72.39, z=-481.23] died, message: 'Unemployed was squished too much'
 [07Apr2025 01:40:59.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171231, l='ServerLevel[world]', x=124.12, y=72.41, z=-481.11] died, message: 'Unemployed was squished too much'
+[07Apr2025 01:43:40.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[07Apr2025 01:43:40.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[07Apr2025 01:45:26.697] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[07Apr2025 01:45:26.820] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[07Apr2025 01:45:26.852] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[07Apr2025 01:45:26.853] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[07Apr2025 01:45:26.955] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[07Apr2025 01:45:26.955] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[07Apr2025 01:45:26.959] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[07Apr2025 01:45:27.088] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[07Apr2025 01:45:27.089] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[07Apr2025 01:45:27.220] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[07Apr2025 01:45:27.255] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[07Apr2025 01:45:27.255] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[07Apr2025 01:45:28.751] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[07Apr2025 01:45:28.826] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[07Apr2025 01:45:28.854] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[07Apr2025 01:45:28.854] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[07Apr2025 01:45:28.854] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[07Apr2025 01:45:30.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:42789] logged in with entity id 176436 at (6.8490291751044765, 49.0, -45.884424864855106)
+[07Apr2025 01:45:30.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[07Apr2025 01:45:30.635] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[07Apr2025 01:45:50.779] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/176717, l='ServerLevel[world]', x=-386.00, y=31.00, z=-152.00] as it would cause deadlock
+[07Apr2025 01:47:36.524] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/177274, l='ServerLevel[world]', x=-433.00, y=31.00, z=-123.00] as it would cause deadlock
+[07Apr2025 01:47:36.564] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/177284, l='ServerLevel[world]', x=-437.00, y=88.00, z=132.00] as it would cause deadlock
+[07Apr2025 01:47:36.573] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/177288, l='ServerLevel[world]', x=-447.10, y=31.00, z=-154.00] as it would cause deadlock
+[07Apr2025 01:47:41.418] [Worker-Main-66/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/177321, l='ServerLevel[world]', x=-473.00, y=31.00, z=-71.00] as it would cause deadlock
+[07Apr2025 01:48:35.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171234, l='ServerLevel[world]', x=124.12, y=72.40, z=-481.12] died, message: 'Unemployed was squished too much'

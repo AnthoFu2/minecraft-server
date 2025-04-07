@@ -5757,21 +5757,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
-    "criteria": {
-      "has_dragonsteel_lightning_ingot": "2025-04-06 23:39:08 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_iron_body": {
-    "criteria": {
-      "has_the_recipe": "2025-04-07 01:25:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-04-06 23:36:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
+    "criteria": {
+      "has_dragonsteel_lightning_ingot": "2025-04-06 23:39:08 +0000"
     },
     "done": true
   },
@@ -5787,45 +5781,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-04-06 23:47:20 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
-    "criteria": {
-      "killed_by": "2025-04-07 00:22:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel_weapon": {
-    "criteria": {
-      "axe": "2025-04-07 01:28:37 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
     "criteria": {
       "has_item": "2025-04-06 23:39:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-04-06 23:47:20 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_hydra": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-07 00:10:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/food/ambrosia": {
-    "criteria": {
-      "has_item": "2025-04-06 23:48:21 +0000"
     },
     "done": true
   },
@@ -5835,21 +5793,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
-    "criteria": {
-      "has_dragonscales_gray": "2025-04-06 23:58:06 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
     "criteria": {
       "has_item": "2025-04-06 23:39:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-04-06 23:47:20 +0000"
     },
     "done": true
   },
@@ -5859,15 +5805,51 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_stymphalian_bird": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-06 23:59:39 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
     "criteria": {
       "has_item": "2025-04-06 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-06 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+    "criteria": {
+      "has_item": "2025-04-06 23:39:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-04-06 23:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-04-06 23:47:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-04-06 23:47:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-04-06 23:48:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-06 23:58:06 +0000"
     },
     "done": true
   },
@@ -5883,12 +5865,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
-    "criteria": {
-      "has_item": "2025-04-06 23:39:08 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-04-06 23:58:06 +0000"
@@ -5901,9 +5877,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
     "criteria": {
-      "has_item": "2025-04-06 23:39:08 +0000"
+      "killed_fire_dragon": "2025-04-06 23:59:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_hydra": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-07 00:10:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/alligator_snapping_turtle": {
+    "criteria": {
+      "killed_by": "2025-04-07 00:22:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_iron_body": {
+    "criteria": {
+      "has_the_recipe": "2025-04-07 01:25:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "axe": "2025-04-07 01:28:37 +0000"
     },
     "done": true
   },
