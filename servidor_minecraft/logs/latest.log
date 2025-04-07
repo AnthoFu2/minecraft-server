@@ -1075,3 +1075,63 @@
 [07Apr2025 02:23:22.217] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:49221] logged in with entity id 193419 at (105.59069931390042, 66.0, -519.0592687063228)
 [07Apr2025 02:23:22.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
 [07Apr2025 02:23:22.297] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.217] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:14.218] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[07Apr2025 02:24:19.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Timed out
+[07Apr2025 02:24:19.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[07Apr2025 02:24:26.382] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/194049, l='ServerLevel[world]', x=-135.00, y=31.00, z=547.00] as it would cause deadlock
+[07Apr2025 02:24:30.421] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/194086, l='ServerLevel[world]', x=-18.00, y=31.00, z=664.00] as it would cause deadlock
+[07Apr2025 02:24:54.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no puedo jugar
+[07Apr2025 02:24:59.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] voy a dormir
+[07Apr2025 02:25:02.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ah
+[07Apr2025 02:25:12.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Te vas a quedar mucho rato en el server?
+[07Apr2025 02:25:12.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> te parede en al mañana que jugemos?
+[07Apr2025 02:25:28.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> y no
+[07Apr2025 02:25:30.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Si quieres, pero mañana me voy temprano a la uni para saber mis horarios
+[07Apr2025 02:25:30.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ya me salgo
+[07Apr2025 02:25:33.395] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/194413, l='ServerLevel[world]', x=124.16, y=72.41, z=-481.21] died, message: 'Unemployed was squished too much'
+[07Apr2025 02:25:39.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ah bueno
+[07Apr2025 02:25:44.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> hay me avisas bby
+[07Apr2025 02:25:46.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Me avisas para apagar el server
+[07Apr2025 02:25:53.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ya apagalo ya me sango
+[07Apr2025 02:25:54.611] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[07Apr2025 02:25:54.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[07Apr2025 02:25:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Apr2025 02:25:56.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Apr2025 02:25:56.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Apr2025 02:25:56.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Apr2025 02:25:56.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Apr2025 02:25:56.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Apr2025 02:25:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Apr2025 02:25:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Apr2025 02:25:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Apr2025 02:25:56.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[07Apr2025 02:25:57.923] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@5e7e2d98
+[07Apr2025 02:25:57.926] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
