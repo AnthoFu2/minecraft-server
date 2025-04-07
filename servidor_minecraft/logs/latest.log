@@ -938,3 +938,8 @@
 [07Apr2025 01:47:36.573] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/177288, l='ServerLevel[world]', x=-447.10, y=31.00, z=-154.00] as it would cause deadlock
 [07Apr2025 01:47:41.418] [Worker-Main-66/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/177321, l='ServerLevel[world]', x=-473.00, y=31.00, z=-71.00] as it would cause deadlock
 [07Apr2025 01:48:35.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171234, l='ServerLevel[world]', x=124.12, y=72.40, z=-481.12] died, message: 'Unemployed was squished too much'
+[07Apr2025 01:53:48.202] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171229, l='ServerLevel[world]', x=116.84, y=71.90, z=-485.43] died, message: 'Unemployed was slain by Zombie'
+[07Apr2025 01:58:28.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/181886, l='ServerLevel[world]', x=124.17, y=72.39, z=-481.17] died, message: 'Unemployed was squished too much'
+[07Apr2025 02:00:20.461] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku lost connection: Timed out
+[07Apr2025 02:00:20.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku left the game
+[07Apr2025 02:02:42.295] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/185241, l='ServerLevel[world]', x=124.14, y=72.37, z=-481.22] died, message: 'Unemployed was squished too much'

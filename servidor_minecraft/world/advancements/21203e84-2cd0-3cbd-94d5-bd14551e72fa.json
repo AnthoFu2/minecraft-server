@@ -294,6 +294,7 @@
       "minecraft:beach": "2025-03-30 14:19:07 +0000",
       "minecraft:dark_forest": "2025-04-01 00:57:49 +0000",
       "minecraft:stony_peaks": "2025-04-04 00:49:44 +0000",
+      "minecraft:mangrove_swamp": "2025-04-07 01:53:58 +0000",
       "minecraft:sparse_jungle": "2025-03-30 14:24:49 +0000",
       "minecraft:river": "2025-03-30 14:19:19 +0000",
       "minecraft:lukewarm_ocean": "2025-04-01 01:05:18 +0000",
@@ -4778,9 +4779,21 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-04-07 01:59:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-07 01:59:03 +0000"
     },
     "done": true
   },
@@ -4793,6 +4806,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-07 00:59:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-07 01:59:03 +0000"
     },
     "done": true
   },
@@ -4919,6 +4938,12 @@
   "minecraft:recipes/redstone/observer": {
     "criteria": {
       "has_quartz": "2025-04-07 01:05:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-07 01:59:03 +0000"
     },
     "done": true
   },
