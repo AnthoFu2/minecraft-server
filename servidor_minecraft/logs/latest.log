@@ -888,3 +888,25 @@
 [07Apr2025 01:31:49.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> adios
 [07Apr2025 01:32:26.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ni modo
 [07Apr2025 01:32:31.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no lo intentare mas
+[07Apr2025 01:32:44.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] en 30 minutos cierro el sv
+[07Apr2025 01:33:39.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -11.016038171951436,0.0,-1.5780216846840176
+[07Apr2025 01:34:28.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has completed the challenge [The Power of the Sun]
+[07Apr2025 01:35:33.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:35:35.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:35:35.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! -4.683331508961373,0.0,-9.007604180236484
+[07Apr2025 01:35:36.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:35:38.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:35:39.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:35:45.428] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:35:46.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:35:47.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:35:47.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:35:48.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[07Apr2025 01:36:20.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 8.609660136433831,0.0,-6.069180452333072
+[07Apr2025 01:36:20.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 10.426262741042365,0.0,-7.196850158143775
+[07Apr2025 01:36:20.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! -9.184622313958926,0.0,5.5469135797278
+[07Apr2025 01:36:20.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! -9.184622313958926,0.0,5.5469135797278
+[07Apr2025 01:39:22.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [The Song of the Dragons]
+[07Apr2025 01:39:31.595] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171208, l='ServerLevel[world]', x=124.14, y=72.47, z=-481.10] died, message: 'Unemployed was squished too much'
+[07Apr2025 01:40:30.648] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171233, l='ServerLevel[world]', x=124.70, y=72.39, z=-481.23] died, message: 'Unemployed was squished too much'
+[07Apr2025 01:40:59.396] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/171231, l='ServerLevel[world]', x=124.12, y=72.41, z=-481.11] died, message: 'Unemployed was squished too much'
