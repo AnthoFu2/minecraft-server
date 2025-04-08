@@ -1,448 +1,194 @@
-[08Apr2025 00:01:36.881] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[08Apr2025 00:01:36.919] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[08Apr2025 00:01:36.950] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[08Apr2025 00:01:36.950] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[08Apr2025 00:01:37.047] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[08Apr2025 00:01:37.051] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[08Apr2025 00:01:37.055] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[08Apr2025 00:01:37.183] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[08Apr2025 00:01:37.205] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[08Apr2025 00:01:37.319] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[08Apr2025 00:01:37.359] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[08Apr2025 00:01:37.360] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[08Apr2025 00:02:03.815] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[08Apr2025 00:02:06.606] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@115d2cd6[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:37647): Took too long to log in
-[08Apr2025 00:02:06.607] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@115d2cd6[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:37647) lost connection: Took too long to log in
-[08Apr2025 00:02:06.659] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[08Apr2025 00:02:35.204] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[08Apr2025 00:02:35.320] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[08Apr2025 00:02:35.320] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[08Apr2025 00:02:35.418] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[08Apr2025 00:02:35.451] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[08Apr2025 00:02:35.912] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[08Apr2025 00:02:35.912] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[08Apr2025 00:02:35.915] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[08Apr2025 00:02:35.917] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[08Apr2025 00:02:35.921] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[08Apr2025 00:02:35.924] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[08Apr2025 00:02:35.924] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[08Apr2025 00:02:56.284] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[08Apr2025 00:03:01.053] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[08Apr2025 00:03:01.054] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[08Apr2025 00:03:01.316] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[08Apr2025 00:03:03.517] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[08Apr2025 00:03:05.100] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1a978e2f[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:35921): Took too long to log in
-[08Apr2025 00:03:05.101] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a978e2f[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:35921) lost connection: Took too long to log in
-[08Apr2025 00:03:05.152] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[08Apr2025 00:03:46.821] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[08Apr2025 00:03:46.918] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[08Apr2025 00:03:46.918] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[08Apr2025 00:03:46.999] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[08Apr2025 00:03:47.091] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[08Apr2025 00:03:47.092] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[08Apr2025 00:03:47.190] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[08Apr2025 00:03:47.211] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[08Apr2025 00:03:47.281] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[08Apr2025 00:03:47.285] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[08Apr2025 00:03:47.476] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[08Apr2025 00:03:47.476] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[08Apr2025 00:03:59.237] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[08Apr2025 00:04:00.775] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[08Apr2025 00:04:00.775] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[08Apr2025 00:04:00.777] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[08Apr2025 00:04:01.433] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[08Apr2025 00:04:03.596] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:53153] logged in with entity id 4812 at (97.5117398029912, 72.0, -517.2019728890391)
-[08Apr2025 00:04:03.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
-[08Apr2025 00:04:03.739] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
-[08Apr2025 00:04:25.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> nya
-[08Apr2025 00:04:34.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [Nightmare Fuel]
-[08Apr2025 00:04:47.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=156, y=47, z=1} BlockPos{x=156, y=48, z=2}
-[08Apr2025 00:04:52.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=163, y=45, z=9} BlockPos{x=163, y=44, z=9}
-[08Apr2025 00:04:57.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.585] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.586] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.587] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:04:57.589] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:05:03.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=164, y=35, z=13} BlockPos{x=164, y=34, z=13}
-[08Apr2025 00:05:03.679] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
-[08Apr2025 00:05:03.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
-[08Apr2025 00:05:44.682] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[08Apr2025 00:05:44.817] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[08Apr2025 00:05:44.857] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[08Apr2025 00:05:44.858] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[08Apr2025 00:05:44.950] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[08Apr2025 00:05:44.964] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[08Apr2025 00:05:44.965] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[08Apr2025 00:05:45.085] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[08Apr2025 00:05:45.086] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[08Apr2025 00:05:45.215] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[08Apr2025 00:05:45.255] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[08Apr2025 00:05:45.256] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[08Apr2025 00:05:46.888] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[08Apr2025 00:05:47.069] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[08Apr2025 00:05:47.109] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[08Apr2025 00:05:47.110] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[08Apr2025 00:05:47.110] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[08Apr2025 00:05:48.633] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:43919] logged in with entity id 5939 at (99.1353012584284, 72.0, -512.4396873558329)
-[08Apr2025 00:05:48.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
-[08Apr2025 00:05:48.760] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
-[08Apr2025 00:06:14.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
-[08Apr2025 00:06:53.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/385, l='ServerLevel[world]', x=124.10, y=72.68, z=-481.70] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:08:53.775] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/8515, l='ServerLevel[world]', x=386.00, y=31.00, z=97.00] as it would cause deadlock
-[08Apr2025 00:10:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [Into Fire]
-[08Apr2025 00:12:00.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/389, l='ServerLevel[world]', x=124.12, y=72.38, z=-481.12] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:12:40.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[08Apr2025 00:14:59.426] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[08Apr2025 00:14:59.463] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[08Apr2025 00:14:59.503] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[08Apr2025 00:14:59.504] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[08Apr2025 00:14:59.533] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[08Apr2025 00:14:59.565] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[08Apr2025 00:14:59.644] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[08Apr2025 00:14:59.651] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[08Apr2025 00:14:59.753] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[08Apr2025 00:14:59.770] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[08Apr2025 00:14:59.849] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[08Apr2025 00:14:59.863] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[08Apr2025 00:15:03.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 00:15:12.817] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[08Apr2025 00:15:15.190] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[08Apr2025 00:15:15.192] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[08Apr2025 00:15:15.212] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[08Apr2025 00:15:15.647] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[08Apr2025 00:15:17.473] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_small_lungs] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
-[08Apr2025 00:15:17.473] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_disable_shield] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
-[08Apr2025 00:15:17.473] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_heavy_armor] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
-[08Apr2025 00:15:17.474] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_slowdown] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.474] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_more_fire_exp_dmg] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.474] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_is_shaking] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.474] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks_5] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.475] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.475] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.475] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_wetness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.475] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_no_freezing] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.475] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_effect_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.475] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_snowness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.475] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.475] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_water] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
-[08Apr2025 00:15:17.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:56883] logged in with entity id 14295 at (97.5117398029912, 72.0, -517.2019728890391)
-[08Apr2025 00:15:17.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
-[08Apr2025 00:15:17.599] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
-[08Apr2025 00:15:38.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> uwu
-[08Apr2025 00:15:49.702] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/382, l='ServerLevel[world]', x=116.84, y=71.90, z=-485.43] died, message: 'Unemployed was slain by Zombie'
-[08Apr2025 00:16:17.478] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.479] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.479] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.479] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.480] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.480] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.480] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.480] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.480] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.480] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.480] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.481] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.482] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.482] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.482] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.482] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.482] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.482] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.482] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.482] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
-[08Apr2025 00:16:17.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
-[08Apr2025 00:16:17.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
-[08Apr2025 00:16:52.511] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku lost connection: Disconnected
-[08Apr2025 00:16:52.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku left the game
-[08Apr2025 00:16:55.003] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[08Apr2025 00:16:55.096] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[08Apr2025 00:16:55.190] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[08Apr2025 00:16:55.209] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[08Apr2025 00:16:55.275] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[08Apr2025 00:16:55.279] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[08Apr2025 00:16:55.367] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[08Apr2025 00:16:55.367] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[08Apr2025 00:16:55.456] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[08Apr2025 00:16:55.456] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[08Apr2025 00:16:55.551] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[08Apr2025 00:16:55.599] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[08Apr2025 00:16:56.208] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[08Apr2025 00:16:56.214] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[08Apr2025 00:16:56.214] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[08Apr2025 00:16:56.254] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[08Apr2025 00:16:56.255] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[08Apr2025 00:16:58.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OinkOtaku[/127.165.213.184:52173] logged in with entity id 15106 at (78.69999998807907, -1.0, -451.30000001192093)
-[08Apr2025 00:16:58.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku joined the game
-[08Apr2025 00:16:58.982] [Server thread/INFO] [Jade/]: Syncing config to OinkOtaku (21203e84-2cd0-3cbd-94d5-bd14551e72fa)
-[08Apr2025 00:17:01.680] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[08Apr2025 00:18:20.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[08Apr2025 00:20:33.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[08Apr2025 00:22:03.227] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/18039, l='ServerLevel[world]', x=-262.00, y=31.00, z=-600.00] as it would cause deadlock
-[08Apr2025 00:25:01.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[08Apr2025 00:25:28.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[08Apr2025 00:25:48.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[08Apr2025 00:26:59.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Fetch Me Their Souls!]
-[08Apr2025 00:28:10.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/397, l='ServerLevel[world]', x=124.17, y=72.48, z=-481.10] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:28:15.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[08Apr2025 00:31:24.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/392, l='ServerLevel[world]', x=124.70, y=72.30, z=-481.22] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:33:26.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Applied effect Night Vision to Yuha150]
-[08Apr2025 00:35:44.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/395, l='ServerLevel[world]', x=124.21, y=72.39, z=-481.15] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:36:09.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/396, l='ServerLevel[world]', x=124.15, y=72.46, z=-481.19] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:38:34.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/388, l='ServerLevel[world]', x=124.18, y=72.40, z=-481.10] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:41:10.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/394, l='ServerLevel[world]', x=124.23, y=72.38, z=-481.30] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:42:40.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported Yuha150 to RED_WasT4ken]
-[08Apr2025 00:43:21.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> Mordecai
-[08Apr2025 00:44:30.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[08Apr2025 00:45:43.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 4.499098183213391,0.0,10.265862362601183
-[08Apr2025 00:45:43.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -3.349899254583761,0.0,-10.606196590284526
-[08Apr2025 00:51:50.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/391, l='ServerLevel[world]', x=124.70, y=72.30, z=-481.12] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:53:07.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Turtle['Fungus Turtle'/35659, l='ServerLevel[world]', x=-6771.40, y=67.00, z=-4716.73] died: Fungus Turtle went up in flames
-[08Apr2025 00:53:55.703] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/393, l='ServerLevel[world]', x=124.17, y=72.42, z=-481.10] died, message: 'Unemployed was squished too much'
-[08Apr2025 00:55:37.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.3693756577767999
-[08Apr2025 00:55:37.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.835088658854147
-[08Apr2025 00:55:37.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 3.1278475258041
-[08Apr2025 00:55:37.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 4.268060846454318
-[08Apr2025 00:56:06.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 6.212879988163877,0.0,-9.575407087952954
-[08Apr2025 00:56:06.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 6.947282898459889,0.0,-11.400366815818415
-[08Apr2025 00:56:06.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 7.621245567245751,0.0,-13.271309298391316
-[08Apr2025 00:56:06.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 8.241899943019234,0.0,-15.182808570614725
-[08Apr2025 00:56:06.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.4401727527874755,0.0,13.312189354710426
-[08Apr2025 00:56:06.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.4401727527874755,0.0,13.312189354710426
-[08Apr2025 00:56:06.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.4401727527874755,0.0,13.312189354710426
-[08Apr2025 00:56:06.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.4401727527874755,0.0,13.312189354710426
-[08Apr2025 00:56:06.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -3.9707935900960365,0.0,11.28168479912165
-[08Apr2025 00:57:48.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[08Apr2025 00:58:48.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 0.8202038324409813
-[08Apr2025 00:58:48.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.8642395606800903
-[08Apr2025 00:58:48.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 0.9306855162994623
-[08Apr2025 00:59:42.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 10.353484699191426,0.0,-0.5604200835682605
-[08Apr2025 00:59:42.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 12.138356202226987,0.0,-0.6810629456884953
-[08Apr2025 00:59:42.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 13.974409724708948,0.0,-0.8084981455278921
-[08Apr2025 00:59:43.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 10.465440579949018,0.0,-0.8077305985954126
-[08Apr2025 00:59:43.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 12.599271450170704,0.0,-0.9746836668746255
-[08Apr2025 00:59:43.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 14.74344827878258,0.0,-1.1381672143036212
-[08Apr2025 00:59:43.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 16.896879189343167,0.0,-1.2963533184305334
-[08Apr2025 00:59:43.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 19.058472200182564,0.0,-1.4498670775650453
-[08Apr2025 00:59:43.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 21.227264183467923,0.0,-1.5992598284161659
-[08Apr2025 00:59:43.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 23.40254719336906,0.0,-1.7420499626990704
-[08Apr2025 00:59:43.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 25.58366245989464,0.0,-1.8760724601542051
-[08Apr2025 00:59:43.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 27.770010005888935,0.0,-1.9986362941126572
-[08Apr2025 00:59:43.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 29.960983521461003,0.0,-2.1103634430534157
-[08Apr2025 00:59:43.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 23.813084105808457,0.0,-1.5702497388343772
-[08Apr2025 00:59:43.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 26.011741326148353,0.0,-1.6636111422370732
-[08Apr2025 00:59:43.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 28.213576921335743,0.0,-1.7492040754309528
-[08Apr2025 00:59:44.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 11.10633629559868,0.0,-0.20656092824469852
-[08Apr2025 00:59:44.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 13.329007420560288,0.0,-0.2433988594503944
-[08Apr2025 00:59:44.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 15.539447044042731,0.0,-0.17944222443145463
-[08Apr2025 00:59:44.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 11.045178718213833,0.0,0.3731604774363859
-[08Apr2025 00:59:44.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 13.23949882692932,0.0,0.5738906379699529
-[08Apr2025 00:59:46.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 11.10419030186199,0.0,0.05042139130637224
-[08Apr2025 01:00:13.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -10.113801953288316,0.0,-0.4000736947534733
-[08Apr2025 01:00:13.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -11.888745972980985,0.0,-0.35488263179422574
-[08Apr2025 01:01:17.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 0.6175354859775553,0.04715034339574231,11.093131958528716
-[08Apr2025 01:01:38.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 0.46638680210602956,0.0,11.116249903548571
-[08Apr2025 01:02:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[08Apr2025 01:02:51.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RED_WasT4ken lost connection: Disconnected
-[08Apr2025 01:02:51.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken left the game
-[08Apr2025 01:03:34.604] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[08Apr2025 01:04:25.858] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
-[08Apr2025 01:04:25.859] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
-[08Apr2025 01:04:25.865] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
-[08Apr2025 01:04:25.865] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
-[08Apr2025 01:04:25.865] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
-[08Apr2025 01:04:26.444] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
-[08Apr2025 01:04:26.445] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
-[08Apr2025 01:04:26.445] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
-[08Apr2025 01:04:26.445] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
-[08Apr2025 01:04:26.445] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
-[08Apr2025 01:04:26.452] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
-[08Apr2025 01:04:26.452] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
-[08Apr2025 01:04:26.452] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
-[08Apr2025 01:04:51.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.549661008257544,0.0,-7.123805959261745
-[08Apr2025 01:04:55.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.209320710479005,0.0,-7.511265696285022
-[08Apr2025 01:04:55.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 8.193324322748822,0.0,7.529659035210301
-[08Apr2025 01:04:56.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.196092806023898,0.0,-7.526654729158452
-[08Apr2025 01:04:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 9.901415422953278,0.0,8.958476382595109
-[08Apr2025 01:04:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 8.240531105251648,0.0,7.477607915192095
-[08Apr2025 01:05:13.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -9.198327892959014,0.0,-5.9721200963203955
-[08Apr2025 01:05:13.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.367347679969726,0.0,-7.335881363580825
-[08Apr2025 01:05:13.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -11.015252894569585,0.0,-7.217042484571266
-[08Apr2025 01:05:13.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -10.037559997550034,0.0,-8.806844684609246
-[08Apr2025 01:05:13.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -12.826677322394062,0.0,-8.474255721083182
-[08Apr2025 01:05:13.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 10.01649979813601,0.0,8.831391409764478
-[08Apr2025 01:05:13.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 10.01649979813601,0.0,8.831391409764478
-[08Apr2025 01:05:13.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 8.34872017075486,0.0,7.35756870578723
-[08Apr2025 01:05:42.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 0.8471825445376453,-7.6517227060382424,7.575927179912014
-[08Apr2025 01:05:42.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 8.318504818807014,0.0,7.39261254901362
-[08Apr2025 01:05:42.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.0072727857591417,-9.211851521842078,9.113264164883276
-[08Apr2025 01:05:42.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 9.982487763649033,0.0,8.87082750122903
-[08Apr2025 01:05:42.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.1650679521226266,-10.779294181214084,10.656040696940863
-[08Apr2025 01:05:42.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 11.646539951927025,0.0,10.348966929426751
-[08Apr2025 01:05:42.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.3208388624607323,-12.353187650613222,12.203614909528483
-[08Apr2025 01:05:42.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 13.310653212915668,0.0,11.827039745440857
-[08Apr2025 01:05:42.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.4748243789849766,-13.932770734456298,13.75542067634376
-[08Apr2025 01:05:42.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 14.974820340034967,0.0,13.305053809509047
-[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.6272351781649377,-15.51737205823892,15.31095867398767
-[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 16.639034977081565,0.0,14.783016054360928
-[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.7782570766476056,-17.106399469648224,16.869788499222523
-[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 18.303291517883963,0.0,16.260932594663984
-[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.9265845535915105,-18.699330690344254,18.431646403457762
-[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 19.967585017799138,0.0,17.73880882355502
-[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 2.064691115097048,-20.29570507083119,19.996644550583028
-[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 21.631911115651747,0.0,19.216649497780622
-[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 2.12566621393853,-21.8951163182537,21.554415009440163
-[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 23.29626596488515,0.0,20.69445881279131
-[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 24.960646172836277,0.0,22.17224046897445
-[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 2.0751571490386596,-23.497206082313383,23.084286374913177
-[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.8590107557024567,-25.101658298047056,24.509401739132272
-[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 26.625048747176606,0.0,23.649997730071732
-[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.4824472020568464,-26.70819419615718,25.79124180060387
-[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 28.289471048672112,0.0,25.127733474703234
-[08Apr2025 01:05:42.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 0.9633223219675529,-28.31656790212334,26.90702125406756
-[08Apr2025 01:05:42.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 29.953910749518627,0.0,26.60545024181198
-[08Apr2025 01:05:42.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 0.31885947042201224,-29.926562554618528,27.87192948883012
-[08Apr2025 01:05:42.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 31.61836579659257,0.0,28.08315027074559
-[08Apr2025 01:05:42.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -0.4361514719475963,-31.537986881952307,28.703769308698384
-[08Apr2025 01:05:42.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 33.282834379039286,0.0,29.56083553660875
-[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -1.2886658304241791,-33.150672182493736,29.41824278662989
-[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 34.94731489968467,0.0,31.038507781443798
-[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -2.2271782019074635,-34.764469661404306,30.029199150973113
-[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 36.611805949821246,0.0,32.51616854173204
-[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -3.2415408208621557,-36.37924808163646,30.548853421131525
-[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 38.276306286968975,0.0,33.99381917264998
-[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.323315075948813,-37.438567114308654,30.99385554423509
-[08Apr2025 01:05:42.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 39.94081481526064,0.0,35.47146086946333
-[08Apr2025 01:05:42.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -6.149510554760582,-31.53008992826082,25.342003568648124
-[08Apr2025 01:05:42.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 34.950730186879355,0.0,31.03478271773622
-[08Apr2025 01:05:42.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -7.342952295984105,-31.890321748754587,25.709043047943965
-[08Apr2025 01:05:42.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 36.6152523118476,0.0,32.51240958461494
-[08Apr2025 01:05:42.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.581971898824122,-32.39945525826312,26.053751284982127
-[08Apr2025 01:05:42.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -9.860899538467947,-33.039920057482675,26.381209848269123
-[08Apr2025 01:05:44.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.34256036904491793
-[08Apr2025 01:05:44.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.7177876488593711
-[08Apr2025 01:05:44.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.1019335954537155
-[08Apr2025 01:05:44.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.493945806147849
-[08Apr2025 01:05:44.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.891881816581872
-[08Apr2025 01:05:44.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.39924754799733364
-[08Apr2025 01:05:44.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.40377556191606345
-[08Apr2025 01:05:44.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.8230937151662374
-[08Apr2025 01:05:44.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.408831197399536
-[08Apr2025 01:05:44.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.41222834068878456
-[08Apr2025 01:05:44.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.8390018448164938
-[08Apr2025 01:05:44.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.41478129075858305
-[08Apr2025 01:05:45.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.4164620778352628
-[08Apr2025 01:05:45.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.8475952642411357
-[08Apr2025 01:05:45.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.2820424955876888
-[08Apr2025 01:05:45.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.4215495181655342
-[08Apr2025 01:05:45.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.871263982303617
-[08Apr2025 01:05:45.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.4356407436026757
-[08Apr2025 01:05:45.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.43686663557843985
-[08Apr2025 01:05:45.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.45003550732735675
-[08Apr2025 01:05:45.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.861232030395854
-[08Apr2025 01:05:45.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.2017409341434586
-[08Apr2025 01:05:45.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.3413279596728671
-[08Apr2025 01:05:45.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.3021278116683561
-[08Apr2025 01:05:45.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.46265056843560615
-[08Apr2025 01:05:47.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.39778258029912195
-[08Apr2025 01:05:47.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.1445451419897381
-[08Apr2025 01:05:47.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.8926025825301167
-[08Apr2025 01:05:47.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 2.6413528869259153
-[08Apr2025 01:05:49.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 7.258255935225179,0.0,8.435423669305806
-[08Apr2025 01:05:49.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 8.71254500596865,0.0,10.120250257305884
-[08Apr2025 01:06:58.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Welcome To The Machine]
-[08Apr2025 01:07:03.510] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:monument took 1 ms
-[08Apr2025 01:07:25.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 3.2033809850123873,0.0,9.607700326582972
-[08Apr2025 01:07:31.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -0.6082532998084886,0.0,10.351002784484763
-[08Apr2025 01:07:45.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 2.003194533375705,0.0,10.932740618756043
-[08Apr2025 01:08:12.430] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/74097, l='ServerLevel[world]', x=339.50, y=36.00, z=1368.50] as it would cause deadlock
-[08Apr2025 01:08:13.939] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/74230, l='ServerLevel[world]', x=306.50, y=48.00, z=1345.50]
-[08Apr2025 01:10:17.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:10:18.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:11:59.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:00.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/81855, l='ServerLevel[world]', x=-6761.57, y=229.00, z=-5594.33] died: Gearling was slain by Yuha150
-[08Apr2025 01:12:02.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:02.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/81765, l='ServerLevel[world]', x=-6760.97, y=229.00, z=-5595.25] died: Gearling was slain by Yuha150
-[08Apr2025 01:12:06.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:07.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:08.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:09.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Gearling
-[08Apr2025 01:12:09.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/81866, l='ServerLevel[world]', x=-6767.08, y=229.00, z=-5591.66] died: Gearling was slain by Yuha150
-[08Apr2025 01:12:11.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:12.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:12.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:14.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:14.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:15.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:16.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:17.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:17.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:21.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82731, l='ServerLevel[world]', x=-6765.61, y=229.00, z=-5593.36] died: Gearling was slain by Yuha150
-[08Apr2025 01:12:23.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:24.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:26.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:27.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
-[08Apr2025 01:12:29.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:12:30.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
-[08Apr2025 01:13:29.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82798, l='ServerLevel[world]', x=-6775.51, y=230.50, z=-5596.85] died: Gearling was slain by Yuha150
-[08Apr2025 01:13:48.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83791, l='ServerLevel[world]', x=-6769.90, y=224.00, z=-5602.46] died: Gearling was slain by Yuha150
-[08Apr2025 01:14:45.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82800, l='ServerLevel[world]', x=-6762.27, y=241.00, z=-5595.71] died: Gearling was slain by Yuha150
-[08Apr2025 01:14:45.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/84524, l='ServerLevel[world]', x=-6762.85, y=241.00, z=-5595.46] died: Gearling was slain by Yuha150
-[08Apr2025 01:14:57.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85004, l='ServerLevel[world]', x=-6761.72, y=229.00, z=-5595.59] died: Gearling was slain by Yuha150
-[08Apr2025 01:14:57.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85095, l='ServerLevel[world]', x=-6761.07, y=229.00, z=-5596.03] died: Gearling was slain by Yuha150
-[08Apr2025 01:14:58.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/84685, l='ServerLevel[world]', x=-6760.62, y=229.00, z=-5595.39] died: Gearling was slain by Yuha150
-[08Apr2025 01:14:59.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83915, l='ServerLevel[world]', x=-6759.76, y=229.00, z=-5596.49] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:04.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82728, l='ServerLevel[world]', x=-6766.49, y=229.00, z=-5596.10] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:06.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82732, l='ServerLevel[world]', x=-6769.26, y=230.17, z=-5593.56] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:08.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85872, l='ServerLevel[world]', x=-6765.53, y=233.00, z=-5596.85] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:08.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85912, l='ServerLevel[world]', x=-6766.27, y=233.00, z=-5596.40] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:11.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85428, l='ServerLevel[world]', x=-6765.35, y=233.00, z=-5596.08] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:11.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85444, l='ServerLevel[world]', x=-6765.20, y=233.00, z=-5596.63] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:11.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85674, l='ServerLevel[world]', x=-6765.52, y=233.00, z=-5596.94] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:11.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/84011, l='ServerLevel[world]', x=-6765.56, y=233.00, z=-5596.52] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:11.976] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85311, l='ServerLevel[world]', x=-6765.88, y=233.00, z=-5596.50] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:13.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85788, l='ServerLevel[world]', x=-6764.48, y=233.00, z=-5595.65] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:16.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/86000, l='ServerLevel[world]', x=-6765.78, y=233.00, z=-5596.57] died: Gearling was slain by Yuha150
-[08Apr2025 01:15:18.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85992, l='ServerLevel[world]', x=-6769.05, y=233.00, z=-5595.50] died: Gearling was slain by Yuha150
-[08Apr2025 01:18:37.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/87276, l='ServerLevel[world]', x=-6701.21, y=212.06, z=-5552.49] died: Gearling was slain by Yuha150
-[08Apr2025 01:21:16.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was shot by Skeleton
-[08Apr2025 01:21:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
-[08Apr2025 01:25:24.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> -160 63 1375
-[08Apr2025 01:33:03.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Wither Skeleton
-[08Apr2025 01:33:10.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
-[08Apr2025 01:36:24.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/99040, l='ServerLevel[world]', x=-6720.35, y=258.00, z=-5551.53] died: Gearling was slain by Yuha150
-[08Apr2025 01:36:25.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/99068, l='ServerLevel[world]', x=-6720.81, y=258.42, z=-5550.45] died: Gearling was slain by Yuha150
-[08Apr2025 01:36:28.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/99013, l='ServerLevel[world]', x=-6721.31, y=258.00, z=-5551.74] died: Gearling was slain by Yuha150
+[08Apr2025 02:31:51.986] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[08Apr2025 02:31:51.990] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[08Apr2025 02:31:56.569] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[08Apr2025 02:31:56.655] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/minecraft-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[08Apr2025 02:31:57.243] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[08Apr2025 02:31:57.245] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Apr2025 02:31:57.246] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Apr2025 02:31:57.247] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[08Apr2025 02:31:57.639] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[08Apr2025 02:31:57.640] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[08Apr2025 02:32:00.455] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Apr2025 02:32:00.547] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[08Apr2025 02:32:00.877] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[08Apr2025 02:32:00.878] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[08Apr2025 02:32:00.901] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[08Apr2025 02:32:01.033] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[08Apr2025 02:32:01.082] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Apr2025 02:32:01.095] [main/WARN] [mixin/]: Reference map 'integrated_simply_swords-forge-forge-refmap.json' for integrated_simply_swords.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Apr2025 02:32:01.116] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 89 options available, 0 override(s) found
+[08Apr2025 02:32:03.500] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[08Apr2025 02:32:03.946] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: com/sun/jna/Platform
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 22 more
+[08Apr2025 02:32:04.075] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (16.92 s after launch)
+[08Apr2025 02:32:04.533] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[08Apr2025 02:32:04.534] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[08Apr2025 02:32:08.029] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3950 milliseconds
+[08Apr2025 02:32:13.839] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[08Apr2025 02:32:14.027] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[08Apr2025 02:32:14.464] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[08Apr2025 02:32:14.466] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[08Apr2025 02:32:14.471] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[08Apr2025 02:32:14.473] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[08Apr2025 02:32:14.476] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[08Apr2025 02:32:14.477] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[08Apr2025 02:32:14.482] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[08Apr2025 02:32:14.483] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[08Apr2025 02:32:14.574] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[08Apr2025 02:32:14.660] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[08Apr2025 02:32:14.660] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[08Apr2025 02:32:14.660] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[08Apr2025 02:32:14.666] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[08Apr2025 02:32:14.667] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[08Apr2025 02:32:14.667] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[08Apr2025 02:32:14.667] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[08Apr2025 02:32:14.907] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[08Apr2025 02:32:14.907] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[08Apr2025 02:32:14.963] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[08Apr2025 02:32:15.185] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[08Apr2025 02:32:15.185] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[08Apr2025 02:32:19.501] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[08Apr2025 02:32:20.158] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[08Apr2025 02:32:20.500] [main/INFO] [journeymap/]: Initializing Packet Registries
+[08Apr2025 02:32:20.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[08Apr2025 02:32:20.762] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[08Apr2025 02:32:20.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[08Apr2025 02:32:20.869] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[08Apr2025 02:32:20.972] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[08Apr2025 02:32:20.973] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[08Apr2025 02:32:20.986] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[08Apr2025 02:32:21.002] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[08Apr2025 02:32:21.005] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[08Apr2025 02:32:21.007] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[08Apr2025 02:32:21.095] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
+[08Apr2025 02:32:21.096] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Apr2025 02:32:21.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[08Apr2025 02:32:21.192] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[08Apr2025 02:32:21.585] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[08Apr2025 02:32:21.590] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[08Apr2025 02:32:21.590] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[08Apr2025 02:32:21.621] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Apr2025 02:32:21.692] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[08Apr2025 02:32:21.933] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[08Apr2025 02:32:21.933] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[08Apr2025 02:32:24.288] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
+[08Apr2025 02:32:24.295] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[08Apr2025 02:32:25.836] [Worker-Main-1/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23178!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23178!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[08Apr2025 02:32:27.805] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[08Apr2025 02:32:27.944] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1980 advancements
+[08Apr2025 02:32:28.943] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[08Apr2025 02:32:28.947] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[08Apr2025 02:32:29.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[08Apr2025 02:32:29.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[08Apr2025 02:32:29.177] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[08Apr2025 02:32:29.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[08Apr2025 02:32:29.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[08Apr2025 02:32:29.524] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Apr2025 02:32:29.529] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: req: https://broker.e4mc.link/getBestRelay GET
+[08Apr2025 02:32:29.599] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[08Apr2025 02:32:29.608] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08Apr2025 02:32:29.608] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[08Apr2025 02:32:29.608] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08Apr2025 02:32:29.609] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[08Apr2025 02:32:29.676] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[08Apr2025 02:32:29.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[08Apr2025 02:32:29.948] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: resp: (GET https://broker.e4mc.link/getBestRelay) 200
+[08Apr2025 02:32:29.949] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: using relay na
+[08Apr2025 02:32:30.410] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel open: [id: 0x307e188b, QuicStreamAddress{streamId=0}]
+[08Apr2025 02:32:30.412] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel write complete
+[08Apr2025 02:32:30.430] [nioEventLoopGroup-2-1/WARN] [e4mc_minecraft/]: e4mc running on Dedicated Server; This works, but isn't recommended as e4mc is designed for short-lived LAN servers
+[08Apr2025 02:32:30.431] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: Domain assigned: decrease-sunny.na.e4mc.link
+[08Apr2025 02:32:30.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[08Apr2025 02:32:31.131] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 02:32:31.132] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 02:32:31.610] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[08Apr2025 02:32:32.194] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[08Apr2025 02:32:32.518] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 1%
+[08Apr2025 02:32:33.039] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[08Apr2025 02:32:33.574] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 22%
+[08Apr2025 02:32:33.981] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3463 ms
+[08Apr2025 02:32:33.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (4.322s)! For help, type "help"
+[08Apr2025 02:32:34.022] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[08Apr2025 02:32:34.054] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[08Apr2025 02:32:34.055] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[08Apr2025 02:32:34.312] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 274565 bytes (in 28 string chunks with the size of 10000)
+[08Apr2025 02:32:34.313] [Server thread/WARN] [ModernFix/]: Dedicated server took 47.157 seconds to load
