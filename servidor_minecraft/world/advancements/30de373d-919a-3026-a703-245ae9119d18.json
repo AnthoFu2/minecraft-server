@@ -290,6 +290,7 @@
       "minecraft:cherry_grove": "2025-04-02 12:48:00 +0000",
       "minecraft:sunflower_plains": "2025-04-05 02:55:06 +0000",
       "minecraft:birch_forest": "2025-04-05 03:19:40 +0000",
+      "minecraft:windswept_hills": "2025-04-08 03:52:01 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 12:37:30 +0000",
       "minecraft:savanna_plateau": "2025-03-31 03:53:25 +0000",
       "minecraft:beach": "2025-03-30 12:42:17 +0000",
@@ -305,6 +306,7 @@
       "minecraft:snowy_taiga": "2025-04-05 15:39:22 +0000",
       "minecraft:grove": "2025-04-07 01:07:38 +0000",
       "minecraft:swamp": "2025-04-06 23:58:42 +0000",
+      "minecraft:jagged_peaks": "2025-04-08 04:04:59 +0000",
       "minecraft:cold_ocean": "2025-04-05 02:48:17 +0000",
       "minecraft:forest": "2025-03-31 03:52:30 +0000",
       "minecraft:lush_caves": "2025-03-30 12:58:16 +0000",
@@ -312,6 +314,7 @@
       "minecraft:ice_spikes": "2025-04-08 00:46:25 +0000",
       "minecraft:frozen_ocean": "2025-04-05 16:41:33 +0000",
       "minecraft:desert": "2025-04-05 01:41:06 +0000",
+      "minecraft:windswept_forest": "2025-04-08 03:53:20 +0000",
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
       "minecraft:jungle": "2025-03-30 14:55:03 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-05 03:22:33 +0000",
@@ -6235,51 +6238,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-04-08 02:47:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_stairs_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-04-08 02:51:16 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
-    "criteria": {
-      "has_the_recipe": "2025-04-08 03:03:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
-    "criteria": {
-      "has_the_recipe": "2025-04-08 03:04:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_waxed_oxidized_cut_copper_stonecutting": {
     "criteria": {
       "has_waxed_oxidized_cut_copper": "2025-04-08 02:51:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-04-08 02:53:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
-    "criteria": {
-      "has_the_recipe": "2025-04-08 03:03:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-08 03:21:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-04-08 03:21:39 +0000"
     },
     "done": true
   },
@@ -6295,9 +6268,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
-      "has_raw_iron_block": "2025-04-08 02:47:15 +0000"
+      "has_ender_eye": "2025-04-08 02:53:55 +0000"
     },
     "done": true
   },
@@ -6307,15 +6280,87 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/silver_block_to_silver_ingot": {
+  "iceandfire:recipes/combat/dragonarmor_diamond_body": {
     "criteria": {
-      "has_silver_block": "2025-04-08 03:16:26 +0000"
+      "has_the_recipe": "2025-04-08 03:03:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_tail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-08 03:03:59 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_diamond_neck": {
+    "criteria": {
+      "has_the_recipe": "2025-04-08 03:04:21 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/dragonarmor_diamond_head": {
     "criteria": {
       "has_the_recipe": "2025-04-08 03:04:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_block_to_silver_ingot": {
+    "criteria": {
+      "has_silver_block": "2025-04-08 03:16:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-08 03:21:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-08 03:21:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2025-04-08 03:36:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-04-08 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-04-08 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-04-08 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-04-08 03:55:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-08 04:06:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-04-08 04:06:04 +0000"
     },
     "done": true
   },
