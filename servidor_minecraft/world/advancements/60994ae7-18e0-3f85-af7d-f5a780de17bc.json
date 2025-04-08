@@ -4139,21 +4139,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2025-04-08 03:17:22 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2025-04-08 03:17:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonarmor": {
-    "criteria": {
-      "iron": "2025-04-08 03:17:22 +0000"
     },
     "done": true
   },
@@ -4169,15 +4157,69 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
+  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
     "criteria": {
-      "has_item": "2025-04-08 03:17:22 +0000"
+      "has_item": "2025-04-08 03:17:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
     "criteria": {
-      "has_smithing_trim_template": "2025-04-08 03:17:31 +0000"
+      "has_item": "2025-04-08 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
+    "criteria": {
+      "has_item": "2025-04-08 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
+    "criteria": {
+      "has_item": "2025-04-08 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-04-08 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
+    "criteria": {
+      "has_item": "2025-04-08 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-08 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+    "criteria": {
+      "has_item": "2025-04-08 03:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-08 03:17:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-04-08 03:17:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
+    "criteria": {
+      "has_item": "2025-04-08 03:17:22 +0000"
     },
     "done": true
   },
@@ -4199,12 +4241,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
-    "criteria": {
-      "has_item": "2025-04-08 03:17:21 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
     "criteria": {
       "has_item": "2025-04-08 03:17:22 +0000"
@@ -4223,12 +4259,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
-    "criteria": {
-      "has_item": "2025-04-08 03:17:21 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
     "criteria": {
       "has_item": "2025-04-08 03:17:22 +0000"
@@ -4241,27 +4271,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
-    "criteria": {
-      "has_item": "2025-04-08 03:17:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
-    "criteria": {
-      "has_vex_armor_trim_smithing_template": "2025-04-08 03:17:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-08 03:17:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
-    "criteria": {
-      "has_item": "2025-04-08 03:17:21 +0000"
     },
     "done": true
   },
@@ -4286,18 +4298,6 @@
   "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
     "criteria": {
       "has_dragonsteel_ice_ingot": "2025-04-08 03:17:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-04-08 03:17:21 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
-    "criteria": {
-      "has_item": "2025-04-08 03:17:21 +0000"
     },
     "done": true
   },
@@ -4337,12 +4337,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
-    "criteria": {
-      "has_item": "2025-04-08 03:17:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-08 03:17:22 +0000"
@@ -4379,9 +4373,171 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "has_item": "2025-04-08 03:17:21 +0000"
+      "has_smithing_trim_template": "2025-04-08 03:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-04-08 03:17:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-04-08 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-04-08 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-08 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-08 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-04-08 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-04-08 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-08 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-04-08 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-08 03:24:39 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_myrmex": {
+    "criteria": {
+      "chitin": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_axe": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_boots": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_sword": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_helmet": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/myrmex_jungle_leggings": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_shovel": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/myrmex_jungle_hoe": {
+    "criteria": {
+      "has_item": "2025-04-08 03:26:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-04-08 03:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-04-08 03:26:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-04-08 03:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-04-08 03:29:57 +0000"
     },
     "done": true
   },

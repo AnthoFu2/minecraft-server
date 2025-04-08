@@ -458,3 +458,62 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Apr2025 03:22:37.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Shhhhhhh
 [08Apr2025 03:22:41.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> shhhhhhhhhhhhhhhhhhhhh
 [08Apr2025 03:22:50.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> CALLATE
+[08Apr2025 03:23:01.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> hmm
+[08Apr2025 03:23:02.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> nahh
+[08Apr2025 03:23:04.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> en drops de mobs
+[08Apr2025 03:23:15.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> mobs vanilla
+[08Apr2025 03:24:01.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> mira, soy mujer
+[08Apr2025 03:24:18.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> el yuha cocina
+[08Apr2025 03:24:32.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> yuha es mujer
+[08Apr2025 03:25:05.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Shi
+[08Apr2025 03:25:22.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Ya pero mañana no tengo que ir temprano
+[08Apr2025 03:26:26.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> eso si no se
+[08Apr2025 03:26:28.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> en el tuyo
+[08Apr2025 03:26:47.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu has made the advancement [The Only Good Bug...]
+[08Apr2025 03:27:55.922] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5029, l='ServerLevel[world]', x=124.70, y=72.19, z=-481.70] died, message: 'Unemployed was squished too much'
+[08Apr2025 03:28:01.472] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5024, l='ServerLevel[world]', x=124.70, y=72.30, z=-481.70] died, message: 'Unemployed was squished too much'
+[08Apr2025 03:28:13.672] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5027, l='ServerLevel[world]', x=124.19, y=72.36, z=-481.22] died, message: 'Unemployed was squished too much'
+[08Apr2025 03:28:16.020] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5013, l='ServerLevel[world]', x=124.70, y=72.19, z=-481.70] died, message: 'Unemployed was squished too much'
+[08Apr2025 03:28:53.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> un q
+[08Apr2025 03:29:42.673] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5028, l='ServerLevel[world]', x=124.24, y=72.37, z=-481.12] died, message: 'Unemployed was squished too much'
+[08Apr2025 03:29:57.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu has made the advancement [Spooky Scary Skeleton]
+[08Apr2025 03:31:24.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> ?????????????????
+[08Apr2025 03:31:28.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> de donde coño sacaste eso
+[08Apr2025 03:31:43.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> de donde coño sacaste eso
+[08Apr2025 03:32:24.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[08Apr2025 03:32:24.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[08Apr2025 03:32:27.266] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Apr2025 03:32:27.360] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Apr2025 03:32:27.446] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Apr2025 03:32:27.447] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Apr2025 03:32:27.538] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Apr2025 03:32:27.538] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Apr2025 03:32:27.623] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Apr2025 03:32:27.711] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Apr2025 03:32:27.711] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Apr2025 03:32:27.792] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Apr2025 03:32:27.793] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Apr2025 03:32:27.854] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Apr2025 03:32:29.943] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Apr2025 03:32:30.582] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Apr2025 03:32:30.583] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Apr2025 03:32:30.583] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Apr2025 03:32:30.696] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[08Apr2025 03:32:31.246] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_heavy_armor] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:32:31.246] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_disable_shield] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:32:31.246] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_small_lungs] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:32:31.247] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_snowness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.247] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.247] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_more_fire_exp_dmg] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.247] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_wetness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.247] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.247] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_effect_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.247] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_is_shaking] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.248] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.248] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_no_freezing] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.248] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks_5] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.248] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_water] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.248] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_slowdown] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:32:31.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:34039] logged in with entity id 15197 at (61.150000005960464, 74.0, -475.39159220507605)
+[08Apr2025 03:32:31.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[08Apr2025 03:32:31.383] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
