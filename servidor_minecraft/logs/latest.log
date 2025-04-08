@@ -226,3 +226,223 @@
 [08Apr2025 00:42:40.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported Yuha150 to RED_WasT4ken]
 [08Apr2025 00:43:21.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> Mordecai
 [08Apr2025 00:44:30.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[08Apr2025 00:45:43.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 4.499098183213391,0.0,10.265862362601183
+[08Apr2025 00:45:43.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -3.349899254583761,0.0,-10.606196590284526
+[08Apr2025 00:51:50.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/391, l='ServerLevel[world]', x=124.70, y=72.30, z=-481.12] died, message: 'Unemployed was squished too much'
+[08Apr2025 00:53:07.560] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Turtle['Fungus Turtle'/35659, l='ServerLevel[world]', x=-6771.40, y=67.00, z=-4716.73] died: Fungus Turtle went up in flames
+[08Apr2025 00:53:55.703] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/393, l='ServerLevel[world]', x=124.17, y=72.42, z=-481.10] died, message: 'Unemployed was squished too much'
+[08Apr2025 00:55:37.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.3693756577767999
+[08Apr2025 00:55:37.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.835088658854147
+[08Apr2025 00:55:37.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 3.1278475258041
+[08Apr2025 00:55:37.372] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 4.268060846454318
+[08Apr2025 00:56:06.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 6.212879988163877,0.0,-9.575407087952954
+[08Apr2025 00:56:06.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 6.947282898459889,0.0,-11.400366815818415
+[08Apr2025 00:56:06.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 7.621245567245751,0.0,-13.271309298391316
+[08Apr2025 00:56:06.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 8.241899943019234,0.0,-15.182808570614725
+[08Apr2025 00:56:06.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.4401727527874755,0.0,13.312189354710426
+[08Apr2025 00:56:06.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.4401727527874755,0.0,13.312189354710426
+[08Apr2025 00:56:06.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.4401727527874755,0.0,13.312189354710426
+[08Apr2025 00:56:06.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.4401727527874755,0.0,13.312189354710426
+[08Apr2025 00:56:06.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -3.9707935900960365,0.0,11.28168479912165
+[08Apr2025 00:57:48.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[08Apr2025 00:58:48.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 0.8202038324409813
+[08Apr2025 00:58:48.855] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.8642395606800903
+[08Apr2025 00:58:48.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 0.9306855162994623
+[08Apr2025 00:59:42.402] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 10.353484699191426,0.0,-0.5604200835682605
+[08Apr2025 00:59:42.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 12.138356202226987,0.0,-0.6810629456884953
+[08Apr2025 00:59:42.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 13.974409724708948,0.0,-0.8084981455278921
+[08Apr2025 00:59:43.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 10.465440579949018,0.0,-0.8077305985954126
+[08Apr2025 00:59:43.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 12.599271450170704,0.0,-0.9746836668746255
+[08Apr2025 00:59:43.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 14.74344827878258,0.0,-1.1381672143036212
+[08Apr2025 00:59:43.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 16.896879189343167,0.0,-1.2963533184305334
+[08Apr2025 00:59:43.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 19.058472200182564,0.0,-1.4498670775650453
+[08Apr2025 00:59:43.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 21.227264183467923,0.0,-1.5992598284161659
+[08Apr2025 00:59:43.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 23.40254719336906,0.0,-1.7420499626990704
+[08Apr2025 00:59:43.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 25.58366245989464,0.0,-1.8760724601542051
+[08Apr2025 00:59:43.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 27.770010005888935,0.0,-1.9986362941126572
+[08Apr2025 00:59:43.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 29.960983521461003,0.0,-2.1103634430534157
+[08Apr2025 00:59:43.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 23.813084105808457,0.0,-1.5702497388343772
+[08Apr2025 00:59:43.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 26.011741326148353,0.0,-1.6636111422370732
+[08Apr2025 00:59:43.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 28.213576921335743,0.0,-1.7492040754309528
+[08Apr2025 00:59:44.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 11.10633629559868,0.0,-0.20656092824469852
+[08Apr2025 00:59:44.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 13.329007420560288,0.0,-0.2433988594503944
+[08Apr2025 00:59:44.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 15.539447044042731,0.0,-0.17944222443145463
+[08Apr2025 00:59:44.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 11.045178718213833,0.0,0.3731604774363859
+[08Apr2025 00:59:44.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 13.23949882692932,0.0,0.5738906379699529
+[08Apr2025 00:59:46.895] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 11.10419030186199,0.0,0.05042139130637224
+[08Apr2025 01:00:13.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -10.113801953288316,0.0,-0.4000736947534733
+[08Apr2025 01:00:13.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -11.888745972980985,0.0,-0.35488263179422574
+[08Apr2025 01:01:17.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 0.6175354859775553,0.04715034339574231,11.093131958528716
+[08Apr2025 01:01:38.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 0.46638680210602956,0.0,11.116249903548571
+[08Apr2025 01:02:27.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[08Apr2025 01:02:51.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RED_WasT4ken lost connection: Disconnected
+[08Apr2025 01:02:51.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken left the game
+[08Apr2025 01:03:34.604] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[08Apr2025 01:04:25.858] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[08Apr2025 01:04:25.859] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[08Apr2025 01:04:25.865] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[08Apr2025 01:04:25.865] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[08Apr2025 01:04:25.865] [Worker-Main-33/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[08Apr2025 01:04:26.444] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[08Apr2025 01:04:26.445] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[08Apr2025 01:04:26.445] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[08Apr2025 01:04:26.445] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[08Apr2025 01:04:26.445] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[08Apr2025 01:04:26.452] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[08Apr2025 01:04:26.452] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[08Apr2025 01:04:26.452] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[08Apr2025 01:04:51.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.549661008257544,0.0,-7.123805959261745
+[08Apr2025 01:04:55.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.209320710479005,0.0,-7.511265696285022
+[08Apr2025 01:04:55.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 8.193324322748822,0.0,7.529659035210301
+[08Apr2025 01:04:56.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.196092806023898,0.0,-7.526654729158452
+[08Apr2025 01:04:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 9.901415422953278,0.0,8.958476382595109
+[08Apr2025 01:04:56.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 8.240531105251648,0.0,7.477607915192095
+[08Apr2025 01:05:13.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -9.198327892959014,0.0,-5.9721200963203955
+[08Apr2025 01:05:13.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.367347679969726,0.0,-7.335881363580825
+[08Apr2025 01:05:13.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -11.015252894569585,0.0,-7.217042484571266
+[08Apr2025 01:05:13.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -10.037559997550034,0.0,-8.806844684609246
+[08Apr2025 01:05:13.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -12.826677322394062,0.0,-8.474255721083182
+[08Apr2025 01:05:13.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 10.01649979813601,0.0,8.831391409764478
+[08Apr2025 01:05:13.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 10.01649979813601,0.0,8.831391409764478
+[08Apr2025 01:05:13.657] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 8.34872017075486,0.0,7.35756870578723
+[08Apr2025 01:05:42.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 0.8471825445376453,-7.6517227060382424,7.575927179912014
+[08Apr2025 01:05:42.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 8.318504818807014,0.0,7.39261254901362
+[08Apr2025 01:05:42.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.0072727857591417,-9.211851521842078,9.113264164883276
+[08Apr2025 01:05:42.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 9.982487763649033,0.0,8.87082750122903
+[08Apr2025 01:05:42.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.1650679521226266,-10.779294181214084,10.656040696940863
+[08Apr2025 01:05:42.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 11.646539951927025,0.0,10.348966929426751
+[08Apr2025 01:05:42.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.3208388624607323,-12.353187650613222,12.203614909528483
+[08Apr2025 01:05:42.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 13.310653212915668,0.0,11.827039745440857
+[08Apr2025 01:05:42.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.4748243789849766,-13.932770734456298,13.75542067634376
+[08Apr2025 01:05:42.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 14.974820340034967,0.0,13.305053809509047
+[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.6272351781649377,-15.51737205823892,15.31095867398767
+[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 16.639034977081565,0.0,14.783016054360928
+[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.7782570766476056,-17.106399469648224,16.869788499222523
+[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 18.303291517883963,0.0,16.260932594663984
+[08Apr2025 01:05:42.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.9265845535915105,-18.699330690344254,18.431646403457762
+[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 19.967585017799138,0.0,17.73880882355502
+[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 2.064691115097048,-20.29570507083119,19.996644550583028
+[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 21.631911115651747,0.0,19.216649497780622
+[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 2.12566621393853,-21.8951163182537,21.554415009440163
+[08Apr2025 01:05:42.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 23.29626596488515,0.0,20.69445881279131
+[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 24.960646172836277,0.0,22.17224046897445
+[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 2.0751571490386596,-23.497206082313383,23.084286374913177
+[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.8590107557024567,-25.101658298047056,24.509401739132272
+[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 26.625048747176606,0.0,23.649997730071732
+[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 1.4824472020568464,-26.70819419615718,25.79124180060387
+[08Apr2025 01:05:42.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 28.289471048672112,0.0,25.127733474703234
+[08Apr2025 01:05:42.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 0.9633223219675529,-28.31656790212334,26.90702125406756
+[08Apr2025 01:05:42.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 29.953910749518627,0.0,26.60545024181198
+[08Apr2025 01:05:42.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! 0.31885947042201224,-29.926562554618528,27.87192948883012
+[08Apr2025 01:05:42.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 31.61836579659257,0.0,28.08315027074559
+[08Apr2025 01:05:42.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -0.4361514719475963,-31.537986881952307,28.703769308698384
+[08Apr2025 01:05:42.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 33.282834379039286,0.0,29.56083553660875
+[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -1.2886658304241791,-33.150672182493736,29.41824278662989
+[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 34.94731489968467,0.0,31.038507781443798
+[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -2.2271782019074635,-34.764469661404306,30.029199150973113
+[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 36.611805949821246,0.0,32.51616854173204
+[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -3.2415408208621557,-36.37924808163646,30.548853421131525
+[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 38.276306286968975,0.0,33.99381917264998
+[08Apr2025 01:05:42.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -4.323315075948813,-37.438567114308654,30.99385554423509
+[08Apr2025 01:05:42.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 39.94081481526064,0.0,35.47146086946333
+[08Apr2025 01:05:42.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -6.149510554760582,-31.53008992826082,25.342003568648124
+[08Apr2025 01:05:42.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 34.950730186879355,0.0,31.03478271773622
+[08Apr2025 01:05:42.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -7.342952295984105,-31.890321748754587,25.709043047943965
+[08Apr2025 01:05:42.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 36.6152523118476,0.0,32.51240958461494
+[08Apr2025 01:05:42.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -8.581971898824122,-32.39945525826312,26.053751284982127
+[08Apr2025 01:05:42.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved too quickly! -9.860899538467947,-33.039920057482675,26.381209848269123
+[08Apr2025 01:05:44.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.34256036904491793
+[08Apr2025 01:05:44.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.7177876488593711
+[08Apr2025 01:05:44.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.1019335954537155
+[08Apr2025 01:05:44.603] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.493945806147849
+[08Apr2025 01:05:44.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.891881816581872
+[08Apr2025 01:05:44.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.39924754799733364
+[08Apr2025 01:05:44.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.40377556191606345
+[08Apr2025 01:05:44.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.8230937151662374
+[08Apr2025 01:05:44.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.408831197399536
+[08Apr2025 01:05:44.901] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.41222834068878456
+[08Apr2025 01:05:44.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.8390018448164938
+[08Apr2025 01:05:44.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.41478129075858305
+[08Apr2025 01:05:45.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.4164620778352628
+[08Apr2025 01:05:45.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.8475952642411357
+[08Apr2025 01:05:45.105] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.2820424955876888
+[08Apr2025 01:05:45.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.4215495181655342
+[08Apr2025 01:05:45.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.871263982303617
+[08Apr2025 01:05:45.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.4356407436026757
+[08Apr2025 01:05:45.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.43686663557843985
+[08Apr2025 01:05:45.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.45003550732735675
+[08Apr2025 01:05:45.403] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.861232030395854
+[08Apr2025 01:05:45.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.2017409341434586
+[08Apr2025 01:05:45.529] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.3413279596728671
+[08Apr2025 01:05:45.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.3021278116683561
+[08Apr2025 01:05:45.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.46265056843560615
+[08Apr2025 01:05:47.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 0.39778258029912195
+[08Apr2025 01:05:47.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.1445451419897381
+[08Apr2025 01:05:47.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 1.8926025825301167
+[08Apr2025 01:05:47.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: susurro mortal (vehicle of Yuha150) moved wrongly! 2.6413528869259153
+[08Apr2025 01:05:49.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 7.258255935225179,0.0,8.435423669305806
+[08Apr2025 01:05:49.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 8.71254500596865,0.0,10.120250257305884
+[08Apr2025 01:06:58.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Welcome To The Machine]
+[08Apr2025 01:07:03.510] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:monument took 1 ms
+[08Apr2025 01:07:25.275] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 3.2033809850123873,0.0,9.607700326582972
+[08Apr2025 01:07:31.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! -0.6082532998084886,0.0,10.351002784484763
+[08Apr2025 01:07:45.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved too quickly! 2.003194533375705,0.0,10.932740618756043
+[08Apr2025 01:08:12.430] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/74097, l='ServerLevel[world]', x=339.50, y=36.00, z=1368.50] as it would cause deadlock
+[08Apr2025 01:08:13.939] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/74230, l='ServerLevel[world]', x=306.50, y=48.00, z=1345.50]
+[08Apr2025 01:10:17.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:10:18.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:11:59.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:00.914] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/81855, l='ServerLevel[world]', x=-6761.57, y=229.00, z=-5594.33] died: Gearling was slain by Yuha150
+[08Apr2025 01:12:02.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:02.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/81765, l='ServerLevel[world]', x=-6760.97, y=229.00, z=-5595.25] died: Gearling was slain by Yuha150
+[08Apr2025 01:12:06.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:07.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:08.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:09.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Gearling
+[08Apr2025 01:12:09.817] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/81866, l='ServerLevel[world]', x=-6767.08, y=229.00, z=-5591.66] died: Gearling was slain by Yuha150
+[08Apr2025 01:12:11.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:12.236] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:12.926] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:14.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:14.537] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:15.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:16.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:17.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:17.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:21.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82731, l='ServerLevel[world]', x=-6765.61, y=229.00, z=-5593.36] died: Gearling was slain by Yuha150
+[08Apr2025 01:12:23.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:24.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:26.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:27.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:29.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[08Apr2025 01:12:29.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:12:30.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[08Apr2025 01:13:29.413] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82798, l='ServerLevel[world]', x=-6775.51, y=230.50, z=-5596.85] died: Gearling was slain by Yuha150
+[08Apr2025 01:13:48.818] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83791, l='ServerLevel[world]', x=-6769.90, y=224.00, z=-5602.46] died: Gearling was slain by Yuha150
+[08Apr2025 01:14:45.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82800, l='ServerLevel[world]', x=-6762.27, y=241.00, z=-5595.71] died: Gearling was slain by Yuha150
+[08Apr2025 01:14:45.363] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/84524, l='ServerLevel[world]', x=-6762.85, y=241.00, z=-5595.46] died: Gearling was slain by Yuha150
+[08Apr2025 01:14:57.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85004, l='ServerLevel[world]', x=-6761.72, y=229.00, z=-5595.59] died: Gearling was slain by Yuha150
+[08Apr2025 01:14:57.814] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85095, l='ServerLevel[world]', x=-6761.07, y=229.00, z=-5596.03] died: Gearling was slain by Yuha150
+[08Apr2025 01:14:58.519] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/84685, l='ServerLevel[world]', x=-6760.62, y=229.00, z=-5595.39] died: Gearling was slain by Yuha150
+[08Apr2025 01:14:59.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/83915, l='ServerLevel[world]', x=-6759.76, y=229.00, z=-5596.49] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:04.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82728, l='ServerLevel[world]', x=-6766.49, y=229.00, z=-5596.10] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:06.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/82732, l='ServerLevel[world]', x=-6769.26, y=230.17, z=-5593.56] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:08.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85872, l='ServerLevel[world]', x=-6765.53, y=233.00, z=-5596.85] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:08.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85912, l='ServerLevel[world]', x=-6766.27, y=233.00, z=-5596.40] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:11.416] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85428, l='ServerLevel[world]', x=-6765.35, y=233.00, z=-5596.08] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:11.417] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85444, l='ServerLevel[world]', x=-6765.20, y=233.00, z=-5596.63] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:11.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85674, l='ServerLevel[world]', x=-6765.52, y=233.00, z=-5596.94] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:11.418] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/84011, l='ServerLevel[world]', x=-6765.56, y=233.00, z=-5596.52] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:11.976] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85311, l='ServerLevel[world]', x=-6765.88, y=233.00, z=-5596.50] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:13.212] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85788, l='ServerLevel[world]', x=-6764.48, y=233.00, z=-5595.65] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:16.562] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/86000, l='ServerLevel[world]', x=-6765.78, y=233.00, z=-5596.57] died: Gearling was slain by Yuha150
+[08Apr2025 01:15:18.259] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/85992, l='ServerLevel[world]', x=-6769.05, y=233.00, z=-5595.50] died: Gearling was slain by Yuha150
+[08Apr2025 01:18:37.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/87276, l='ServerLevel[world]', x=-6701.21, y=212.06, z=-5552.49] died: Gearling was slain by Yuha150
+[08Apr2025 01:21:16.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was shot by Skeleton
+[08Apr2025 01:21:24.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[08Apr2025 01:25:24.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> -160 63 1375
+[08Apr2025 01:33:03.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Wither Skeleton
+[08Apr2025 01:33:10.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[08Apr2025 01:36:24.610] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/99040, l='ServerLevel[world]', x=-6720.35, y=258.00, z=-5551.53] died: Gearling was slain by Yuha150
+[08Apr2025 01:36:25.110] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/99068, l='ServerLevel[world]', x=-6720.81, y=258.42, z=-5550.45] died: Gearling was slain by Yuha150
+[08Apr2025 01:36:28.271] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/99013, l='ServerLevel[world]', x=-6721.31, y=258.00, z=-5551.74] died: Gearling was slain by Yuha150
