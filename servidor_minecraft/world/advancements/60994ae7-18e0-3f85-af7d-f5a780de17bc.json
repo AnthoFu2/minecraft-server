@@ -3793,7 +3793,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:nether_wastes": "2025-04-06 04:41:24 +0000",
-      "minecraft:basalt_deltas": "2025-04-06 04:57:00 +0000"
+      "minecraft:basalt_deltas": "2025-04-06 04:57:00 +0000",
+      "minecraft:warped_forest": "2025-04-08 04:09:58 +0000"
     },
     "done": false
   },
@@ -4862,6 +4863,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-04-08 03:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-08 04:10:23 +0000"
     },
     "done": true
   },
