@@ -219,3 +219,189 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Apr2025 02:52:01.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1201, l='ServerLevel[world]', x=-6703.49, y=230.06, z=-5650.07] died: Gearling was slain by Yuha150
 [08Apr2025 02:52:03.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1210, l='ServerLevel[world]', x=-6705.66, y=230.00, z=-5653.73] died: Gearling was slain by Yuha150
 [08Apr2025 02:52:07.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1221, l='ServerLevel[world]', x=-6704.50, y=229.00, z=-5656.64] died: Gearling was shot by Yuha150
+[08Apr2025 02:53:44.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1364, l='ServerLevel[world]', x=-6718.48, y=224.00, z=-5656.03] died: Gearling was slain by Yuha150
+[08Apr2025 02:53:51.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1368, l='ServerLevel[world]', x=-6717.96, y=224.00, z=-5655.74] died: Gearling was slain by Yuha150
+[08Apr2025 02:54:06.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1367, l='ServerLevel[world]', x=-6723.42, y=224.00, z=-5642.77] died: Gearling was slain by Yuha150
+[08Apr2025 02:54:44.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1543, l='ServerLevel[world]', x=-6713.13, y=224.00, z=-5646.69] died: Gearling was slain by Yuha150
+[08Apr2025 02:54:47.676] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1544, l='ServerLevel[world]', x=-6720.76, y=224.06, z=-5655.22] died: Gearling fell from a high place
+[08Apr2025 02:55:01.578] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1587, l='ServerLevel[world]', x=-6713.58, y=220.50, z=-5650.61] died: Gearling fell from a high place
+[08Apr2025 02:55:15.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1568, l='ServerLevel[world]', x=-6710.94, y=229.00, z=-5654.31] died: Gearling was slain by Yuha150
+[08Apr2025 02:55:18.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1588, l='ServerLevel[world]', x=-6720.50, y=224.06, z=-5656.01] died: Gearling fell from a high place
+[08Apr2025 02:55:19.704] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1616, l='ServerLevel[world]', x=-6716.61, y=233.00, z=-5652.45] died: Gearling was slain by Yuha150
+[08Apr2025 02:55:19.706] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1622, l='ServerLevel[world]', x=-6715.85, y=233.00, z=-5651.38] died: Gearling was slain by Yuha150
+[08Apr2025 02:56:03.442] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1365, l='ServerLevel[world]', x=-6724.81, y=241.00, z=-5654.15] died: Gearling was slain by Yuha150
+[08Apr2025 02:56:13.002] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1696, l='ServerLevel[world]', x=-6722.66, y=241.42, z=-5651.39] died: Gearling was slain by Yuha150
+[08Apr2025 02:56:14.112] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1713, l='ServerLevel[world]', x=-6721.44, y=241.00, z=-5650.98] died: Gearling was slain by Yuha150
+[08Apr2025 02:56:15.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1690, l='ServerLevel[world]', x=-6721.36, y=241.00, z=-5651.59] died: Gearling was slain by Yuha150
+[08Apr2025 02:56:16.029] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1720, l='ServerLevel[world]', x=-6721.44, y=241.00, z=-5650.13] died: Gearling was slain by Yuha150
+[08Apr2025 02:56:19.044] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1735, l='ServerLevel[world]', x=-6718.61, y=241.00, z=-5645.54] died: Gearling was slain by Yuha150
+[08Apr2025 02:56:23.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Gearling
+[08Apr2025 02:56:24.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1683, l='ServerLevel[world]', x=-6723.54, y=242.00, z=-5642.01] died: Gearling was slain by Yuha150
+[08Apr2025 02:56:24.081] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1727, l='ServerLevel[world]', x=-6722.65, y=242.00, z=-5643.28] died: Gearling was slain by Yuha150
+[08Apr2025 02:56:45.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[08Apr2025 02:59:10.245] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2642, l='ServerLevel[world]', x=-6716.06, y=269.18, z=-5652.48] died: Gearling was slain by Yuha150
+[08Apr2025 02:59:14.152] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2676, l='ServerLevel[world]', x=-6717.09, y=267.00, z=-5654.05] died: Gearling was slain by Yuha150
+[08Apr2025 02:59:16.351] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/2541, l='ServerLevel[world]', x=-6716.75, y=267.00, z=-5653.40] died: Gearling was slain by Yuha150
+[08Apr2025 03:00:11.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 fell from a high place
+[08Apr2025 03:00:24.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 fell from a high place
+[08Apr2025 03:01:59.647] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Apr2025 03:01:59.698] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Apr2025 03:01:59.732] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Apr2025 03:01:59.789] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Apr2025 03:01:59.797] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Apr2025 03:01:59.881] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Apr2025 03:01:59.897] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Apr2025 03:01:59.970] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Apr2025 03:02:00.064] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Apr2025 03:02:00.090] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Apr2025 03:02:00.142] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Apr2025 03:02:00.184] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Apr2025 03:02:02.246] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Apr2025 03:02:02.472] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Apr2025 03:02:02.472] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Apr2025 03:02:02.495] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Apr2025 03:02:02.530] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[08Apr2025 03:02:03.564] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_heavy_armor] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:02:03.565] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_disable_shield] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:02:03.566] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_small_lungs] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:02:03.568] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_snowness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.568] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.568] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_more_fire_exp_dmg] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.568] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_wetness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.568] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.568] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_effect_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.568] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_is_shaking] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.569] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.569] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_no_freezing] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.569] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks_5] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.569] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_water] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.569] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_slowdown] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:02:03.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:60515] logged in with entity id 5486 at (97.5117398029912, 72.0, -517.2019728890391)
+[08Apr2025 03:02:03.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[08Apr2025 03:02:03.722] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[08Apr2025 03:03:03.542] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.542] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.542] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.542] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.543] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.543] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.543] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.543] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.543] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.543] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.543] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.544] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.544] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.544] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.544] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.544] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.544] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.544] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.544] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.545] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.545] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.545] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.545] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.545] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.545] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.545] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.546] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.546] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:03.546] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 03:03:44.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> a
+[08Apr2025 03:03:54.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> lag hdpta
+[08Apr2025 03:04:21.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> UN MUERDE AQUI
+[08Apr2025 03:04:23.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> digo mordecai
+[08Apr2025 03:04:32.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5021, l='ServerLevel[world]', x=124.10, y=72.42, z=-481.15] died, message: 'Unemployed was squished too much'
+[08Apr2025 03:05:05.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> ME COMI UNA MANZANA DE ORO
+[08Apr2025 03:05:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> SPTM
+[08Apr2025 03:05:35.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> AAAA ME ROBAN
+[08Apr2025 03:06:22.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Hmmm
+[08Apr2025 03:06:27.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> De cuantas mamadas estamos hablando
+[08Apr2025 03:07:21.970] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5020, l='ServerLevel[world]', x=124.14, y=72.82, z=-481.70] died, message: 'Unemployed was squished too much'
+[08Apr2025 03:07:51.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> rode viste el ant-ofu?
+[08Apr2025 03:07:52.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> xd
+[08Apr2025 03:08:03.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> XD
+[08Apr2025 03:08:13.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Ant-ofu
+[08Apr2025 03:08:32.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> Chiste de mierda, me encanta
+[08Apr2025 03:09:02.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> en tu cul
+[08Apr2025 03:10:03.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> no
+[08Apr2025 03:10:09.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> no
+[08Apr2025 03:10:13.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> de cuantos robux hablamos
+[08Apr2025 03:10:24.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> en tu trasero
+[08Apr2025 03:10:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> AAAAA LAGGGGGGG
+[08Apr2025 03:10:52.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> voy a reiniciar el internet por 49394 vez
+[08Apr2025 03:10:56.486] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[08Apr2025 03:10:56.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[08Apr2025 03:12:10.163] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Apr2025 03:12:10.243] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Apr2025 03:12:10.328] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Apr2025 03:12:10.328] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Apr2025 03:12:10.402] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Apr2025 03:12:10.475] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Apr2025 03:12:10.475] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Apr2025 03:12:10.555] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Apr2025 03:12:10.628] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Apr2025 03:12:10.632] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Apr2025 03:12:10.712] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Apr2025 03:12:10.756] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Apr2025 03:12:11.686] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Apr2025 03:12:11.721] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Apr2025 03:12:11.722] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Apr2025 03:12:11.725] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Apr2025 03:12:11.728] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[08Apr2025 03:12:14.043] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_heavy_armor] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:12:14.043] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_disable_shield] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:12:14.043] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_small_lungs] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:12:14.044] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_snowness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.044] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.044] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_more_fire_exp_dmg] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.044] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_wetness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.044] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.044] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_effect_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.045] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_is_shaking] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.045] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.045] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_no_freezing] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.045] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks_5] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.045] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_water] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.045] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_slowdown] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:14.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:43247] logged in with entity id 8737 at (98.98053484802061, 76.0, -509.5980842036016)
+[08Apr2025 03:12:14.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[08Apr2025 03:12:14.153] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[08Apr2025 03:12:28.483] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[08Apr2025 03:12:28.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[08Apr2025 03:12:32.489] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Apr2025 03:12:32.594] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Apr2025 03:12:32.594] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Apr2025 03:12:32.698] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Apr2025 03:12:32.698] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Apr2025 03:12:32.794] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Apr2025 03:12:32.795] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Apr2025 03:12:32.891] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Apr2025 03:12:32.930] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Apr2025 03:12:32.973] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Apr2025 03:12:32.973] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Apr2025 03:12:33.061] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Apr2025 03:12:35.268] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Apr2025 03:12:35.965] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Apr2025 03:12:35.981] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Apr2025 03:12:35.981] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Apr2025 03:12:36.132] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[08Apr2025 03:12:36.894] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_heavy_armor] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:12:36.895] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_disable_shield] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:12:36.895] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_small_lungs] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[08Apr2025 03:12:36.895] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_snowness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.895] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_more_fire_exp_dmg] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_wetness] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_effect_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_is_shaking] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_snow] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_no_freezing] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_ticks_5] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_particles_water] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.896] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thfluffy_slowdown] from power ResourceKey[apoli:configured_power / thorigins:fox/thfluffy]
+[08Apr2025 03:12:36.899] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:58943] logged in with entity id 8853 at (98.98053484802061, 76.0, -509.5980842036016)
+[08Apr2025 03:12:36.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[08Apr2025 03:12:37.034] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
