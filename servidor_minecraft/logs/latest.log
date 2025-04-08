@@ -192,3 +192,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Apr2025 02:32:34.055] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
 [08Apr2025 02:32:34.312] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 274565 bytes (in 28 string chunks with the size of 10000)
 [08Apr2025 02:32:34.313] [Server thread/WARN] [ModernFix/]: Dedicated server took 47.157 seconds to load
+[08Apr2025 02:46:43.727] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[08Apr2025 02:46:43.855] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[08Apr2025 02:46:43.856] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[08Apr2025 02:46:43.860] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[08Apr2025 02:46:43.986] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[08Apr2025 02:46:44.016] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[08Apr2025 02:46:44.117] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[08Apr2025 02:46:44.118] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[08Apr2025 02:46:44.119] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[08Apr2025 02:46:44.249] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[08Apr2025 02:46:44.250] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[08Apr2025 02:46:44.251] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[08Apr2025 02:46:46.027] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[08Apr2025 02:46:46.210] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[08Apr2025 02:46:46.211] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[08Apr2025 02:46:46.217] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[08Apr2025 02:46:46.258] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[08Apr2025 02:46:47.573] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[08Apr2025 02:46:47.678] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:40287] logged in with entity id 14 at (-6765.287795600291, 245.5, -5652.300000011921)
+[08Apr2025 02:46:47.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[08Apr2025 02:46:47.953] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[08Apr2025 02:51:56.552] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1187, l='ServerLevel[world]', x=-6707.16, y=230.00, z=-5657.04] died: Gearling was slain by Yuha150
+[08Apr2025 02:51:57.745] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1190, l='ServerLevel[world]', x=-6707.42, y=230.00, z=-5657.06] died: Gearling was slain by Yuha150
+[08Apr2025 02:51:59.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1193, l='ServerLevel[world]', x=-6705.10, y=229.00, z=-5650.84] died: Gearling was slain by Yuha150
+[08Apr2025 02:52:01.527] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1201, l='ServerLevel[world]', x=-6703.49, y=230.06, z=-5650.07] died: Gearling was slain by Yuha150
+[08Apr2025 02:52:03.406] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1210, l='ServerLevel[world]', x=-6705.66, y=230.00, z=-5653.73] died: Gearling was slain by Yuha150
+[08Apr2025 02:52:07.181] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Gearling'/1221, l='ServerLevel[world]', x=-6704.50, y=229.00, z=-5656.64] died: Gearling was shot by Yuha150
