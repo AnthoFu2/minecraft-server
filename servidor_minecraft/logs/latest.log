@@ -779,3 +779,108 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [08Apr2025 13:55:23.248] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [08Apr2025 13:55:23.248] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [08Apr2025 13:55:23.248] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 13:57:04.026] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43047, l='ServerLevel[world]', x=124.11, y=72.42, z=-481.10] died, message: 'Unemployed was squished too much'
+[08Apr2025 13:57:31.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43038, l='ServerLevel[world]', x=124.27, y=72.48, z=-481.16] died, message: 'Unemployed was squished too much'
+[08Apr2025 13:59:50.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 1.3589042627219357,-0.13520111034497972,-10.992115049659333
+[08Apr2025 14:00:23.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[08Apr2025 14:00:42.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! -10.398227114852716,0.0,-3.8899123272349243
+[08Apr2025 14:01:46.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu has made the advancement [The Desert Swimmers]
+[08Apr2025 14:02:29.334] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.5047554740285705
+[08Apr2025 14:02:29.379] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.125630822280982
+[08Apr2025 14:02:29.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.7519872873547977
+[08Apr2025 14:02:29.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 2.672127784096459
+[08Apr2025 14:02:29.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 3.748117966803472
+[08Apr2025 14:02:29.579] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 4.930820875190875
+[08Apr2025 14:02:29.680] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.1097031110812168
+[08Apr2025 14:02:29.681] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.133673626595737
+[08Apr2025 14:02:29.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.149142870104697
+[08Apr2025 14:02:29.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.9047878229775961
+[08Apr2025 14:02:29.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.8321749599481336
+[08Apr2025 14:02:29.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.6997963628509751
+[08Apr2025 14:02:29.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.3204443249242104
+[08Apr2025 14:02:30.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.3036604151930078
+[08Apr2025 14:02:30.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.1857470065660891
+[08Apr2025 14:02:30.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 2.1383856608626957
+[08Apr2025 14:02:30.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 3.129199615655125
+[08Apr2025 14:02:30.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.5633693307017893
+[08Apr2025 14:02:30.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.5744787609592095
+[08Apr2025 14:02:30.829] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.5808474938730797
+[08Apr2025 14:02:30.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.6239693815014107
+[08Apr2025 14:02:30.928] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.5913582626553762
+[08Apr2025 14:02:30.978] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.1467345299670342
+[08Apr2025 14:06:22.101] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[08Apr2025 14:06:22.102] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[08Apr2025 14:06:22.115] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[08Apr2025 14:06:22.643] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[08Apr2025 14:06:22.643] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[08Apr2025 14:06:22.643] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[08Apr2025 14:06:22.644] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[08Apr2025 14:06:22.644] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[08Apr2025 14:06:22.650] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[08Apr2025 14:06:22.650] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[08Apr2025 14:06:22.650] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[08Apr2025 14:06:22.659] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[08Apr2025 14:06:22.660] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[08Apr2025 14:06:53.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.2805783928524761
+[08Apr2025 14:06:53.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.8624103784795807
+[08Apr2025 14:06:53.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.0
+[08Apr2025 14:06:53.184] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.0
+[08Apr2025 14:06:57.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.4735567089543906
+[08Apr2025 14:06:57.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.2492765590930617
+[08Apr2025 14:06:57.586] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.0249964240020972
+[08Apr2025 14:06:57.633] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.47360493493431477
+[08Apr2025 14:06:57.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.2493505898332842
+[08Apr2025 14:06:57.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.47361873464370774
+[08Apr2025 14:06:57.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.2401391804160085
+[08Apr2025 14:06:57.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.6232473844293054
+[08Apr2025 14:07:00.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.4526578638798924
+[08Apr2025 14:07:00.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.226563743266868
+[08Apr2025 14:07:00.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.8725580471665921
+[08Apr2025 14:07:00.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 2.676765234201543
+[08Apr2025 14:08:49.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[08Apr2025 14:09:15.680] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.681] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:09:15.682] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[08Apr2025 14:10:58.174] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/97261, l='ServerLevel[world]', x=124.13, y=72.72, z=-481.70] died, message: 'Unemployed was squished too much'
+[08Apr2025 14:11:46.179] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[08Apr2025 14:11:46.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[08Apr2025 14:11:51.575] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[08Apr2025 14:11:51.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[08Apr2025 14:12:02.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Apr2025 14:12:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Apr2025 14:12:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Apr2025 14:12:02.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Apr2025 14:12:02.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Apr2025 14:12:02.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Apr2025 14:12:02.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Apr2025 14:12:02.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Apr2025 14:12:02.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Apr2025 14:12:02.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Apr2025 14:12:02.948] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@5120e0a0
+[08Apr2025 14:12:02.950] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

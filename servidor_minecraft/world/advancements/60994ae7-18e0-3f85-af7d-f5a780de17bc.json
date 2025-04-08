@@ -302,10 +302,12 @@
       "minecraft:cold_ocean": "2025-04-05 02:56:10 +0000",
       "minecraft:forest": "2025-03-31 03:52:31 +0000",
       "minecraft:lush_caves": "2025-03-30 12:08:23 +0000",
+      "minecraft:desert": "2025-04-08 14:00:24 +0000",
       "minecraft:jungle": "2025-03-30 12:26:59 +0000",
       "minecraft:ocean": "2025-03-30 13:09:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-05 03:22:33 +0000",
       "minecraft:windswept_savanna": "2025-04-01 12:55:09 +0000",
+      "minecraft:warm_ocean": "2025-04-08 14:03:41 +0000",
       "minecraft:flower_forest": "2025-04-05 03:19:06 +0000",
       "minecraft:frozen_peaks": "2025-04-02 12:48:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-04 02:54:22 +0000",
@@ -5091,6 +5093,24 @@
   "minecraft:recipes/decorations/armor_stand": {
     "criteria": {
       "has_stone_slab": "2025-04-08 13:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-04-08 14:07:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-08 14:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-08 14:07:25 +0000"
     },
     "done": true
   },
