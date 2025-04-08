@@ -286,12 +286,15 @@
       "minecraft:mushroom_fields": "2025-04-05 02:43:35 +0000",
       "minecraft:taiga": "2025-04-05 02:48:20 +0000",
       "minecraft:deep_ocean": "2025-04-05 02:43:10 +0000",
+      "minecraft:eroded_badlands": "2025-04-08 13:52:10 +0000",
       "minecraft:frozen_river": "2025-04-05 16:29:22 +0000",
       "minecraft:cherry_grove": "2025-04-02 12:48:00 +0000",
       "minecraft:sunflower_plains": "2025-04-05 02:55:06 +0000",
       "minecraft:birch_forest": "2025-04-05 03:19:40 +0000",
       "minecraft:windswept_hills": "2025-04-08 03:52:01 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 12:37:30 +0000",
+      "minecraft:wooded_badlands": "2025-04-08 13:41:22 +0000",
+      "minecraft:badlands": "2025-04-08 13:41:47 +0000",
       "minecraft:savanna_plateau": "2025-03-31 03:53:25 +0000",
       "minecraft:beach": "2025-03-30 12:42:17 +0000",
       "minecraft:dark_forest": "2025-03-30 12:42:35 +0000",
@@ -843,6 +846,7 @@
       "minecraft:ghast": "2025-04-06 04:54:14 +0000",
       "minecraft:hoglin": "2025-03-31 04:04:30 +0000",
       "minecraft:vindicator": "2025-04-05 03:23:35 +0000",
+      "minecraft:magma_cube": "2025-04-08 13:37:57 +0000",
       "minecraft:spider": "2025-03-30 13:08:11 +0000",
       "minecraft:piglin_brute": "2025-04-02 12:20:12 +0000",
       "minecraft:creeper": "2025-03-30 12:56:05 +0000",
@@ -6365,9 +6369,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-08 13:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-08 13:36:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-04-08 12:49:56 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-04-08 13:32:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-04-08 13:32:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-08 13:41:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-08 13:31:33 +0000"
     },
     "done": true
   },
@@ -6377,15 +6417,51 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-08 13:31:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-04-08 13:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-08 13:36:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-08 13:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-04-08 13:11:44 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/deathworm_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-08 13:31:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2025-04-08 12:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-08 13:36:35 +0000"
     },
     "done": true
   },
