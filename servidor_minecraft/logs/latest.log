@@ -211,3 +211,18 @@
 [08Apr2025 00:18:20.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
 [08Apr2025 00:20:33.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
 [08Apr2025 00:22:03.227] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/18039, l='ServerLevel[world]', x=-262.00, y=31.00, z=-600.00] as it would cause deadlock
+[08Apr2025 00:25:01.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[08Apr2025 00:25:28.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[08Apr2025 00:25:48.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[08Apr2025 00:26:59.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Fetch Me Their Souls!]
+[08Apr2025 00:28:10.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/397, l='ServerLevel[world]', x=124.17, y=72.48, z=-481.10] died, message: 'Unemployed was squished too much'
+[08Apr2025 00:28:15.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[08Apr2025 00:31:24.542] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/392, l='ServerLevel[world]', x=124.70, y=72.30, z=-481.22] died, message: 'Unemployed was squished too much'
+[08Apr2025 00:33:26.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Applied effect Night Vision to Yuha150]
+[08Apr2025 00:35:44.343] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/395, l='ServerLevel[world]', x=124.21, y=72.39, z=-481.15] died, message: 'Unemployed was squished too much'
+[08Apr2025 00:36:09.393] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/396, l='ServerLevel[world]', x=124.15, y=72.46, z=-481.19] died, message: 'Unemployed was squished too much'
+[08Apr2025 00:38:34.743] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/388, l='ServerLevel[world]', x=124.18, y=72.40, z=-481.10] died, message: 'Unemployed was squished too much'
+[08Apr2025 00:41:10.143] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/394, l='ServerLevel[world]', x=124.23, y=72.38, z=-481.30] died, message: 'Unemployed was squished too much'
+[08Apr2025 00:42:40.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported Yuha150 to RED_WasT4ken]
+[08Apr2025 00:43:21.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> Mordecai
+[08Apr2025 00:44:30.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
