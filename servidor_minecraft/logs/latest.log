@@ -773,3 +773,203 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Apr2025 00:37:08.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [09Apr2025 00:37:08.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [09Apr2025 00:37:08.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:08.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:08.837] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:08.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:09.840] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:09.935] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.670] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.781] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.870] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:10.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.340] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.443] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.539] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.655] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.742] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.837] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:11.937] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.238] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.335] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.539] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.648] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.836] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:12.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.046] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.257] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.370] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.675] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.779] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.865] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:13.949] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:14.040] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:14.142] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:14.238] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:14.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:14.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:14.637] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:14.745] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:14.855] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:14.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:15.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:15.242] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:15.396] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:15.531] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:15.651] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:15.794] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:37:15.957] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:38:31.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.5008842211236697
+[09Apr2025 00:38:31.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.4642322072422758
+[09Apr2025 00:38:31.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 2.4274228577223766
+[09Apr2025 00:38:31.792] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 3.3936747669191254
+[09Apr2025 00:38:34.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.27880732230914873
+[09Apr2025 00:38:34.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.2192244513205424
+[09Apr2025 00:38:34.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 1.2733840655394033
+[09Apr2025 00:38:34.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 2.388405015812168
+[09Apr2025 00:38:34.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.8635596839617392
+[09Apr2025 00:38:34.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.7252969501064399
+[09Apr2025 00:38:34.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.9046217769093801
+[09Apr2025 00:38:35.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.8805421561321509
+[09Apr2025 00:38:35.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 2.0639649301233476
+[09Apr2025 00:38:35.252] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.8833626879234089
+[09Apr2025 00:38:35.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.8834797804481695
+[09Apr2025 00:38:35.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 2.068474418641017
+[09Apr2025 00:38:35.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 3.2535025816735015
+[09Apr2025 00:38:35.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.883593897636274
+[09Apr2025 00:38:35.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 2.068649597661306
+[09Apr2025 00:38:35.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.883608632132109
+[09Apr2025 00:38:35.557] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.6435685340416057
+[09Apr2025 00:38:35.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.5151278634366463
+[09Apr2025 00:38:35.655] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.686444667675687
+[09Apr2025 00:38:35.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.7781128739352425
+[09Apr2025 00:38:35.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.8271627034380344
+[09Apr2025 00:38:35.812] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.8534082892567767
+[09Apr2025 00:38:35.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 2.0170741846272904
+[09Apr2025 00:38:35.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 3.185451675178001
+[09Apr2025 00:38:35.980] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.8746844547699766
+[09Apr2025 00:38:36.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.5679179187823138
+[09Apr2025 00:38:36.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.39553440464896994
+[09Apr2025 00:38:36.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.30329542319282154
+[09Apr2025 00:38:36.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved wrongly! 0.2621790402536135
+[09Apr2025 00:39:30.199] [Worker-Main-29/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-283, y=-56, z=-275}
+[09Apr2025 00:39:31.186] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-50, z=-279}
+[09Apr2025 00:39:31.186] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-281, y=-57, z=-280}
+[09Apr2025 00:39:31.898] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[09Apr2025 00:39:31.899] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[09Apr2025 00:39:31.899] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[09Apr2025 00:39:32.276] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-289, y=-57, z=-281}
+[09Apr2025 00:39:32.276] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-56, z=-283}
+[09Apr2025 00:39:32.276] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-287, y=-57, z=-283}
+[09Apr2025 00:39:51.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:51.855] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:51.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:52.042] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:52.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:52.247] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:52.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:52.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:52.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:52.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:52.954] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.233] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.312] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.491] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.679] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.778] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.893] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:53.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:54.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:54.192] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:54.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:54.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:54.539] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:54.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:54.777] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:54.883] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:54.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:55.213] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:55.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:55.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:55.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:55.678] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:55.783] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:55.887] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:56.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:56.138] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:56.256] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:56.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:56.460] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:56.539] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:56.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:56.728] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:56.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.074] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.368] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.472] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.594] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.679] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.847] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:57.929] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.245] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.509] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.624] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.907] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:58.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:59.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:59.206] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:59.329] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:59.671] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:39:59.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:40:00.018] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:40:00.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:40:00.209] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:40:00.296] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:40:00.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:40:00.506] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[09Apr2025 00:40:23.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was killed by Guardian using magic
+[09Apr2025 00:40:55.150] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9011, l='ServerLevel[world]', x=124.70, y=72.31, z=-481.31] died, message: 'Unemployed was squished too much'
+[09Apr2025 00:41:42.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Frosted Prison]
+[09Apr2025 00:41:55.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-191, y=42, z=1355} BlockPos{x=-191, y=43, z=1355}
+[09Apr2025 00:41:56.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=43, z=1354} BlockPos{x=-189, y=44, z=1354}
+[09Apr2025 00:42:08.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <The_KinghtxX> temiñe
+[09Apr2025 00:42:25.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[09Apr2025 00:42:28.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> entra a vc rode
+[09Apr2025 00:42:38.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-186, y=44, z=1348} BlockPos{x=-186, y=45, z=1348}
+[09Apr2025 00:42:41.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-187, y=45, z=1344} BlockPos{x=-187, y=46, z=1344}
+[09Apr2025 00:42:44.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-188, y=45, z=1349} BlockPos{x=-188, y=46, z=1349}
+[09Apr2025 00:42:45.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=44, z=1352} BlockPos{x=-194, y=44, z=1351}
+[09Apr2025 00:42:46.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=44, z=1352} BlockPos{x=-194, y=44, z=1351}
+[09Apr2025 00:42:46.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-192, y=45, z=1353} BlockPos{x=-194, y=44, z=1351}
+[09Apr2025 00:44:06.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[09Apr2025 00:44:07.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Frosted Prison]
+[09Apr2025 00:46:00.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9016, l='ServerLevel[world]', x=124.12, y=72.38, z=-481.16] died, message: 'Unemployed was squished too much'
+[09Apr2025 00:46:03.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_KinghtxX lost connection: Disconnected
+[09Apr2025 00:46:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX left the game

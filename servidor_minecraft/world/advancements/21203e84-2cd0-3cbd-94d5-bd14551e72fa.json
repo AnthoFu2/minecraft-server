@@ -5378,5 +5378,11 @@
     },
     "done": true
   },
+  "cataclysm:find_frosted_prison": {
+    "criteria": {
+      "prison": "2025-04-09 00:44:07 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
