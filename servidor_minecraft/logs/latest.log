@@ -1395,3 +1395,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Apr2025 02:27:19.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/93629, l='ServerLevel[world]', x=124.15, y=72.48, z=-481.11] died, message: 'Unemployed was squished too much'
 [09Apr2025 02:29:47.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set the time to 6000]
 [09Apr2025 02:29:55.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set the time to 18000]
+[09Apr2025 02:30:21.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/93635, l='ServerLevel[world]', x=124.10, y=72.39, z=-481.16] died, message: 'Unemployed was squished too much'
+[09Apr2025 02:35:25.779] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/98182, l='ServerLevel[world]', x=124.14, y=72.39, z=-481.11] died, message: 'Unemployed was squished too much'
+[09Apr2025 02:36:10.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/98717, l='ServerLevel[world]', x=124.17, y=72.29, z=-481.13] died, message: 'Unemployed was squished too much'
+[09Apr2025 02:38:03.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> antho estas hay?
+[09Apr2025 02:39:32.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[09Apr2025 02:39:32.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
