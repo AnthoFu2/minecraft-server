@@ -6479,5 +6479,11 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-04-09 01:28:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

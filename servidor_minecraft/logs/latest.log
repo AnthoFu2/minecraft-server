@@ -1227,3 +1227,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Apr2025 01:28:20.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! -10.400808865171712,0.0,4.6007921709197035
 [09Apr2025 01:28:20.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! -10.34135142034711,0.0,4.503797106534876
 [09Apr2025 01:28:34.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Sunken City]
+[09Apr2025 01:29:00.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[09Apr2025 01:29:00.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Sunken City]
+[09Apr2025 01:29:38.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Water Breathing to Yuha150]
+[09Apr2025 01:34:11.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was killed by Deepling Priest using magic
+[09Apr2025 01:34:53.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was killed by Deepling Priest using magic
+[09Apr2025 01:35:02.260] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[09Apr2025 01:35:06.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported Yuha150 to OinkOtaku]
+[09Apr2025 01:38:21.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Creative Mode]
+[09Apr2025 01:38:44.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[09Apr2025 01:38:57.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
