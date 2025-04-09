@@ -411,3 +411,55 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [09Apr2025 23:46:36.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Summoned new Zombie]
 [09Apr2025 23:46:36.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Summoned new Zombie]
 [09Apr2025 23:46:47.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was slain by Zombie
+[09Apr2025 23:48:15.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was blown up by Creeper
+[09Apr2025 23:48:17.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Timed out
+[09Apr2025 23:48:17.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
+[09Apr2025 23:48:36.715] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Apr2025 23:48:36.803] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Apr2025 23:48:36.805] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Apr2025 23:48:36.891] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Apr2025 23:48:36.929] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Apr2025 23:48:36.978] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Apr2025 23:48:37.014] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Apr2025 23:48:37.065] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Apr2025 23:48:37.066] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Apr2025 23:48:37.157] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Apr2025 23:48:37.244] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Apr2025 23:48:37.284] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Apr2025 23:48:48.154] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Apr2025 23:48:53.680] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Apr2025 23:48:53.680] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Apr2025 23:48:53.888] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Apr2025 23:48:54.448] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[09Apr2025 23:48:58.714] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@548202f6[id=<null>,name=TheKinghtxX,properties={},legacy=false] (/127.222.93.92:45677) lost connection: Disconnected
+[09Apr2025 23:49:10.586] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Apr2025 23:49:10.711] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Apr2025 23:49:10.886] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Apr2025 23:49:10.915] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Apr2025 23:49:10.915] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Apr2025 23:49:11.028] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Apr2025 23:49:11.029] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Apr2025 23:49:11.030] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Apr2025 23:49:11.030] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Apr2025 23:49:11.152] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Apr2025 23:49:11.193] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Apr2025 23:49:11.193] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Apr2025 23:49:12.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
+[09Apr2025 23:49:16.089] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Apr2025 23:49:17.705] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Apr2025 23:49:17.715] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Apr2025 23:49:17.768] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Apr2025 23:49:17.960] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[09Apr2025 23:49:18.869] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:54633] logged in with entity id 11032 at (59.47047040271658, 72.71816191069722, -461.95384496223875)
+[09Apr2025 23:49:18.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
+[09Apr2025 23:49:18.974] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
+[09Apr2025 23:49:28.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
+[09Apr2025 23:50:11.737] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/183, l='ServerLevel[world]', x=124.14, y=72.41, z=-481.13] died, message: 'Unemployed was squished too much'
+[09Apr2025 23:51:30.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[09Apr2025 23:52:28.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[09Apr2025 23:53:18.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was slain by Zombie
+[09Apr2025 23:54:09.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[09Apr2025 23:54:11.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[09Apr2025 23:55:17.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> Inception Upgrade
+[09Apr2025 23:56:31.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [A Seedy Place]
+[09Apr2025 23:57:53.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
