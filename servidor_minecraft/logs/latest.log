@@ -1385,3 +1385,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Apr2025 02:03:25.776] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/93628, l='ServerLevel[world]', x=124.14, y=72.40, z=-481.10] died, message: 'Unemployed was squished too much'
 [09Apr2025 02:07:59.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/93633, l='ServerLevel[world]', x=124.11, y=72.33, z=-481.12] died, message: 'Unemployed was squished too much'
 [09Apr2025 02:16:24.377] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/94056, l='ServerLevel[world]', x=124.12, y=72.40, z=-481.12] died, message: 'Unemployed was squished too much'
+[09Apr2025 02:21:51.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Creative Mode]
+[09Apr2025 02:22:17.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[09Apr2025 02:23:47.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Que tramposo
+[09Apr2025 02:24:02.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> estaba buscando que come el leviatan bebe
+[09Apr2025 02:24:10.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> y fui a pescar xd
+[09Apr2025 02:24:22.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> segun come todo tipo de pez pero no come salmon
+[09Apr2025 02:24:37.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> por eso probe
+[09Apr2025 02:27:19.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/93629, l='ServerLevel[world]', x=124.15, y=72.48, z=-481.11] died, message: 'Unemployed was squished too much'
+[09Apr2025 02:29:47.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set the time to 6000]
+[09Apr2025 02:29:55.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set the time to 18000]
