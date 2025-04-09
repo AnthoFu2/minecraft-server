@@ -1362,3 +1362,22 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Apr2025 01:49:23.539] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
 [09Apr2025 01:49:23.540] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
 [09Apr2025 01:49:23.606] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Apr2025 01:49:48.779] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Apr2025 01:49:52.878] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@79e6d5ad[id=<null>,name=OinkOtaku,properties={},legacy=false] (/127.165.213.184:48937): Took too long to log in
+[09Apr2025 01:49:52.879] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@79e6d5ad[id=<null>,name=OinkOtaku,properties={},legacy=false] (/127.165.213.184:48937) lost connection: Took too long to log in
+[09Apr2025 01:49:52.930] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Apr2025 01:50:14.610] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Apr2025 01:50:15.096] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Apr2025 01:50:15.096] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Apr2025 01:50:15.096] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Apr2025 01:50:15.096] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Apr2025 01:50:15.137] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Apr2025 01:50:15.137] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Apr2025 01:50:15.137] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Apr2025 01:50:15.215] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Apr2025 01:50:15.216] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Apr2025 01:50:15.216] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Apr2025 01:50:15.216] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Apr2025 01:50:22.584] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@60a53279[id=<null>,name=OinkOtaku,properties={},legacy=false] (/127.165.213.184:55491) lost connection: Disconnected
+[09Apr2025 01:55:04.773] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/93631, l='ServerLevel[world]', x=124.15, y=72.97, z=-481.70] died, message: 'Unemployed was squished too much'
+[09Apr2025 01:55:29.223] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/93630, l='ServerLevel[world]', x=124.11, y=72.40, z=-481.12] died, message: 'Unemployed was squished too much'
