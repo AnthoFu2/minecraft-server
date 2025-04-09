@@ -973,3 +973,114 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Apr2025 00:46:00.479] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9016, l='ServerLevel[world]', x=124.12, y=72.38, z=-481.16] died, message: 'Unemployed was squished too much'
 [09Apr2025 00:46:03.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: The_KinghtxX lost connection: Disconnected
 [09Apr2025 00:46:03.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The_KinghtxX left the game
+[09Apr2025 00:47:54.805] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Apr2025 00:47:54.886] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Apr2025 00:47:54.927] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Apr2025 00:47:54.967] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Apr2025 00:47:54.982] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Apr2025 00:47:55.045] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Apr2025 00:47:55.125] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Apr2025 00:47:55.128] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Apr2025 00:47:55.203] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Apr2025 00:47:55.280] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Apr2025 00:47:55.295] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Apr2025 00:47:55.357] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Apr2025 00:47:58.080] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Apr2025 00:47:58.605] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Apr2025 00:47:58.645] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Apr2025 00:47:58.645] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Apr2025 00:47:58.768] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[09Apr2025 00:47:59.588] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:45697] logged in with entity id 34817 at (111.5, 89.0, 41.5)
+[09Apr2025 00:47:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
+[09Apr2025 00:47:59.685] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
+[09Apr2025 00:47:59.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Ice and Fire]
+[09Apr2025 00:48:15.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was cursed by Maledictus
+[09Apr2025 00:48:19.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[09Apr2025 00:48:35.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was cursed by Maledictus
+[09Apr2025 00:48:39.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[09Apr2025 00:48:50.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Maledictus
+[09Apr2025 00:48:53.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[09Apr2025 00:49:03.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Maledictus
+[09Apr2025 00:49:05.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[09Apr2025 00:49:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was cursed by Maledictus
+[09Apr2025 00:49:14.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[09Apr2025 00:49:18.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was cursed by Maledictus 's Magic
+[09Apr2025 00:49:40.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has completed the challenge [Crusade Against Curse]
+[09Apr2025 00:49:45.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:pumpkin_hate_prevent_seeing] from power ResourceKey[apoli:configured_power / origins:pumpkin_hate]
+[09Apr2025 00:49:45.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:pumpkin_hate_prevent_eating] from power ResourceKey[apoli:configured_power / origins:pumpkin_hate]
+[09Apr2025 00:50:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[09Apr2025 00:50:57.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX didn't manage to keep wet
+[09Apr2025 00:51:14.887] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Disconnected
+[09Apr2025 00:51:14.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
+[09Apr2025 00:51:14.936] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[09Apr2025 00:51:24.929] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Apr2025 00:51:25.017] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Apr2025 00:51:25.103] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Apr2025 00:51:25.132] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Apr2025 00:51:25.191] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Apr2025 00:51:25.192] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Apr2025 00:51:25.282] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Apr2025 00:51:25.283] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Apr2025 00:51:25.369] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Apr2025 00:51:25.370] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Apr2025 00:51:25.455] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Apr2025 00:51:25.521] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Apr2025 00:51:29.813] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Apr2025 00:51:30.389] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@561b8b75[id=<null>,name=TheKinghtxX,properties={},legacy=false] (/127.222.93.92:35433) lost connection: Disconnected
+[09Apr2025 00:51:36.469] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[09Apr2025 00:51:36.547] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[09Apr2025 00:51:36.626] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[09Apr2025 00:51:36.631] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[09Apr2025 00:51:36.705] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[09Apr2025 00:51:36.786] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[09Apr2025 00:51:36.827] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[09Apr2025 00:51:36.864] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[09Apr2025 00:51:36.882] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[09Apr2025 00:51:36.945] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[09Apr2025 00:51:37.024] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[09Apr2025 00:51:37.065] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[09Apr2025 00:51:39.092] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[09Apr2025 00:51:39.584] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[09Apr2025 00:51:39.584] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[09Apr2025 00:51:39.587] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[09Apr2025 00:51:39.652] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[09Apr2025 00:51:40.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:37023] logged in with entity id 39401 at (106.5, 90.0, 44.5)
+[09Apr2025 00:51:40.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
+[09Apr2025 00:51:40.485] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
+[09Apr2025 00:53:17.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Sweet Dreams]
+[09Apr2025 00:53:21.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Cover Me with Diamonds]
+[09Apr2025 00:53:24.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Isn't It Iron Pick]
+[09Apr2025 00:53:27.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was cursed by Maledictus
+[09Apr2025 00:53:45.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was cursed by Maledictus 's Magic
+[09Apr2025 00:53:48.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Monster Hunter]
+[09Apr2025 00:54:02.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[09Apr2025 00:54:07.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Diamonds!]
+[09Apr2025 00:54:48.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.0324233303160213
+[09Apr2025 00:54:48.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 2.122423536357303
+[09Apr2025 00:54:48.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 3.2122216143996525
+[09Apr2025 00:54:49.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.0316855077959417
+[09Apr2025 00:54:49.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.0316020561745063
+[09Apr2025 00:54:49.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 2.1212739160241085
+[09Apr2025 00:54:49.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 3.2109513232607014
+[09Apr2025 00:54:49.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.0316209392536848
+[09Apr2025 00:54:49.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 2.1210803977978117
+[09Apr2025 00:54:49.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.03150431925377
+[09Apr2025 00:54:49.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.0315601264929342
+[09Apr2025 00:54:49.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.0315899878339678
+[09Apr2025 00:54:49.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 2.1193577363815166
+[09Apr2025 00:54:49.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.0305991189636643
+[09Apr2025 00:54:49.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.03107577186546
+[09Apr2025 00:54:49.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 1.0294331655560995
+[09Apr2025 00:54:49.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of OinkOtaku) moved wrongly! 2.1150862050029673
+[09Apr2025 00:55:30.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Stone Age]
+[09Apr2025 00:55:32.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[09Apr2025 00:55:33.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[09Apr2025 00:55:33.985] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[09Apr2025 00:55:34.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[09Apr2025 00:55:34.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved wrongly!
+[09Apr2025 00:56:47.925] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[09Apr2025 00:57:07.445] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4528ms or 90 ticks behind
+[09Apr2025 00:57:26.166] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3749ms or 74 ticks behind
+[09Apr2025 00:57:38.524] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48107, l='ServerLevel[world]', x=124.70, y=72.18, z=-481.70] died, message: 'Unemployed was squished too much'
+[09Apr2025 00:57:43.399] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[09Apr2025 00:57:43.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Acquire Hardware]
