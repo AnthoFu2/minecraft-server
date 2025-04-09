@@ -1401,3 +1401,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [09Apr2025 02:38:03.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> antho estas hay?
 [09Apr2025 02:39:32.635] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
 [09Apr2025 02:39:32.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[09Apr2025 02:40:57.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09Apr2025 02:40:57.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09Apr2025 02:40:57.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09Apr2025 02:40:57.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09Apr2025 02:40:57.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09Apr2025 02:40:57.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09Apr2025 02:40:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09Apr2025 02:40:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09Apr2025 02:40:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09Apr2025 02:40:57.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09Apr2025 02:40:57.701] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@5e7e2d98
+[09Apr2025 02:40:57.703] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
