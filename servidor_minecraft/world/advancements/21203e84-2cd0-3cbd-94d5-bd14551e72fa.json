@@ -5378,6 +5378,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-09 01:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-09 01:00:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-09 01:00:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/lost_tentacle": {
+    "criteria": {
+      "capsid": "2025-04-09 01:01:42 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2025-04-09 00:44:07 +0000"
