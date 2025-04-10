@@ -861,3 +861,9 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
 [10Apr2025 14:40:11.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/133180, l='ServerLevel[world]', x=181.67, y=73.00, z=-495.48] died, message: 'Unemployed was slain by AnthoFu'
+[10Apr2025 14:41:56.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[10Apr2025 14:41:56.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[10Apr2025 14:42:52.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [The Imperial March]
+[10Apr2025 14:49:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported TheKinghtxX to Yuha150]
+[10Apr2025 14:49:43.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was doomed to fall by Phantom
+[10Apr2025 14:49:44.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX fell from a high place
