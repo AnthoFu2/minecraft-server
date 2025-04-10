@@ -417,3 +417,154 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 14:20:01.004] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:48015] logged in with entity id 115042 at (38.48243328718909, 71.0, -444.30000001192093)
 [10Apr2025 14:20:01.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
 [10Apr2025 14:20:01.128] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
+[10Apr2025 14:21:53.144] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88546, l='ServerLevel[world]', x=122.30, y=72.03, z=-481.70] died, message: 'Unemployed was slain by Yuha150'
+[10Apr2025 14:21:53.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88547, l='ServerLevel[world]', x=124.70, y=72.15, z=-481.70] died, message: 'Unemployed was slain by Yuha150'
+[10Apr2025 14:21:53.146] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88560, l='ServerLevel[world]', x=124.70, y=72.27, z=-481.70] died, message: 'Unemployed was slain by Yuha150'
+[10Apr2025 14:21:53.147] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88563, l='ServerLevel[world]', x=124.70, y=72.14, z=-481.70] died, message: 'Unemployed was slain by Yuha150'
+[10Apr2025 14:21:53.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88564, l='ServerLevel[world]', x=124.70, y=72.19, z=-481.70] died, message: 'Unemployed was slain by Yuha150'
+[10Apr2025 14:21:53.149] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88566, l='ServerLevel[world]', x=124.70, y=72.17, z=-481.70] died, message: 'Unemployed was slain by Yuha150'
+[10Apr2025 14:22:01.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Timed out
+[10Apr2025 14:22:01.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
+[10Apr2025 14:22:01.290] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Apr2025 14:22:13.643] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 14:22:13.723] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 14:22:13.723] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 14:22:13.818] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 14:22:13.895] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 14:22:13.937] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 14:22:13.973] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 14:22:13.987] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 14:22:14.069] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 14:22:14.161] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 14:22:14.202] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 14:22:14.225] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 14:22:18.378] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[10Apr2025 14:22:20.248] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[10Apr2025 14:22:20.249] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[10Apr2025 14:22:20.278] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[10Apr2025 14:22:20.529] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[10Apr2025 14:22:21.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:34167] logged in with entity id 116006 at (76.36926060084367, 72.18179262931247, -476.7771028585)
+[10Apr2025 14:22:21.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
+[10Apr2025 14:22:21.811] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
+[10Apr2025 14:22:41.812] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.812] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.812] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.812] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.812] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.813] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.814] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:22:41.815] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[10Apr2025 14:23:12.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Timed out
+[10Apr2025 14:23:12.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
+[10Apr2025 14:23:20.269] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 14:23:20.347] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 14:23:20.425] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 14:23:20.435] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 14:23:20.503] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 14:23:20.581] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 14:23:20.588] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 14:23:20.658] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 14:23:20.736] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 14:23:20.739] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 14:23:20.814] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 14:23:20.868] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 14:23:22.773] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[10Apr2025 14:23:23.273] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[10Apr2025 14:23:23.286] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[10Apr2025 14:23:23.286] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[10Apr2025 14:23:23.445] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[10Apr2025 14:23:24.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:44223] logged in with entity id 116864 at (76.36926060084367, 72.18179262931247, -476.7771028585)
+[10Apr2025 14:23:24.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
+[10Apr2025 14:23:24.252] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
+[10Apr2025 14:24:18.692] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Disconnected
+[10Apr2025 14:24:18.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
+[10Apr2025 14:25:57.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=123, y=75, z=-466} BlockPos{x=123, y=72, z=-466}
+[10Apr2025 14:25:57.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=126, y=74, z=-466} BlockPos{x=123, y=72, z=-466}
+[10Apr2025 14:25:58.039] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=126, y=74, z=-466} BlockPos{x=123, y=72, z=-466}
+[10Apr2025 14:26:02.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=123, y=72, z=-467} BlockPos{x=123, y=72, z=-466}
+[10Apr2025 14:26:02.387] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 14:26:02.457] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 14:26:02.459] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 14:26:02.545] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 14:26:02.586] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 14:26:02.634] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 14:26:02.642] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 14:26:02.724] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 14:26:02.814] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 14:26:02.845] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 14:26:02.902] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 14:26:02.942] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 14:26:04.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=72, z=-469} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:04.659] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=72, z=-469} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:04.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=72, z=-469} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:04.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=72, z=-469} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:04.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=72, z=-469} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:04.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=72, z=-469} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:04.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=72, z=-469} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:04.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=75, z=-469} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:05.631] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[10Apr2025 14:26:06.102] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[10Apr2025 14:26:06.142] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[10Apr2025 14:26:06.143] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[10Apr2025 14:26:06.143] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[10Apr2025 14:26:06.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:51529] logged in with entity id 118099 at (76.36926060084367, 72.0, -476.7771028585)
+[10Apr2025 14:26:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
+[10Apr2025 14:26:06.892] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
+[10Apr2025 14:26:11.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=72, z=-468} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:11.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=72, z=-468} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:11.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=72, z=-468} BlockPos{x=120, y=72, z=-468}
+[10Apr2025 14:26:12.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=75, z=-468} BlockPos{x=119, y=74, z=-470}
+[10Apr2025 14:26:12.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=76, z=-468} BlockPos{x=119, y=74, z=-470}
+[10Apr2025 14:26:12.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=120, y=76, z=-468} BlockPos{x=119, y=74, z=-470}
+[10Apr2025 14:26:18.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=76, z=-469} BlockPos{x=118, y=76, z=-470}
+[10Apr2025 14:26:18.960] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=77, z=-469} BlockPos{x=118, y=76, z=-470}
+[10Apr2025 14:26:19.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=77, z=-469} BlockPos{x=118, y=76, z=-470}
+[10Apr2025 14:26:19.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=119, y=77, z=-469} BlockPos{x=118, y=76, z=-470}
+[10Apr2025 14:26:21.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=73, z=-469} BlockPos{x=116, y=73, z=-470}
+[10Apr2025 14:26:21.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=73, z=-469} BlockPos{x=116, y=73, z=-470}
+[10Apr2025 14:26:22.040] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=73, z=-469} BlockPos{x=116, y=73, z=-470}
+[10Apr2025 14:26:22.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=73, z=-469} BlockPos{x=116, y=73, z=-470}
+[10Apr2025 14:26:22.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=73, z=-469} BlockPos{x=116, y=73, z=-470}
+[10Apr2025 14:26:22.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=73, z=-469} BlockPos{x=116, y=73, z=-470}
+[10Apr2025 14:26:22.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=76, z=-469} BlockPos{x=117, y=75, z=-470}
+[10Apr2025 14:26:22.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=76, z=-469} BlockPos{x=117, y=76, z=-470}
+[10Apr2025 14:26:22.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=76, z=-469} BlockPos{x=117, y=76, z=-470}
+[10Apr2025 14:26:22.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=77, z=-469} BlockPos{x=117, y=76, z=-470}
+[10Apr2025 14:26:22.590] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=77, z=-469} BlockPos{x=117, y=76, z=-470}
+[10Apr2025 14:26:22.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=77, z=-469} BlockPos{x=117, y=76, z=-470}
+[10Apr2025 14:26:22.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=77, z=-469} BlockPos{x=117, y=76, z=-470}
+[10Apr2025 14:26:22.704] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=118, y=77, z=-468} BlockPos{x=117, y=76, z=-470}
+[10Apr2025 14:27:31.358] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=105, y=74, z=-466} BlockPos{x=104, y=73, z=-466}
+[10Apr2025 14:27:31.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=74, z=-466} BlockPos{x=104, y=73, z=-466}
+[10Apr2025 14:27:31.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=74, z=-466} BlockPos{x=104, y=73, z=-466}
+[10Apr2025 14:27:31.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=74, z=-466} BlockPos{x=104, y=73, z=-466}
+[10Apr2025 14:27:31.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=74, z=-466} BlockPos{x=104, y=73, z=-466}
+[10Apr2025 14:27:32.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=106, y=73, z=-469} BlockPos{x=104, y=73, z=-468}
+[10Apr2025 14:27:32.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=107, y=74, z=-469} BlockPos{x=104, y=73, z=-468}
+[10Apr2025 14:28:31.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=75, z=-469} BlockPos{x=100, y=75, z=-468}
+[10Apr2025 14:28:31.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=99, y=75, z=-469} BlockPos{x=100, y=75, z=-468}
+[10Apr2025 14:28:48.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=72, z=-468} BlockPos{x=99, y=72, z=-467}
+[10Apr2025 14:28:48.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=95, y=72, z=-468} BlockPos{x=99, y=72, z=-467}
+[10Apr2025 14:28:48.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=72, z=-469} BlockPos{x=99, y=72, z=-467}
+[10Apr2025 14:29:37.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Amateur Archaeologist]
