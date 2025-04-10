@@ -6666,5 +6666,11 @@
     },
     "done": true
   },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-04-10 13:36:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
