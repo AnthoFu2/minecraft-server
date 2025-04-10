@@ -867,3 +867,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Apr2025 14:49:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported TheKinghtxX to Yuha150]
 [10Apr2025 14:49:43.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was doomed to fall by Phantom
 [10Apr2025 14:49:44.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX fell from a high place
+[10Apr2025 14:51:19.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Enchanter]
+[10Apr2025 14:55:57.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Mother of Dragons]
+[10Apr2025 14:59:19.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [An Ear-Shattering Roar]
+[10Apr2025 15:00:16.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[10Apr2025 15:00:16.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
