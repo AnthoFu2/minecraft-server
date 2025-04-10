@@ -230,3 +230,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 02:24:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> estoy viendo que te da el man de ingito o como se llame
 [10Apr2025 02:24:11.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ve guardando tus cosas, ya me voy a mimir
 [10Apr2025 02:24:17.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> segun las armas tienen una prob muy bajas
+[10Apr2025 02:24:34.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> yap
+[10Apr2025 02:24:45.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[10Apr2025 02:24:45.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[10Apr2025 02:24:48.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Apr2025 02:24:48.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Apr2025 02:24:48.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Apr2025 02:24:48.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Apr2025 02:24:48.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Apr2025 02:24:48.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Apr2025 02:24:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Apr2025 02:24:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Apr2025 02:24:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Apr2025 02:24:48.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Apr2025 02:24:48.335] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@6f60b71b
+[10Apr2025 02:24:48.338] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
