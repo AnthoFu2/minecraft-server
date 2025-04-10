@@ -211,3 +211,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 01:56:35.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
 [10Apr2025 01:56:35.592] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
 [10Apr2025 01:58:07.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set spawn point to -2474, 65, 408 [0.0] in minecraft:the_nether for Yuha150]
+[10Apr2025 02:08:28.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Creative Mode]
+[10Apr2025 02:08:41.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[10Apr2025 02:10:55.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
+[10Apr2025 02:11:22.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
+[10Apr2025 02:13:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
+[10Apr2025 02:13:52.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
