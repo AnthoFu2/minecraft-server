@@ -314,3 +314,97 @@
 [10Apr2025 00:58:57.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [10Apr2025 00:59:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported TheKinghtxX to OinkOtaku]
 [10Apr2025 00:59:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was slain by OinkOtaku
+[10Apr2025 00:59:47.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Timed out
+[10Apr2025 00:59:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
+[10Apr2025 00:59:50.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[10Apr2025 01:00:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 170 entities]
+[10Apr2025 01:00:07.415] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 01:00:07.505] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 01:00:07.508] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 01:00:07.592] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 01:00:07.677] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 01:00:07.707] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 01:00:07.762] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 01:00:07.763] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 01:00:07.849] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 01:00:07.854] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 01:00:07.933] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 01:00:07.997] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 01:00:12.022] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[10Apr2025 01:00:13.635] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[10Apr2025 01:00:13.636] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[10Apr2025 01:00:13.649] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[10Apr2025 01:00:13.920] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[10Apr2025 01:00:14.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:53325] logged in with entity id 121088 at (35.5, 71.0, -441.5)
+[10Apr2025 01:00:15.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
+[10Apr2025 01:00:15.046] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
+[10Apr2025 01:04:28.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Apr2025 01:04:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
+[10Apr2025 01:04:45.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Apr2025 01:05:02.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Apr2025 01:05:11.750] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[10Apr2025 01:05:11.755] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[10Apr2025 01:05:20.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
+[10Apr2025 01:05:37.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=55, z=-787} BlockPos{x=104, y=54, z=-786}
+[10Apr2025 01:05:42.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=56, z=-793} BlockPos{x=104, y=56, z=-794}
+[10Apr2025 01:05:52.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10Apr2025 01:06:07.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:07.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:07.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:07.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:07.739] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:07.842] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:07.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:08.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:08.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:08.255] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:08.358] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:08.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:08.566] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:08.682] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:08.792] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:08.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:09.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.555] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:10.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:11.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:11.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:11.292] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:11.392] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:11.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:11.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:11.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:11.823] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:11.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:12.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:12.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:12.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:12.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:12.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Apr2025 01:06:17.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
+[10Apr2025 01:06:50.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [The Soul Forge]
+[10Apr2025 01:07:27.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[10Apr2025 01:07:27.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [The Soul Forge]
+[10Apr2025 01:07:41.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX fell from a high place
+[10Apr2025 01:08:15.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
+[10Apr2025 01:08:16.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [The Soul Forge]
+[10Apr2025 01:08:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has completed the challenge [The broken Nether's warmachine]
+[10Apr2025 01:08:29.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku burned to death
+[10Apr2025 01:08:33.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
