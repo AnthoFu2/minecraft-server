@@ -6648,21 +6648,15 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-04-10 13:18:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-04-10 13:00:11 +0000"
     },
     "done": true
   },
-  "minecraft:nether/distract_piglin": {
+  "minecraft:story/deflect_arrow": {
     "criteria": {
-      "distract_piglin": "2025-04-10 13:51:45 +0000"
+      "deflected_projectile": "2025-04-10 13:18:05 +0000"
     },
     "done": true
   },
@@ -6672,15 +6666,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+  "cataclysm:kill_monstrosity": {
     "criteria": {
-      "has_snout_armor_trim_smithing_template": "2025-04-10 13:52:19 +0000"
+      "netheritemonstrosity": "2025-04-10 13:36:28 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_challenger": {
+  "minecraft:nether/distract_piglin": {
     "criteria": {
-      "location0": "2025-04-10 14:42:52 +0000"
+      "distract_piglin": "2025-04-10 13:51:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-04-10 13:52:19 +0000"
     },
     "done": true
   },
@@ -6690,9 +6690,9 @@
     },
     "done": true
   },
-  "cataclysm:kill_monstrosity": {
+  "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
-      "netheritemonstrosity": "2025-04-10 13:36:28 +0000"
+      "location0": "2025-04-10 14:42:52 +0000"
     },
     "done": true
   },

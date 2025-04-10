@@ -872,3 +872,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [10Apr2025 14:59:19.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [An Ear-Shattering Roar]
 [10Apr2025 15:00:16.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
 [10Apr2025 15:00:16.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[10Apr2025 15:01:43.980] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 15:01:44.112] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 15:01:44.137] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 15:01:44.137] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 15:01:44.245] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 15:01:44.246] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 15:01:44.247] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 15:01:44.378] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 15:01:44.378] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 15:01:44.380] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 15:01:44.521] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 15:01:44.561] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 15:01:46.284] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[10Apr2025 15:01:46.472] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[10Apr2025 15:01:46.490] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[10Apr2025 15:01:46.490] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[10Apr2025 15:01:46.530] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[10Apr2025 15:01:47.853] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:34317] logged in with entity id 157292 at (72.30760176115689, 72.0, -492.47166553261775)
+[10Apr2025 15:01:47.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[10Apr2025 15:01:47.909] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[10Apr2025 15:04:45.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ya voy a apagar el server, guarden sus cosas
+[10Apr2025 15:04:49.585] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[10Apr2025 15:04:49.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[10Apr2025 15:04:51.582] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Disconnected
+[10Apr2025 15:04:51.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
+[10Apr2025 15:05:01.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Apr2025 15:05:01.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Apr2025 15:05:01.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Apr2025 15:05:01.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Apr2025 15:05:01.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Apr2025 15:05:01.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Apr2025 15:05:01.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Apr2025 15:05:01.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Apr2025 15:05:01.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Apr2025 15:05:01.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Apr2025 15:05:01.817] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@431817d8
+[10Apr2025 15:05:01.821] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs

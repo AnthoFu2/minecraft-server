@@ -2200,6 +2200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-10 15:02:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-04-10 14:51:19 +0000"
@@ -2224,9 +2230,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-04-10 14:59:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2025-04-10 14:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-10 15:02:17 +0000"
     },
     "done": true
   },
@@ -2239,6 +2257,12 @@
   "minecraft:recipes/transportation/hopper_minecart": {
     "criteria": {
       "has_minecart": "2025-04-10 14:36:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-10 15:02:17 +0000"
     },
     "done": true
   },
