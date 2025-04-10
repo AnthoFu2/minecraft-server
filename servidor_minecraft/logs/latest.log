@@ -1,666 +1,213 @@
-[10Apr2025 00:00:40.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was shot by Skeleton
-[10Apr2025 00:04:29.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was burnt to a crisp whilst fighting Yuha150
-[10Apr2025 00:04:50.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Timed out
-[10Apr2025 00:04:50.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
-[10Apr2025 00:05:00.755] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 00:05:01.412] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 00:05:01.413] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 00:05:01.414] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 00:05:01.417] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 00:05:01.418] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 00:05:01.419] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 00:05:01.420] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 00:05:01.420] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 00:05:01.421] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 00:05:01.422] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 00:05:01.423] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 00:05:09.181] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[10Apr2025 00:05:10.783] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[10Apr2025 00:05:10.784] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[10Apr2025 00:05:10.831] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[10Apr2025 00:05:11.046] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[10Apr2025 00:05:12.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:54843] logged in with entity id 27391 at (37.47457161604963, 71.0, -440.33141699320004)
-[10Apr2025 00:05:12.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
-[10Apr2025 00:05:12.105] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
-[10Apr2025 00:05:53.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [Forged in Flame]
-[10Apr2025 00:07:13.563] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:snowy_plains took 4299 ms
-[10Apr2025 00:07:13.564] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4291ms or 85 ticks behind
-[10Apr2025 00:07:13.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX moved too quickly! 9.58161218848602,0.8322033533667508,-3.5944595218388713
-[10Apr2025 00:07:24.210] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 00:07:24.367] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 00:07:24.368] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 00:07:24.378] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 00:07:24.524] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 00:07:24.525] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 00:07:24.525] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 00:07:24.686] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 00:07:24.727] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 00:07:24.727] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 00:07:24.727] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 00:07:24.781] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 00:07:26.061] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[10Apr2025 00:07:26.285] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[10Apr2025 00:07:26.318] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[10Apr2025 00:07:26.318] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[10Apr2025 00:07:26.318] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[10Apr2025 00:07:28.036] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcos35[/127.14.217.228:60199] logged in with entity id 30881 at (109.5, 67.0, 50.5)
-[10Apr2025 00:07:28.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 joined the game
-[10Apr2025 00:07:28.124] [Server thread/INFO] [Jade/]: Syncing config to Marcos35 (41d9a71e-1f2d-3fe0-b951-22a7717fb258)
-[10Apr2025 00:07:28.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 has made the advancement [Ice and Fire]
-[10Apr2025 00:07:46.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Marcos35 to Yuha150]
-[10Apr2025 00:09:11.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to 4248.500000, 78.000000, 3538.500000]
-[10Apr2025 00:09:45.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[10Apr2025 00:10:03.847] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2973ms or 59 ticks behind
-[10Apr2025 00:10:21.788] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2965ms or 59 ticks behind
-[10Apr2025 00:11:15.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[10Apr2025 00:12:54.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX suffocated in a wall
-[10Apr2025 00:12:55.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 00:13:09.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 burned to death
-[10Apr2025 00:13:10.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Disconnected
-[10Apr2025 00:13:10.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
-[10Apr2025 00:13:27.946] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcos35 lost connection: Disconnected
-[10Apr2025 00:13:27.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 left the game
-[10Apr2025 00:13:54.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ice Dragon
-[10Apr2025 00:13:59.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 00:14:15.887] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 00:14:16.036] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 00:14:16.044] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 00:14:16.044] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 00:14:16.197] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 00:14:16.198] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 00:14:16.198] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 00:14:16.361] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 00:14:16.402] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 00:14:16.402] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 00:14:16.463] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 00:14:16.463] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 00:14:18.554] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[10Apr2025 00:14:18.952] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[10Apr2025 00:14:18.953] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[10Apr2025 00:14:18.957] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[10Apr2025 00:14:19.080] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[10Apr2025 00:14:19.698] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marcos35[/127.14.217.228:44391] logged in with entity id 41988 at (106.60261046724843, 68.0, 51.80167546069996)
-[10Apr2025 00:14:19.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 joined the game
-[10Apr2025 00:14:19.787] [Server thread/INFO] [Jade/]: Syncing config to Marcos35 (41d9a71e-1f2d-3fe0-b951-22a7717fb258)
-[10Apr2025 00:14:30.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
-[10Apr2025 00:14:57.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ice Dragon
-[10Apr2025 00:15:02.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 00:15:05.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
-[10Apr2025 00:15:37.698] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 00:15:38.170] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 00:15:38.210] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 00:15:38.210] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 00:15:38.210] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 00:15:38.210] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 00:15:38.210] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 00:15:38.210] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 00:15:38.248] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 00:15:38.250] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 00:15:38.252] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 00:15:38.253] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 00:15:44.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 00:15:49.789] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[10Apr2025 00:15:55.806] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[10Apr2025 00:15:55.807] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[10Apr2025 00:15:55.842] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[10Apr2025 00:15:56.099] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[10Apr2025 00:15:57.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:52651] logged in with entity id 44657 at (35.5, 71.0, -441.5)
-[10Apr2025 00:15:57.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
-[10Apr2025 00:15:57.412] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
-[10Apr2025 00:16:36.939] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[10Apr2025 00:16:46.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported Marcos35 to RED_WasT4ken]
-[10Apr2025 00:16:52.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
-[10Apr2025 00:16:55.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to Marcos35]
-[10Apr2025 00:17:11.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 has made the advancement [Cover Me with Diamonds]
-[10Apr2025 00:18:05.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 has made the advancement [Stone Age]
-[10Apr2025 00:18:46.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 has made the advancement [Acquire Hardware]
-[10Apr2025 00:19:49.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 has made the advancement [Isn't It Iron Pick]
-[10Apr2025 00:23:37.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku fell off scaffolding
-[10Apr2025 00:24:20.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 has made the advancement [We do a little trolling...]
-[10Apr2025 00:25:15.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:25:42.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 00:25:55.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 00:25:56.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
-[10Apr2025 00:25:59.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 00:27:35.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 has made the advancement [Monster Hunter]
-[10Apr2025 00:28:12.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Dragon Commander]
-[10Apr2025 00:28:49.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 00:31:29.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to RED_WasT4ken]
-[10Apr2025 00:31:33.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set the weather to clear]
-[10Apr2025 00:32:45.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 00:32:55.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:33:16.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 00:33:16.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 was impaled by Drowned
-[10Apr2025 00:33:20.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:33:27.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 00:33:36.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:33:42.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 00:34:24.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
-[10Apr2025 00:34:59.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:35:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 00:35:53.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 00:37:22.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> [name:"Guardians", x:-145, y:162, z:1393, dim:minecraft:overworld]
-[10Apr2025 00:37:36.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 00:37:54.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[10Apr2025 00:38:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 00:38:10.292] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 tropical_fish because there is no smelting recipe
-[10Apr2025 00:38:13.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
-[10Apr2025 00:38:31.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3617ms or 72 ticks behind
-[10Apr2025 00:38:51.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4527ms or 90 ticks behind
-[10Apr2025 00:39:10.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3681ms or 73 ticks behind
-[10Apr2025 00:39:46.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcos35 lost connection: Disconnected
-[10Apr2025 00:39:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 left the game
-[10Apr2025 00:39:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Best Friends Forever]
-[10Apr2025 00:41:17.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 00:41:33.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX fell from a high place
-[10Apr2025 00:43:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 149 entities]
-[10Apr2025 00:43:41.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[10Apr2025 00:43:43.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:43:59.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[10Apr2025 00:44:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [We do a little trolling...]
-[10Apr2025 00:44:14.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 211 entities]
-[10Apr2025 00:44:18.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved too quickly! 0.0012255918442178881,-10.811596629254794,-0.0170176259789514
-[10Apr2025 00:44:22.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 00:44:27.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
-[10Apr2025 00:44:40.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
-[10Apr2025 00:44:59.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4191ms or 83 ticks behind
-[10Apr2025 00:45:04.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 275 entities]
-[10Apr2025 00:45:21.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[10Apr2025 00:45:41.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4455ms or 89 ticks behind
-[10Apr2025 00:46:06.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10116ms or 202 ticks behind
-[10Apr2025 00:46:11.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX fell from a high place
-[10Apr2025 00:46:26.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5090ms or 101 ticks behind
-[10Apr2025 00:46:44.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2703ms or 54 ticks behind
-[10Apr2025 00:47:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 00:47:09.921] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 00:47:09.972] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 00:47:09.990] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 00:47:10.091] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 00:47:10.098] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 00:47:10.105] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 00:47:10.206] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 00:47:10.213] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 00:47:10.215] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 00:47:10.316] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 00:47:10.419] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 00:47:10.419] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 00:47:38.736] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@401aaa19[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:40971): Took too long to log in
-[10Apr2025 00:47:38.737] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@401aaa19[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:40971) lost connection: Took too long to log in
-[10Apr2025 00:47:38.817] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[10Apr2025 00:47:55.282] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
-[10Apr2025 00:48:04.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.41579248161184523
-[10Apr2025 00:48:05.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.3277301125721124
-[10Apr2025 00:48:05.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.9305093339014547
-[10Apr2025 00:48:05.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5383876674686405
-[10Apr2025 00:48:06.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.5964294623198327
-[10Apr2025 00:48:06.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.2013558119319043
-[10Apr2025 00:48:06.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.8035164081059918
-[10Apr2025 00:48:06.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.4041971047585946
-[10Apr2025 00:48:06.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.002205914347087
-[10Apr2025 00:48:06.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.856947181347152,-20.0,12.348521386064021
-[10Apr2025 00:48:06.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.84220409784021,-19.0,12.355847111646767
-[10Apr2025 00:48:06.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.468166146483867,-18.0,11.847265789290418
-[10Apr2025 00:48:06.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.116718938112484,-18.0,11.322254012778558
-[10Apr2025 00:48:06.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.911188178149104,-17.0,10.747159587995384
-[10Apr2025 00:48:06.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.858925572849728,-17.0,10.150454725447162
-[10Apr2025 00:48:06.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.892795854832798,-16.0,9.543040447835892
-[10Apr2025 00:48:06.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.961773066384808,-16.0,8.938492681489834
-[10Apr2025 00:48:06.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.028718626028365,-16.0,8.938492681489834
-[10Apr2025 00:48:07.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.06663056747422,-16.0,8.938492681489834
-[10Apr2025 00:48:07.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.06104181745019,-16.0,8.938492681489834
-[10Apr2025 00:48:07.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.015734843301345,-16.0,8.938492681489834
-[10Apr2025 00:48:07.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.913357448130398,-16.0,8.938492681489834
-[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.69544417831986,-16.0,8.938492681489834
-[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 10.306855387067401,-7.0,4.82509359071787
-[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 10.306855387067401,-7.0,4.82509359071787
-[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 10.306855387067401,-7.0,4.82509359071787
-[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 9.962904727569963,-6.0,4.637598859322566
-[10Apr2025 00:48:08.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.1810481983534424
-[10Apr2025 00:48:08.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.8400316205012359
-[10Apr2025 00:48:08.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.0219560368159364
-[10Apr2025 00:48:08.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.685226115709014
-[10Apr2025 00:48:08.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
-[10Apr2025 00:48:08.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.0212706905485902
-[10Apr2025 00:48:08.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.7352451518672467
-[10Apr2025 00:48:08.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
-[10Apr2025 00:48:08.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
-[10Apr2025 00:48:08.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
-[10Apr2025 00:48:08.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
-[10Apr2025 00:48:08.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
-[10Apr2025 00:48:08.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
-[10Apr2025 00:48:08.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
-[10Apr2025 00:48:08.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.8752455866827505
-[10Apr2025 00:48:08.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.25724285210083053
-[10Apr2025 00:48:17.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
-[10Apr2025 00:48:23.479] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 00:48:23.481] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 00:48:23.481] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 00:48:23.481] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 00:48:23.579] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 00:48:23.619] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 00:48:23.619] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 00:48:23.619] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 00:48:23.682] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 00:48:23.698] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 00:48:23.764] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 00:48:23.874] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 00:48:36.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3937ms or 78 ticks behind
-[10Apr2025 00:48:53.886] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@302cb55c[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:45671) lost connection: Timed out
-[10Apr2025 00:48:56.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind
-[10Apr2025 00:49:16.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4504ms or 90 ticks behind
-[10Apr2025 00:49:25.239] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 00:49:25.368] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 00:49:25.496] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 00:49:25.516] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 00:49:25.635] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 00:49:25.635] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 00:49:25.746] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 00:49:25.747] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 00:49:25.862] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 00:49:25.862] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 00:49:26.000] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 00:49:26.076] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 00:49:37.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6066ms or 121 ticks behind
-[10Apr2025 00:49:53.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 169 entities]
-[10Apr2025 00:49:55.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3761ms or 75 ticks behind
-[10Apr2025 00:49:56.077] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b08406a[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:55189) lost connection: Timed out
-[10Apr2025 00:50:15.530] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[10Apr2025 00:50:36.508] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5985ms or 119 ticks behind
-[10Apr2025 00:51:00.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9422ms or 188 ticks behind
-[10Apr2025 00:51:22.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6775ms or 135 ticks behind
-[10Apr2025 00:51:42.994] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5371ms or 107 ticks behind
-[10Apr2025 00:51:56.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Suit Up]
-[10Apr2025 00:52:02.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4091ms or 81 ticks behind
-[10Apr2025 00:52:15.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 221 entities]
-[10Apr2025 00:52:17.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:52:19.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2363ms or 47 ticks behind
-[10Apr2025 00:52:35.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 00:52:48.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 238 entities]
-[10Apr2025 00:53:06.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 00:53:08.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 00:53:08.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:53:16.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 202 entities]
-[10Apr2025 00:53:21.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 00:53:23.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 00:53:23.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:53:44.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 169 entities]
-[10Apr2025 00:53:49.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was slain by Husk
-[10Apr2025 00:54:01.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:54:37.810] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
-[10Apr2025 00:54:45.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to RED_WasT4ken]
-[10Apr2025 00:54:50.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 176 entities]
-[10Apr2025 00:55:32.140] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[10Apr2025 00:55:36.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
-[10Apr2025 00:55:39.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 255 entities]
-[10Apr2025 00:55:50.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 00:56:01.127] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[10Apr2025 00:56:18.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Mine? Mine? Mine?]
-[10Apr2025 00:56:20.797] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4674ms or 93 ticks behind
-[10Apr2025 00:56:40.488] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4715ms or 94 ticks behind
-[10Apr2025 00:56:51.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 65 entities]
-[10Apr2025 00:57:06.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [We Need to Go Deeper]
-[10Apr2025 00:57:40.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Those Were the Days]
-[10Apr2025 00:57:53.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 00:58:13.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported TheKinghtxX to OinkOtaku]
-[10Apr2025 00:58:57.926] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[10Apr2025 00:59:06.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported TheKinghtxX to OinkOtaku]
-[10Apr2025 00:59:27.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was slain by OinkOtaku
-[10Apr2025 00:59:47.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Timed out
-[10Apr2025 00:59:47.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
-[10Apr2025 00:59:50.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 01:00:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 170 entities]
-[10Apr2025 01:00:07.415] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 01:00:07.505] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 01:00:07.508] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 01:00:07.592] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 01:00:07.677] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 01:00:07.707] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 01:00:07.762] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 01:00:07.763] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 01:00:07.849] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 01:00:07.854] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 01:00:07.933] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 01:00:07.997] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 01:00:12.022] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[10Apr2025 01:00:13.635] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[10Apr2025 01:00:13.636] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[10Apr2025 01:00:13.649] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[10Apr2025 01:00:13.920] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[10Apr2025 01:00:14.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheKinghtxX[/127.222.93.92:53325] logged in with entity id 121088 at (35.5, 71.0, -441.5)
-[10Apr2025 01:00:15.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX joined the game
-[10Apr2025 01:00:15.046] [Server thread/INFO] [Jade/]: Syncing config to TheKinghtxX (769bf8ca-6706-326c-93c6-41debefb5bde)
-[10Apr2025 01:04:28.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[10Apr2025 01:04:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
-[10Apr2025 01:04:45.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[10Apr2025 01:05:02.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[10Apr2025 01:05:11.750] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[10Apr2025 01:05:11.755] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[10Apr2025 01:05:20.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2496ms or 49 ticks behind
-[10Apr2025 01:05:37.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=55, z=-787} BlockPos{x=104, y=54, z=-786}
-[10Apr2025 01:05:42.689] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=104, y=56, z=-793} BlockPos{x=104, y=56, z=-794}
-[10Apr2025 01:05:52.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[10Apr2025 01:06:07.317] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:07.417] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:07.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:07.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:07.739] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:07.842] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:07.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:08.045] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:08.153] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:08.255] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:08.358] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:08.464] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:08.566] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:08.682] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:08.792] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:08.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.118] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.225] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.431] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.529] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:09.943] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.144] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.254] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.356] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.555] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.775] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.884] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:10.984] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:11.083] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:11.181] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:11.292] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:11.392] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:11.499] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:11.626] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:11.726] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:11.823] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:11.921] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:12.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:12.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:12.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:12.326] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:12.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:06:17.014] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2491ms or 49 ticks behind
-[10Apr2025 01:06:50.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [The Soul Forge]
-[10Apr2025 01:07:27.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:07:27.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [The Soul Forge]
-[10Apr2025 01:07:41.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX fell from a high place
-[10Apr2025 01:08:15.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:08:16.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [The Soul Forge]
-[10Apr2025 01:08:26.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has completed the challenge [The broken Nether's warmachine]
-[10Apr2025 01:08:29.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku burned to death
-[10Apr2025 01:08:33.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:10:05.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:11:11.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Hidden in the Depths]
-[10Apr2025 01:12:47.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:12:48.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was blown up by Creeper
-[10Apr2025 01:13:06.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:13:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
-[10Apr2025 01:13:42.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:13:46.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:13:47.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:13:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku fell from a high place
-[10Apr2025 01:13:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:14:02.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:07.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:08.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:10.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:11.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:12.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:13.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:14.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:17.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:22.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:24.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:25.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:26.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:27.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:43.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:51.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:53.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:14:55.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:15:10.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:15:25.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX moved too quickly! 0.3832969553052834,-6.001335979112149,8.156990205221632
-[10Apr2025 01:15:49.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-110, y=63, z=-986} BlockPos{x=-109, y=62, z=-986}
-[10Apr2025 01:15:49.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=45, z=-969} BlockPos{x=-51, y=45, z=-968}
-[10Apr2025 01:15:49.961] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=45, z=-969} BlockPos{x=-51, y=45, z=-968}
-[10Apr2025 01:15:50.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=45, z=-969} BlockPos{x=-51, y=45, z=-968}
-[10Apr2025 01:15:50.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.457] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.511] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.561] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.862] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:50.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:51.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-51, y=44, z=-968} BlockPos{x=-50, y=44, z=-967}
-[10Apr2025 01:15:55.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:16:33.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:17:06.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:17:11.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:17:12.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [A Terrible Fortress]
-[10Apr2025 01:18:01.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:18:01.908] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/149892, l='ServerLevel[world]', x=-454.00, y=31.00, z=-1205.00] as it would cause deadlock
-[10Apr2025 01:18:01.909] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/149895, l='ServerLevel[world]', x=-454.00, y=31.00, z=-1206.00] as it would cause deadlock
-[10Apr2025 01:18:26.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:19:04.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:19:27.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:20:05.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:20:21.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:20:40.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:20:49.215] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/156598, l='ServerLevel[world]', x=-40.00, y=31.00, z=-1323.00] as it would cause deadlock
-[10Apr2025 01:20:57.168] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/157001, l='ServerLevel[world]', x=-137.00, y=31.00, z=-1335.00] as it would cause deadlock
-[10Apr2025 01:21:10.573] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/157462, l='ServerLevel[world]', x=-533.00, y=31.00, z=-629.00] as it would cause deadlock
-[10Apr2025 01:21:28.018] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/158184, l='ServerLevel[world]', x=-765.00, y=31.00, z=-936.00] as it would cause deadlock
-[10Apr2025 01:21:46.075] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[10Apr2025 01:21:46.075] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[10Apr2025 01:23:01.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:23:04.667] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/161921, l='ServerLevel[world]', x=-795.00, y=31.00, z=-502.00] as it would cause deadlock
-[10Apr2025 01:23:44.206] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:44.303] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:44.406] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:44.505] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:44.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:44.704] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:44.809] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:44.908] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:45.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:45.107] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:45.207] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:23:45.302] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[10Apr2025 01:24:11.407] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/164627, l='ServerLevel[world]', x=-1107.00, y=31.00, z=-835.00] as it would cause deadlock
-[10Apr2025 01:24:29.676] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/165441, l='ServerLevel[world]', x=-1054.00, y=31.00, z=-397.00] as it would cause deadlock
-[10Apr2025 01:24:38.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:24:46.766] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/166080, l='ServerLevel[world]', x=-984.00, y=31.00, z=-327.00] as it would cause deadlock
-[10Apr2025 01:24:57.412] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/166355, l='ServerLevel[world]', x=-1170.00, y=42.00, z=-298.00] as it would cause deadlock
-[10Apr2025 01:25:04.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Nightmare Fuel]
-[10Apr2025 01:25:36.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Timed out
-[10Apr2025 01:25:36.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
-[10Apr2025 01:25:50.965] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 01:25:51.098] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 01:25:51.100] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 01:25:51.101] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 01:25:51.230] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 01:25:51.267] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 01:25:51.365] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 01:25:51.365] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 01:25:51.368] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 01:25:51.494] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 01:25:51.495] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 01:25:51.544] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 01:25:54.726] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[10Apr2025 01:25:54.954] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[10Apr2025 01:25:54.954] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[10Apr2025 01:25:54.962] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[10Apr2025 01:25:54.997] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[10Apr2025 01:25:55.923] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:36845] logged in with entity id 168439 at (-1004.5291347106032, 51.17675927506424, -447.65919112523426)
-[10Apr2025 01:25:55.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
-[10Apr2025 01:25:55.998] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
-[10Apr2025 01:26:24.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was doomed to fall by Creeper
-[10Apr2025 01:26:44.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:26:45.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has completed the challenge [Hot Tourist Destinations]
-[10Apr2025 01:27:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [Straddle My Ol' Saddle]
-[10Apr2025 01:27:48.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:28:08.335] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/174164, l='ServerLevel[world]', x=-1074.00, y=31.00, z=-18.00] as it would cause deadlock
-[10Apr2025 01:28:22.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to 0.500000, 0.000000, 0.500000]
-[10Apr2025 01:29:41.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:29:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:29:48.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has completed the challenge [Hot Tourist Destinations]
-[10Apr2025 01:29:56.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Straddle My Ol' Saddle]
-[10Apr2025 01:30:47.567] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/177768, l='ServerLevel[world]', x=-1304.00, y=31.00, z=-252.00] as it would cause deadlock
-[10Apr2025 01:31:16.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to 0.500000, 0.000000, 0.500000]
-[10Apr2025 01:31:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:31:20.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was doomed to fall
-[10Apr2025 01:31:23.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:32:19.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:32:28.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:32:43.064] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180302, l='ServerLevel[world]', x=-1096.00, y=31.00, z=6.00] as it would cause deadlock
-[10Apr2025 01:32:46.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:33:14.818] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180525, l='ServerLevel[world]', x=-1362.00, y=31.00, z=90.00] as it would cause deadlock
-[10Apr2025 01:33:22.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:33:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
-[10Apr2025 01:33:38.214] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180778, l='ServerLevel[world]', x=-1428.00, y=31.00, z=88.00] as it would cause deadlock
-[10Apr2025 01:33:46.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:33:49.469] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180894, l='ServerLevel[world]', x=-1409.00, y=31.00, z=100.00] as it would cause deadlock
-[10Apr2025 01:33:50.316] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180913, l='ServerLevel[world]', x=-1457.00, y=31.00, z=11.00] as it would cause deadlock
-[10Apr2025 01:33:50.468] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180919, l='ServerLevel[world]', x=-1466.00, y=31.00, z=81.00] as it would cause deadlock
-[10Apr2025 01:33:55.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:34:03.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [The Only Good Bug...]
-[10Apr2025 01:34:11.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Timed out
-[10Apr2025 01:34:11.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
-[10Apr2025 01:34:25.055] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 01:34:25.611] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 01:34:25.653] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 01:34:25.653] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 01:34:25.727] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 01:34:25.729] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 01:34:25.729] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 01:34:45.911] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[10Apr2025 01:34:48.458] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[10Apr2025 01:34:48.458] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[10Apr2025 01:34:48.560] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[10Apr2025 01:34:48.826] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[10Apr2025 01:34:50.123] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:58837] logged in with entity id 181581 at (-1287.63499482532, 43.0, -63.356641006183864)
-[10Apr2025 01:34:50.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
-[10Apr2025 01:34:50.208] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
-[10Apr2025 01:36:09.845] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/183774, l='ServerLevel[world]', x=-1714.00, y=31.00, z=287.00] as it would cause deadlock
-[10Apr2025 01:36:19.099] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/183980, l='ServerLevel[world]', x=-1816.00, y=31.00, z=291.00] as it would cause deadlock
-[10Apr2025 01:36:19.367] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[10Apr2025 01:36:19.368] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[10Apr2025 01:36:21.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved too quickly! -8.747295871419965,3.058900711837701,7.32060597094636
-[10Apr2025 01:36:50.115] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/184931, l='ServerLevel[world]', x=-1482.00, y=31.00, z=-279.00] as it would cause deadlock
-[10Apr2025 01:36:50.116] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/184933, l='ServerLevel[world]', x=-1481.00, y=31.00, z=-277.00] as it would cause deadlock
-[10Apr2025 01:37:05.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:37:31.874] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/185839, l='ServerLevel[world]', x=-1983.00, y=31.00, z=302.00] as it would cause deadlock
-[10Apr2025 01:37:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:38:04.041] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/186799, l='ServerLevel[world]', x=-1877.00, y=31.00, z=587.00] as it would cause deadlock
-[10Apr2025 01:38:11.183] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187022, l='ServerLevel[world]', x=-1951.00, y=31.00, z=619.00] as it would cause deadlock
-[10Apr2025 01:38:16.647] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187137, l='ServerLevel[world]', x=-2091.00, y=31.00, z=249.00] as it would cause deadlock
-[10Apr2025 01:38:18.502] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187172, l='ServerLevel[world]', x=-2098.00, y=31.00, z=452.00] as it would cause deadlock
-[10Apr2025 01:38:25.487] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187241, l='ServerLevel[world]', x=-2079.00, y=31.00, z=154.00] as it would cause deadlock
-[10Apr2025 01:38:41.707] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187533, l='ServerLevel[world]', x=-2181.00, y=31.00, z=487.00] as it would cause deadlock
-[10Apr2025 01:38:42.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:38:51.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2100, y=54, z=491} BlockPos{x=-2099, y=55, z=491}
-[10Apr2025 01:39:19.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:39:27.316] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/189027, l='ServerLevel[world]', x=-2470.00, y=31.00, z=614.00] as it would cause deadlock
-[10Apr2025 01:40:23.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [A Burning Arena]
-[10Apr2025 01:40:26.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:40:26.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [A Burning Arena]
-[10Apr2025 01:40:28.710] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/191042, l='ServerLevel[world]', x=-2626.00, y=31.00, z=392.00] as it would cause deadlock
-[10Apr2025 01:40:45.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported RED_WasT4ken to OinkOtaku]
-[10Apr2025 01:40:48.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:41:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [The Imperfect thing]
-[10Apr2025 01:42:22.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported OinkOtaku to RED_WasT4ken]
-[10Apr2025 01:42:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [A Burning Arena]
-[10Apr2025 01:42:41.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was slain by Enderman
-[10Apr2025 01:42:56.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Disconnected
-[10Apr2025 01:42:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
-[10Apr2025 01:43:07.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
-[10Apr2025 01:43:22.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 01:43:30.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Ignis
-[10Apr2025 01:43:34.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:43:34.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Ignis
-[10Apr2025 01:43:38.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:43:52.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was killed by Ignis using magic
-[10Apr2025 01:43:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has completed the challenge [The Extinguished Fire]
-[10Apr2025 01:43:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
-[10Apr2025 01:44:56.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was doomed to fall
-[10Apr2025 01:45:15.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
-[10Apr2025 01:45:20.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
-[10Apr2025 01:45:51.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was killed by Ignis using magic
-[10Apr2025 01:45:53.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
-[10Apr2025 01:45:57.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has completed the challenge [The Extinguished Fire]
-[10Apr2025 01:46:51.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Timed out
-[10Apr2025 01:46:51.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
-[10Apr2025 01:47:01.684] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
-[10Apr2025 01:47:01.824] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
-[10Apr2025 01:47:01.824] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
-[10Apr2025 01:47:01.962] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
-[10Apr2025 01:47:01.988] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
-[10Apr2025 01:47:01.988] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
-[10Apr2025 01:47:02.095] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
-[10Apr2025 01:47:02.096] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
-[10Apr2025 01:47:02.098] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
-[10Apr2025 01:47:02.239] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
-[10Apr2025 01:47:02.244] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
-[10Apr2025 01:47:02.244] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
-[10Apr2025 01:47:04.465] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
-[10Apr2025 01:47:04.769] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
-[10Apr2025 01:47:04.769] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
-[10Apr2025 01:47:04.790] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
-[10Apr2025 01:47:04.902] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
-[10Apr2025 01:47:05.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:38139] logged in with entity id 200804 at (-2466.9687687202836, 65.0, 416.1574754683426)
-[10Apr2025 01:47:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
-[10Apr2025 01:47:05.655] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
-[10Apr2025 01:47:33.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RED_WasT4ken lost connection: Disconnected
-[10Apr2025 01:47:33.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken left the game
-[10Apr2025 01:47:33.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku lost connection: Disconnected
-[10Apr2025 01:47:33.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku left the game
-[10Apr2025 01:47:33.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
-[10Apr2025 01:47:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
-[10Apr2025 01:47:33.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[10Apr2025 01:47:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[10Apr2025 01:47:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[10Apr2025 01:47:34.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[10Apr2025 01:47:34.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[10Apr2025 01:47:34.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[10Apr2025 01:47:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[10Apr2025 01:47:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[10Apr2025 01:47:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[10Apr2025 01:47:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[10Apr2025 01:47:35.909] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@32d59e5f
-[10Apr2025 01:47:35.911] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Apr2025 01:54:06.649] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[10Apr2025 01:54:06.653] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[10Apr2025 01:54:07.810] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[10Apr2025 01:54:07.875] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/minecraft-server/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[10Apr2025 01:54:08.215] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[10Apr2025 01:54:08.217] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Apr2025 01:54:08.218] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Apr2025 01:54:08.219] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[10Apr2025 01:54:08.492] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[10Apr2025 01:54:08.494] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[10Apr2025 01:54:10.667] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[10Apr2025 01:54:10.787] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[10Apr2025 01:54:10.971] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[10Apr2025 01:54:10.972] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[10Apr2025 01:54:11.000] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[10Apr2025 01:54:11.149] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[10Apr2025 01:54:11.170] [main/WARN] [mixin/]: Reference map 'simplyswords-forge-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Apr2025 01:54:11.183] [main/WARN] [mixin/]: Reference map 'integrated_simply_swords-forge-forge-refmap.json' for integrated_simply_swords.mixins.json could not be read. If this is a development environment you can ignore this message
+[10Apr2025 01:54:11.205] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 89 options available, 0 override(s) found
+[10Apr2025 01:54:13.188] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[10Apr2025 01:54:13.583] [main/WARN] [net.minecraft.SystemReport/]: Failed retrieving info for group hardware
+java.lang.NoClassDefFoundError: com/sun/jna/Platform
+	at oshi.SystemInfo.<clinit>(SystemInfo.java:60) ~[oshi-core-6.2.2.jar%2369!/:6.2.2]
+	at net.minecraft.SystemReport.m_143564_(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.SystemReport.m_143516_(SystemReport.java:82) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.SystemReport.<init>(SystemReport.java:52) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.CrashReport.<init>(CrashReport.java:31) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.CrashReport.m_127529_(CrashReport.java:216) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.server.Main.main(Main.java:116) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2367!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2353!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
+Caused by: java.lang.ClassNotFoundException: com.sun.jna.Platform
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:137) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	... 22 more
+[10Apr2025 01:54:13.680] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.625 s after launch)
+[10Apr2025 01:54:13.845] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[10Apr2025 01:54:13.846] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[10Apr2025 01:54:15.919] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 2235 milliseconds
+[10Apr2025 01:54:20.184] [modloading-worker-0/INFO] [Calio/]: Calio 1.20.1-1.11.0.5 initializing...
+[10Apr2025 01:54:20.340] [modloading-worker-0/INFO] [io.github.apace100.origins.Origins/]: Origins 1.20.1-1.10.0.9 is initializing. Have fun!
+[10Apr2025 01:54:20.654] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[10Apr2025 01:54:20.657] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[10Apr2025 01:54:20.665] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[10Apr2025 01:54:20.666] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[10Apr2025 01:54:20.671] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[10Apr2025 01:54:20.672] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[10Apr2025 01:54:20.674] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[10Apr2025 01:54:20.675] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[10Apr2025 01:54:20.775] [modloading-worker-0/INFO] [io.github.apace100.apoli.Apoli/]: Apoli 1.20.1-2.9.0.8 has initialized. Ready to power up your game!
+[10Apr2025 01:54:20.808] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[10Apr2025 01:54:20.810] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[10Apr2025 01:54:20.813] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[10Apr2025 01:54:20.813] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[10Apr2025 01:54:20.813] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[10Apr2025 01:54:20.813] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[10Apr2025 01:54:20.813] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[10Apr2025 01:54:21.085] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[10Apr2025 01:54:21.085] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[10Apr2025 01:54:21.152] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[10Apr2025 01:54:21.335] [modloading-worker-0/INFO] [ModernFix/]: Bypassed Mojang DFU
+[10Apr2025 01:54:21.339] [modloading-worker-0/INFO] [ModernFix/]: Instantiating Mojang DFU
+[10Apr2025 01:54:25.191] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[10Apr2025 01:54:25.564] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.20.1
+[10Apr2025 01:54:25.701] [main/INFO] [journeymap/]: Initializing Packet Registries
+[10Apr2025 01:54:26.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA Current: 17.1.19 Target: 17.1.19
+[10Apr2025 01:54:26.042] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[10Apr2025 01:54:26.194] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[10Apr2025 01:54:26.195] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.20.1
+[10Apr2025 01:54:26.222] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[10Apr2025 01:54:26.239] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[10Apr2025 01:54:26.243] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[10Apr2025 01:54:26.245] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at de.maxhenkel.corpse.integration.waila.PluginCorpse
+[10Apr2025 01:54:26.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 20.2.13 Target: 20.2.13
+[10Apr2025 01:54:26.298] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[10Apr2025 01:54:26.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.4+mc1.20.1-build.131 Target: null
+[10Apr2025 01:54:26.421] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[10Apr2025 01:54:26.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[10Apr2025 01:54:26.543] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Starting version check at https://update.maxhenkel.de/forge/corpse
+[10Apr2025 01:54:26.770] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[10Apr2025 01:54:26.773] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[10Apr2025 01:54:26.773] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[10Apr2025 01:54:26.800] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10Apr2025 01:54:27.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [corpse] Found status: AHEAD Current: 1.20.1-1.0.20 Target: null
+[10Apr2025 01:54:27.110] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[10Apr2025 01:54:27.110] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/minecraft-server/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[10Apr2025 01:54:28.627] [main/INFO] [Calio/]: CDRM Initialized with 16 registries
+[10Apr2025 01:54:28.631] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[10Apr2025 01:54:29.745] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:simplyswords:grant_book_on_first_join
+com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'patchouli:guide_book'
+	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
+	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2370!/:?]
+	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23178!/:?]
+	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23178!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
+	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23173!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[10Apr2025 01:54:31.181] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[10Apr2025 01:54:31.301] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1980 advancements
+[10Apr2025 01:54:32.033] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[10Apr2025 01:54:32.038] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio entities
+[10Apr2025 01:54:32.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[10Apr2025 01:54:32.181] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[10Apr2025 01:54:32.182] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[10Apr2025 01:54:32.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[10Apr2025 01:54:32.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[10Apr2025 01:54:32.329] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Apr2025 01:54:32.366] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: req: https://broker.e4mc.link/getBestRelay GET
+[10Apr2025 01:54:32.392] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[10Apr2025 01:54:32.399] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10Apr2025 01:54:32.400] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[10Apr2025 01:54:32.400] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10Apr2025 01:54:32.401] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[10Apr2025 01:54:32.426] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[10Apr2025 01:54:32.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[10Apr2025 01:54:32.945] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: resp: (GET https://broker.e4mc.link/getBestRelay) 200
+[10Apr2025 01:54:32.946] [e4mc_minecraft-init/INFO] [e4mc_minecraft/]: using relay na
+[10Apr2025 01:54:33.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[10Apr2025 01:54:33.407] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel open: [id: 0x91db5c9e, QuicStreamAddress{streamId=0}]
+[10Apr2025 01:54:33.408] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: control channel write complete
+[10Apr2025 01:54:33.437] [nioEventLoopGroup-2-1/WARN] [e4mc_minecraft/]: e4mc running on Dedicated Server; This works, but isn't recommended as e4mc is designed for short-lived LAN servers
+[10Apr2025 01:54:33.440] [nioEventLoopGroup-2-1/INFO] [e4mc_minecraft/]: Domain assigned: perfect-daring.na.e4mc.link
+[10Apr2025 01:54:34.699] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 01:54:34.700] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 01:54:34.700] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 01:54:34.701] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[10Apr2025 01:54:35.226] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2067 ms
+[10Apr2025 01:54:35.227] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.810s)! For help, type "help"
+[10Apr2025 01:54:35.263] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[10Apr2025 01:54:35.290] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[10Apr2025 01:54:35.290] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[10Apr2025 01:54:35.429] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 274565 bytes (in 28 string chunks with the size of 10000)
+[10Apr2025 01:54:35.430] [Server thread/WARN] [ModernFix/]: Dedicated server took 31.377 seconds to load
+[10Apr2025 01:56:31.543] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 01:56:31.671] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 01:56:31.672] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 01:56:31.672] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 01:56:31.673] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 01:56:31.674] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 01:56:31.675] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 01:56:31.677] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 01:56:31.680] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 01:56:31.803] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 01:56:31.843] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 01:56:31.865] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 01:56:33.767] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[10Apr2025 01:56:33.953] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[10Apr2025 01:56:33.982] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[10Apr2025 01:56:33.983] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[10Apr2025 01:56:33.983] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[10Apr2025 01:56:35.092] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[10Apr2025 01:56:35.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:34505] logged in with entity id 20 at (-2465.193083282238, 65.0, 420.94536185118125)
+[10Apr2025 01:56:35.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[10Apr2025 01:56:35.592] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[10Apr2025 01:58:07.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set spawn point to -2474, 65, 408 [0.0] in minecraft:the_nether for Yuha150]
