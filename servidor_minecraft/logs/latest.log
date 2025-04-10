@@ -326,3 +326,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 13:15:13.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [10Apr2025 13:15:13.588] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [10Apr2025 13:18:05.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [Not Today, Thank You]
+[10Apr2025 13:20:49.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=72, z=-501} BlockPos{x=134, y=75, z=-506}
+[10Apr2025 13:20:49.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=72, z=-501} BlockPos{x=134, y=75, z=-506}
+[10Apr2025 13:20:49.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=72, z=-501} BlockPos{x=134, y=75, z=-506}
+[10Apr2025 13:20:49.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=72, z=-501} BlockPos{x=134, y=75, z=-506}
+[10Apr2025 13:21:02.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=134, y=77, z=-508} BlockPos{x=134, y=76, z=-510}
+[10Apr2025 13:23:42.003] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/29894, l='ServerLevel[world]', x=339.00, y=31.00, z=-533.00] as it would cause deadlock

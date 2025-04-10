@@ -6648,9 +6648,21 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-10 13:18:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2025-04-10 13:00:11 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-04-10 13:25:44 +0000"
     },
     "done": true
   },
