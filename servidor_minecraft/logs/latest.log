@@ -536,3 +536,131 @@
 [10Apr2025 01:29:48.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
 [10Apr2025 01:29:48.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has completed the challenge [Hot Tourist Destinations]
 [10Apr2025 01:29:56.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [Straddle My Ol' Saddle]
+[10Apr2025 01:30:47.567] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/177768, l='ServerLevel[world]', x=-1304.00, y=31.00, z=-252.00] as it would cause deadlock
+[10Apr2025 01:31:16.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to 0.500000, 0.000000, 0.500000]
+[10Apr2025 01:31:19.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:31:20.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was doomed to fall
+[10Apr2025 01:31:23.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:32:19.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:32:28.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:32:43.064] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180302, l='ServerLevel[world]', x=-1096.00, y=31.00, z=6.00] as it would cause deadlock
+[10Apr2025 01:32:46.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:33:14.818] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180525, l='ServerLevel[world]', x=-1362.00, y=31.00, z=90.00] as it would cause deadlock
+[10Apr2025 01:33:22.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:33:35.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
+[10Apr2025 01:33:38.214] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180778, l='ServerLevel[world]', x=-1428.00, y=31.00, z=88.00] as it would cause deadlock
+[10Apr2025 01:33:46.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:33:49.469] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180894, l='ServerLevel[world]', x=-1409.00, y=31.00, z=100.00] as it would cause deadlock
+[10Apr2025 01:33:50.316] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180913, l='ServerLevel[world]', x=-1457.00, y=31.00, z=11.00] as it would cause deadlock
+[10Apr2025 01:33:50.468] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/180919, l='ServerLevel[world]', x=-1466.00, y=31.00, z=81.00] as it would cause deadlock
+[10Apr2025 01:33:55.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:34:03.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [The Only Good Bug...]
+[10Apr2025 01:34:11.659] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Timed out
+[10Apr2025 01:34:11.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[10Apr2025 01:34:25.055] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 01:34:25.611] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 01:34:25.652] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 01:34:25.653] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 01:34:25.653] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 01:34:25.727] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 01:34:25.729] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 01:34:25.729] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 01:34:45.911] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[10Apr2025 01:34:48.458] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[10Apr2025 01:34:48.458] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[10Apr2025 01:34:48.560] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[10Apr2025 01:34:48.826] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[10Apr2025 01:34:50.123] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:58837] logged in with entity id 181581 at (-1287.63499482532, 43.0, -63.356641006183864)
+[10Apr2025 01:34:50.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[10Apr2025 01:34:50.208] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[10Apr2025 01:36:09.845] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/183774, l='ServerLevel[world]', x=-1714.00, y=31.00, z=287.00] as it would cause deadlock
+[10Apr2025 01:36:19.099] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/183980, l='ServerLevel[world]', x=-1816.00, y=31.00, z=291.00] as it would cause deadlock
+[10Apr2025 01:36:19.367] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[10Apr2025 01:36:19.368] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[10Apr2025 01:36:21.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved too quickly! -8.747295871419965,3.058900711837701,7.32060597094636
+[10Apr2025 01:36:50.115] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/184931, l='ServerLevel[world]', x=-1482.00, y=31.00, z=-279.00] as it would cause deadlock
+[10Apr2025 01:36:50.116] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/184933, l='ServerLevel[world]', x=-1481.00, y=31.00, z=-277.00] as it would cause deadlock
+[10Apr2025 01:37:05.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:37:31.874] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/185839, l='ServerLevel[world]', x=-1983.00, y=31.00, z=302.00] as it would cause deadlock
+[10Apr2025 01:37:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:38:04.041] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/186799, l='ServerLevel[world]', x=-1877.00, y=31.00, z=587.00] as it would cause deadlock
+[10Apr2025 01:38:11.183] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187022, l='ServerLevel[world]', x=-1951.00, y=31.00, z=619.00] as it would cause deadlock
+[10Apr2025 01:38:16.647] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187137, l='ServerLevel[world]', x=-2091.00, y=31.00, z=249.00] as it would cause deadlock
+[10Apr2025 01:38:18.502] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187172, l='ServerLevel[world]', x=-2098.00, y=31.00, z=452.00] as it would cause deadlock
+[10Apr2025 01:38:25.487] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187241, l='ServerLevel[world]', x=-2079.00, y=31.00, z=154.00] as it would cause deadlock
+[10Apr2025 01:38:41.707] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/187533, l='ServerLevel[world]', x=-2181.00, y=31.00, z=487.00] as it would cause deadlock
+[10Apr2025 01:38:42.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:38:51.759] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2100, y=54, z=491} BlockPos{x=-2099, y=55, z=491}
+[10Apr2025 01:39:19.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:39:27.316] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/189027, l='ServerLevel[world]', x=-2470.00, y=31.00, z=614.00] as it would cause deadlock
+[10Apr2025 01:40:23.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [A Burning Arena]
+[10Apr2025 01:40:26.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:40:26.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [A Burning Arena]
+[10Apr2025 01:40:28.710] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/191042, l='ServerLevel[world]', x=-2626.00, y=31.00, z=392.00] as it would cause deadlock
+[10Apr2025 01:40:45.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported RED_WasT4ken to OinkOtaku]
+[10Apr2025 01:40:48.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:41:11.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [The Imperfect thing]
+[10Apr2025 01:42:22.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported OinkOtaku to RED_WasT4ken]
+[10Apr2025 01:42:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has made the advancement [A Burning Arena]
+[10Apr2025 01:42:41.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX was slain by Enderman
+[10Apr2025 01:42:56.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Disconnected
+[10Apr2025 01:42:56.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
+[10Apr2025 01:43:07.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
+[10Apr2025 01:43:22.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
+[10Apr2025 01:43:30.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was slain by Ignis
+[10Apr2025 01:43:34.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:43:34.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Ignis
+[10Apr2025 01:43:38.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[10Apr2025 01:43:52.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken was killed by Ignis using magic
+[10Apr2025 01:43:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku has completed the challenge [The Extinguished Fire]
+[10Apr2025 01:43:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[10Apr2025 01:44:56.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was doomed to fall
+[10Apr2025 01:45:15.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
+[10Apr2025 01:45:20.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
+[10Apr2025 01:45:51.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was killed by Ignis using magic
+[10Apr2025 01:45:53.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[10Apr2025 01:45:57.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has completed the challenge [The Extinguished Fire]
+[10Apr2025 01:46:51.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Timed out
+[10Apr2025 01:46:51.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[10Apr2025 01:47:01.684] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 01:47:01.824] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 01:47:01.824] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 01:47:01.962] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 01:47:01.988] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 01:47:01.988] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 01:47:02.095] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 01:47:02.096] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 01:47:02.098] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 01:47:02.239] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 01:47:02.244] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 01:47:02.244] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 01:47:04.465] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[10Apr2025 01:47:04.769] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[10Apr2025 01:47:04.769] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[10Apr2025 01:47:04.790] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[10Apr2025 01:47:04.902] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[10Apr2025 01:47:05.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:38139] logged in with entity id 200804 at (-2466.9687687202836, 65.0, 416.1574754683426)
+[10Apr2025 01:47:05.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[10Apr2025 01:47:05.655] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[10Apr2025 01:47:33.837] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RED_WasT4ken lost connection: Disconnected
+[10Apr2025 01:47:33.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken left the game
+[10Apr2025 01:47:33.844] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku lost connection: Disconnected
+[10Apr2025 01:47:33.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku left the game
+[10Apr2025 01:47:33.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[10Apr2025 01:47:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[10Apr2025 01:47:33.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Apr2025 01:47:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Apr2025 01:47:33.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Apr2025 01:47:34.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Apr2025 01:47:34.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Apr2025 01:47:34.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Apr2025 01:47:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Apr2025 01:47:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Apr2025 01:47:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Apr2025 01:47:35.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Apr2025 01:47:35.909] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@32d59e5f
+[10Apr2025 01:47:35.911] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
