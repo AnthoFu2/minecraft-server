@@ -217,3 +217,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 02:11:22.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
 [10Apr2025 02:13:08.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
 [10Apr2025 02:13:52.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
+[10Apr2025 02:14:40.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
+[10Apr2025 02:15:26.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
+[10Apr2025 02:15:33.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was killed by Ignis using magic
+[10Apr2025 02:16:59.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was slain by Ignis
+[10Apr2025 02:17:23.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was killed by Ignis using magic
+[10Apr2025 02:19:12.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Creative Mode]
+[10Apr2025 02:19:36.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
+[10Apr2025 02:19:55.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2437, y=42, z=480} BlockPos{x=-2438, y=42, z=479}
+[10Apr2025 02:23:40.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Tramposo
+[10Apr2025 02:23:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> ah eso
+[10Apr2025 02:24:03.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> estoy viendo que te da el man de ingito o como se llame
+[10Apr2025 02:24:11.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ve guardando tus cosas, ya me voy a mimir
+[10Apr2025 02:24:17.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Yuha150> segun las armas tienen una prob muy bajas
