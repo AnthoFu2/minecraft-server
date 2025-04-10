@@ -146,3 +146,113 @@
 [10Apr2025 00:38:10.292] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 tropical_fish because there is no smelting recipe
 [10Apr2025 00:38:13.365] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3642ms or 72 ticks behind
 [10Apr2025 00:38:31.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3617ms or 72 ticks behind
+[10Apr2025 00:38:51.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4527ms or 90 ticks behind
+[10Apr2025 00:39:10.104] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3681ms or 73 ticks behind
+[10Apr2025 00:39:46.763] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marcos35 lost connection: Disconnected
+[10Apr2025 00:39:46.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marcos35 left the game
+[10Apr2025 00:39:54.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Best Friends Forever]
+[10Apr2025 00:41:17.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
+[10Apr2025 00:41:33.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX fell from a high place
+[10Apr2025 00:43:08.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 149 entities]
+[10Apr2025 00:43:41.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[10Apr2025 00:43:43.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[10Apr2025 00:43:59.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[10Apr2025 00:44:00.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [We do a little trolling...]
+[10Apr2025 00:44:14.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 211 entities]
+[10Apr2025 00:44:18.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku moved too quickly! 0.0012255918442178881,-10.811596629254794,-0.0170176259789514
+[10Apr2025 00:44:22.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[10Apr2025 00:44:27.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
+[10Apr2025 00:44:40.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[10Apr2025 00:44:59.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4191ms or 83 ticks behind
+[10Apr2025 00:45:04.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed 275 entities]
+[10Apr2025 00:45:21.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Apr2025 00:45:41.178] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4455ms or 89 ticks behind
+[10Apr2025 00:46:06.289] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10116ms or 202 ticks behind
+[10Apr2025 00:46:11.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX fell from a high place
+[10Apr2025 00:46:26.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5090ms or 101 ticks behind
+[10Apr2025 00:46:44.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2703ms or 54 ticks behind
+[10Apr2025 00:47:08.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[10Apr2025 00:47:09.921] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 00:47:09.972] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 00:47:09.990] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 00:47:10.091] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 00:47:10.098] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 00:47:10.105] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 00:47:10.206] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 00:47:10.213] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 00:47:10.215] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 00:47:10.316] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 00:47:10.419] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 00:47:10.419] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 00:47:38.736] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@401aaa19[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:40971): Took too long to log in
+[10Apr2025 00:47:38.737] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@401aaa19[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:40971) lost connection: Took too long to log in
+[10Apr2025 00:47:38.817] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Apr2025 00:47:55.282] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
+[10Apr2025 00:48:04.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.41579248161184523
+[10Apr2025 00:48:05.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.3277301125721124
+[10Apr2025 00:48:05.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.9305093339014547
+[10Apr2025 00:48:05.773] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5383876674686405
+[10Apr2025 00:48:06.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.5964294623198327
+[10Apr2025 00:48:06.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.2013558119319043
+[10Apr2025 00:48:06.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.8035164081059918
+[10Apr2025 00:48:06.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.4041971047585946
+[10Apr2025 00:48:06.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.002205914347087
+[10Apr2025 00:48:06.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.856947181347152,-20.0,12.348521386064021
+[10Apr2025 00:48:06.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.84220409784021,-19.0,12.355847111646767
+[10Apr2025 00:48:06.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.468166146483867,-18.0,11.847265789290418
+[10Apr2025 00:48:06.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.116718938112484,-18.0,11.322254012778558
+[10Apr2025 00:48:06.784] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.911188178149104,-17.0,10.747159587995384
+[10Apr2025 00:48:06.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.858925572849728,-17.0,10.150454725447162
+[10Apr2025 00:48:06.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.892795854832798,-16.0,9.543040447835892
+[10Apr2025 00:48:06.924] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.961773066384808,-16.0,8.938492681489834
+[10Apr2025 00:48:06.974] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.028718626028365,-16.0,8.938492681489834
+[10Apr2025 00:48:07.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.06663056747422,-16.0,8.938492681489834
+[10Apr2025 00:48:07.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.06104181745019,-16.0,8.938492681489834
+[10Apr2025 00:48:07.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 21.015734843301345,-16.0,8.938492681489834
+[10Apr2025 00:48:07.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.913357448130398,-16.0,8.938492681489834
+[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 20.69544417831986,-16.0,8.938492681489834
+[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 10.306855387067401,-7.0,4.82509359071787
+[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 10.306855387067401,-7.0,4.82509359071787
+[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 10.306855387067401,-7.0,4.82509359071787
+[10Apr2025 00:48:07.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved too quickly! 9.962904727569963,-6.0,4.637598859322566
+[10Apr2025 00:48:08.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.082] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.083] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.1810481983534424
+[10Apr2025 00:48:08.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.8400316205012359
+[10Apr2025 00:48:08.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.0219560368159364
+[10Apr2025 00:48:08.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.685226115709014
+[10Apr2025 00:48:08.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.430448800954197
+[10Apr2025 00:48:08.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.0212706905485902
+[10Apr2025 00:48:08.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.7352451518672467
+[10Apr2025 00:48:08.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
+[10Apr2025 00:48:08.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
+[10Apr2025 00:48:08.362] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
+[10Apr2025 00:48:08.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
+[10Apr2025 00:48:08.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
+[10Apr2025 00:48:08.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
+[10Apr2025 00:48:08.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 1.5006232756492464
+[10Apr2025 00:48:08.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.8752455866827505
+[10Apr2025 00:48:08.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of TheKinghtxX) moved wrongly! 0.25724285210083053
+[10Apr2025 00:48:17.800] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[10Apr2025 00:48:23.479] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[10Apr2025 00:48:23.481] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[10Apr2025 00:48:23.481] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[10Apr2025 00:48:23.481] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[10Apr2025 00:48:23.579] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[10Apr2025 00:48:23.619] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[10Apr2025 00:48:23.619] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[10Apr2025 00:48:23.619] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[10Apr2025 00:48:23.682] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[10Apr2025 00:48:23.698] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[10Apr2025 00:48:23.764] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[10Apr2025 00:48:23.874] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[10Apr2025 00:48:36.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3937ms or 78 ticks behind
+[10Apr2025 00:48:53.886] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@302cb55c[id=<null>,name=AnthoFu,properties={},legacy=false] (/127.117.152.207:45671) lost connection: Timed out
+[10Apr2025 00:48:56.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4967ms or 99 ticks behind

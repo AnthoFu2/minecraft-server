@@ -567,7 +567,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-10 00:31:01 +0000",
       "minecraft:spider": "2025-04-10 00:27:51 +0000",
-      "minecraft:witch": "2025-04-10 00:27:35 +0000"
+      "minecraft:witch": "2025-04-10 00:27:35 +0000",
+      "minecraft:drowned": "2025-04-10 00:35:39 +0000"
     },
     "done": false
   },

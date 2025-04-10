@@ -847,6 +847,7 @@
       "minecraft:ravager": "2025-04-08 01:08:06 +0000",
       "minecraft:ghast": "2025-04-06 04:54:14 +0000",
       "minecraft:hoglin": "2025-03-31 04:04:30 +0000",
+      "minecraft:guardian": "2025-04-10 00:38:06 +0000",
       "minecraft:vindicator": "2025-04-05 03:23:35 +0000",
       "minecraft:magma_cube": "2025-04-08 13:37:57 +0000",
       "minecraft:spider": "2025-03-30 13:08:11 +0000",
@@ -6509,6 +6510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-10 00:38:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
     "criteria": {
       "has_item": "2025-04-10 00:05:39 +0000"
@@ -6521,9 +6528,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-10 00:38:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2025-04-10 00:33:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-10 00:38:08 +0000"
     },
     "done": true
   },
