@@ -356,3 +356,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [10Apr2025 13:57:09.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Set own game mode to Survival Mode]
 [10Apr2025 13:58:15.127] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [10Apr2025 13:58:19.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <AnthoFu> a
+[10Apr2025 14:01:25.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[10Apr2025 14:02:04.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was cursed by Maledictus 's Magic
+[10Apr2025 14:02:10.051] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
+[10Apr2025 14:02:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[10Apr2025 14:02:29.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was cursed by Maledictus
+[10Apr2025 14:02:32.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[10Apr2025 14:02:37.291] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
+[10Apr2025 14:06:11.863] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 tropical_fish because there is no smelting recipe
+[10Apr2025 14:06:38.815] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
+[10Apr2025 14:06:40.971] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
+[10Apr2025 14:07:50.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[10Apr2025 14:08:33.422] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/88555, l='ServerLevel[world]', x=124.14, y=72.38, z=-481.27] died, message: 'Unemployed was squished too much'
