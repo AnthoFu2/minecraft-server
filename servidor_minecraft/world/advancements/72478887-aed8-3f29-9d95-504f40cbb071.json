@@ -4059,6 +4059,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-10 00:47:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2025-04-10 00:38:13 +0000"
@@ -4353,6 +4359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-10 00:47:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
     "criteria": {
       "has_item": "2025-04-10 00:31:52 +0000"
@@ -4386,6 +4398,12 @@
   "iceandfire:recipes/combat/armor_green_boots": {
     "criteria": {
       "has_item": "2025-04-09 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-10 00:47:55 +0000"
     },
     "done": true
   },
