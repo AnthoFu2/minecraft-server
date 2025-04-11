@@ -725,3 +725,20 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [11Apr2025 14:52:57.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX has made the advancement [Cobweb Entanglement]
 [11Apr2025 14:53:26.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
 [11Apr2025 14:53:26.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[11Apr2025 15:11:04.130] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[11Apr2025 15:11:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[11Apr2025 15:13:09.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Ya voy a cerrar sv
+[11Apr2025 15:13:14.702] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheKinghtxX lost connection: Disconnected
+[11Apr2025 15:13:14.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheKinghtxX left the game
+[11Apr2025 15:13:17.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Apr2025 15:13:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Apr2025 15:13:17.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Apr2025 15:13:17.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Apr2025 15:13:17.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Apr2025 15:13:17.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Apr2025 15:13:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Apr2025 15:13:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Apr2025 15:13:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Apr2025 15:13:17.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Apr2025 15:13:17.487] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@5120e0a0
+[11Apr2025 15:13:17.490] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
