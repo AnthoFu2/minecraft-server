@@ -5243,21 +5243,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
+  "alexsmobs:alexsmobs/blood_sprayer": {
     "criteria": {
-      "has_emerald_block": "2025-04-11 14:51:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-04-11 14:34:24 +0000"
+      "blood_sprayer": "2025-04-11 13:52:25 +0000"
     },
     "done": true
   },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-04-11 14:03:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-11 14:34:24 +0000"
     },
     "done": true
   },
@@ -5291,9 +5291,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/blood_sprayer": {
+  "minecraft:recipes/misc/emerald": {
     "criteria": {
-      "blood_sprayer": "2025-04-11 13:52:25 +0000"
+      "has_emerald_block": "2025-04-11 14:51:48 +0000"
     },
     "done": true
   },
