@@ -2754,5 +2754,23 @@
     },
     "done": true
   },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-04-12 00:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-12 00:26:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-12 00:26:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
