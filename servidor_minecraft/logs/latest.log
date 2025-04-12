@@ -264,3 +264,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 17:29:54.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:58309] logged in with entity id 6328 at (-143.96718034394527, 162.0, 1395.0169616966207)
 [12Apr2025 17:29:54.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
 [12Apr2025 17:29:54.269] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)
+[12Apr2025 17:31:24.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[12Apr2025 17:34:07.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was killed
+[12Apr2025 17:34:07.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Killed Yuha150]
+[12Apr2025 17:34:22.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to OinkOtaku]
+[12Apr2025 17:35:05.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku was slain by Deepling Brute
+[12Apr2025 17:35:29.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was killed
+[12Apr2025 17:35:29.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Killed Yuha150]
+[12Apr2025 17:37:20.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16721, l='ServerLevel[world]', x=124.18, y=72.47, z=-481.16] died, message: 'Unemployed was squished too much'
+[12Apr2025 17:38:01.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[12Apr2025 17:38:01.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
