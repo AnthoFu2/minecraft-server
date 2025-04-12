@@ -274,3 +274,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 17:37:20.338] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16721, l='ServerLevel[world]', x=124.18, y=72.47, z=-481.16] died, message: 'Unemployed was squished too much'
 [12Apr2025 17:38:01.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
 [12Apr2025 17:38:01.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[12Apr2025 17:46:09.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set own game mode to Creative Mode]
+[12Apr2025 17:46:36.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set own game mode to Survival Mode]
+[12Apr2025 17:47:51.224] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_red] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[12Apr2025 17:47:51.225] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_orange] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
+[12Apr2025 17:47:51.225] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:phantomize_overlay_green] from power ResourceKey[apoli:configured_power / origins:phantomize_overlay]
