@@ -5388,9 +5388,15 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
+  "simplyswords:soulrender": {
     "criteria": {
-      "citadel": "2025-04-12 00:00:45 +0000"
+      "requirement": "2025-04-11 23:54:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-11 23:57:24 +0000"
     },
     "done": true
   },
@@ -5400,21 +5406,57 @@
     },
     "done": true
   },
-  "simplyswords:soulrender": {
-    "criteria": {
-      "requirement": "2025-04-11 23:54:06 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/capsid": {
     "criteria": {
       "capsid": "2025-04-11 23:58:26 +0000"
     },
     "done": true
   },
-  "minecraft:end/enter_end_gateway": {
+  "cataclysm:find_ruined_citadel": {
     "criteria": {
-      "entered_end_gateway": "2025-04-11 23:57:24 +0000"
+      "citadel": "2025-04-12 00:00:45 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/cosmic_cod": {
+    "criteria": {
+      "capsid": "2025-04-12 00:10:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-12 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-12 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-12 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-12 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_brick_stonecutting": {
+    "criteria": {
+      "has_end_stone_brick": "2025-04-12 00:13:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
+    "criteria": {
+      "has_end_stone_bricks": "2025-04-12 00:13:50 +0000"
     },
     "done": true
   },

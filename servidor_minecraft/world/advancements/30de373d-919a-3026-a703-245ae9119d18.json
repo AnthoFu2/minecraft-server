@@ -861,6 +861,7 @@
       "minecraft:witch": "2025-03-30 14:46:10 +0000",
       "minecraft:wither_skeleton": "2025-03-31 04:04:07 +0000",
       "minecraft:husk": "2025-03-30 14:25:28 +0000",
+      "minecraft:shulker": "2025-04-12 00:05:36 +0000",
       "minecraft:cave_spider": "2025-04-07 00:24:20 +0000",
       "minecraft:piglin": "2025-04-02 12:20:11 +0000",
       "minecraft:enderman": "2025-04-03 01:09:00 +0000",
@@ -6703,6 +6704,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-04-11 23:48:54 +0000"
@@ -6721,6 +6728,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:14:10 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-04-12 00:05:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/enter_end_gateway": {
     "criteria": {
       "entered_end_gateway": "2025-04-11 23:57:27 +0000"
@@ -6730,6 +6749,18 @@
   "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-04-11 23:48:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:14:10 +0000"
     },
     "done": true
   },
@@ -6745,6 +6776,18 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-04-12 00:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:14:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-04-11 23:48:54 +0000"
@@ -6757,9 +6800,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-12 00:05:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-04-11 23:48:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:14:10 +0000"
     },
     "done": true
   },
