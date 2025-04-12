@@ -756,6 +756,7 @@
       "minecraft:witch": "2025-04-05 15:19:14 +0000",
       "minecraft:wither_skeleton": "2025-04-05 02:08:52 +0000",
       "minecraft:husk": "2025-03-30 14:17:16 +0000",
+      "minecraft:shulker": "2025-04-12 00:39:42 +0000",
       "minecraft:cave_spider": "2025-04-07 01:04:38 +0000",
       "minecraft:piglin": "2025-03-30 13:22:59 +0000",
       "minecraft:enderman": "2025-04-05 01:57:35 +0000",
@@ -4615,9 +4616,39 @@
     },
     "done": true
   },
+  "cataclysm:find_ruined_citadel": {
+    "criteria": {
+      "citadel": "2025-04-12 00:39:20 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_aviary": {
     "criteria": {
       "location0": "2025-04-12 00:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-04-12 00:50:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-12 00:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-04-12 00:44:17 +0000"
     },
     "done": true
   },
@@ -4627,9 +4658,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:49:11 +0000"
+    },
+    "done": true
+  },
   "simplyswords:simplyswords": {
     "criteria": {
       "requirement": "2025-04-12 00:34:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-04-12 00:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-12 00:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:49:11 +0000"
     },
     "done": true
   },
@@ -4639,15 +4700,45 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_guardian": {
+    "criteria": {
+      "enderguardian": "2025-04-12 00:43:10 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-04-12 00:25:55 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:49:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-12 00:44:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-04-12 00:44:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2025-04-12 00:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-04-12 00:49:11 +0000"
     },
     "done": true
   },
