@@ -375,3 +375,107 @@ java.net.http.HttpTimeoutException: request timed out
 [12Apr2025 12:39:21.388] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [12Apr2025 12:45:32.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
 [12Apr2025 12:45:32.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[12Apr2025 12:56:53.865] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/37328, l='ServerLevel[world]', x=124.70, y=72.27, z=-481.29] died, message: 'Unemployed was squished too much'
+[12Apr2025 13:02:31.891] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Apr2025 13:02:31.993] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Apr2025 13:02:31.993] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Apr2025 13:02:32.093] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Apr2025 13:02:32.122] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Apr2025 13:02:32.195] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Apr2025 13:02:32.200] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Apr2025 13:02:32.295] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Apr2025 13:02:32.323] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Apr2025 13:02:32.397] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Apr2025 13:02:32.398] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Apr2025 13:02:32.474] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Apr2025 13:02:33.286] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Apr2025 13:02:33.313] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Apr2025 13:02:33.318] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Apr2025 13:02:33.318] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Apr2025 13:02:33.322] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[12Apr2025 13:02:35.741] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RED_WasT4ken[/127.165.213.184:60743] logged in with entity id 80176 at (125.36326137028706, 72.875, -487.7036057319403)
+[12Apr2025 13:02:35.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken joined the game
+[12Apr2025 13:02:35.808] [Server thread/INFO] [Jade/]: Syncing config to RED_WasT4ken (72478887-aed8-3f29-9d95-504f40cbb071)
+[12Apr2025 13:03:00.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 moved wrongly!
+[12Apr2025 13:03:51.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 7.530689576879695,0.43185546288160026,-7.325989991938059
+[12Apr2025 13:03:51.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 9.053824034964919,0.4901932931879429,-8.831331794594917
+[12Apr2025 13:03:51.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 10.57849362886418,0.541647259518129,-10.349103188652862
+[12Apr2025 13:03:51.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 12.103530802781506,0.5870296578213612,-11.878773374815864
+[12Apr2025 13:03:51.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 13.62889218227474,0.6270569331248055,-13.418938295616044
+[12Apr2025 13:03:51.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 15.154539511085886,0.6623609899424423,-14.968359572365898
+[12Apr2025 13:03:51.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 16.679925687058585,0.6934991680555953,-16.52642821147265
+[12Apr2025 13:03:51.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 18.204585260875547,0.720963041151407,-18.092588529928435
+[12Apr2025 13:03:51.683] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 13.717677453471197,0.3794733790867184,-13.83269509827096
+[12Apr2025 13:03:51.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 15.239677534430939,0.40083818510089486,-15.413638337894554
+[12Apr2025 13:03:51.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: furia luminosa (vehicle of Yuha150) moved too quickly! 16.759836055939786,0.41968194400540426,-17.00137745441316
+[12Apr2025 13:04:56.797] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Apr2025 13:04:56.872] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Apr2025 13:04:56.872] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Apr2025 13:04:56.954] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Apr2025 13:04:57.036] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Apr2025 13:04:57.037] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Apr2025 13:04:57.122] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Apr2025 13:04:57.203] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Apr2025 13:04:57.244] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Apr2025 13:04:57.285] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Apr2025 13:04:57.299] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Apr2025 13:04:57.363] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Apr2025 13:04:58.534] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Apr2025 13:04:58.750] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Apr2025 13:04:58.750] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Apr2025 13:04:58.756] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Apr2025 13:04:58.796] [Netty Epoll Server IO #5/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[12Apr2025 13:05:00.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:51453] logged in with entity id 87923 at (86.38709470444107, 72.0, -445.2285061791455)
+[12Apr2025 13:05:00.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[12Apr2025 13:05:00.746] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[12Apr2025 13:05:12.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[12Apr2025 13:05:34.214] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6603ms or 132 ticks behind
+[12Apr2025 13:05:54.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4896ms or 97 ticks behind
+[12Apr2025 13:06:14.369] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5308ms or 106 ticks behind
+[12Apr2025 13:07:12.876] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/88050, l='ServerLevel[world]', x=143.70, y=71.00, z=-481.30] died, message: 'Librarian was slain by Zombie'
+[12Apr2025 13:07:21.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [The Song of the Dragons]
+[12Apr2025 13:07:32.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[12Apr2025 13:07:49.253] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.254] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.255] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.255] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.255] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.255] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.255] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.255] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.255] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.255] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.256] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.256] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.256] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.256] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.256] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.256] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.256] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.256] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.257] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:07:49.257] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 13:08:40.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[12Apr2025 13:10:36.974] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/88051, l='ServerLevel[world]', x=142.52, y=71.00, z=-480.53] died, message: 'Librarian was slain by Zombie Villager'
+[12Apr2025 13:11:24.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has made the advancement [What a Deal!]
+[12Apr2025 13:13:53.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has made the advancement [Fishy Business]
+[12Apr2025 13:13:56.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu has made the advancement [Into Fire]
+[12Apr2025 13:14:52.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu has made the advancement [Local Brewery]
+[12Apr2025 13:15:36.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Water Breathing to Yuha150]
+[12Apr2025 13:15:52.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Teleported RED_WasT4ken to Yuha150]
+[12Apr2025 13:16:13.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[12Apr2025 13:16:14.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu has made the advancement [Sunken City]
+[12Apr2025 13:16:16.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Applied effect Night Vision to RED_WasT4ken]
+[12Apr2025 13:16:46.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 was exterminated by The Leviathan 's laser
+[12Apr2025 13:16:47.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has completed the challenge [A Multidimensional Predator]
+[12Apr2025 13:16:49.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Water Breathing to Yuha150]
+[12Apr2025 13:16:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]

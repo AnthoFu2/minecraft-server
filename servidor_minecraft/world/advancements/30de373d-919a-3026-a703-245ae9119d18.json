@@ -868,6 +868,7 @@
       "minecraft:stray": "2025-04-07 00:52:52 +0000",
       "minecraft:silverfish": "2025-04-11 23:47:31 +0000",
       "minecraft:zombie": "2025-03-30 13:06:16 +0000",
+      "minecraft:drowned": "2025-04-12 13:03:18 +0000",
       "minecraft:zombie_villager": "2025-04-01 00:42:38 +0000"
     },
     "done": false
@@ -6905,6 +6906,42 @@
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-04-12 02:33:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 13:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-04-12 13:11:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 13:03:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 13:03:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_green_to_sea_serpent_scale_block_green": {
+    "criteria": {
+      "has_sea_serpent_scales_green": "2025-04-12 13:03:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_green_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 13:03:28 +0000"
     },
     "done": true
   },
