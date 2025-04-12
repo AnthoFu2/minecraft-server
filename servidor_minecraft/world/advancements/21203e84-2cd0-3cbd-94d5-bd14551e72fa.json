@@ -5705,5 +5705,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-04-12 02:33:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

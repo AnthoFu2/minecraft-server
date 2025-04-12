@@ -300,6 +300,7 @@
       "minecraft:dripstone_caves": "2025-04-05 14:37:23 +0000",
       "minecraft:snowy_taiga": "2025-04-05 15:41:14 +0000",
       "minecraft:swamp": "2025-04-05 15:37:36 +0000",
+      "minecraft:cold_ocean": "2025-04-12 02:33:26 +0000",
       "minecraft:forest": "2025-03-30 13:37:12 +0000",
       "minecraft:lush_caves": "2025-04-05 01:37:28 +0000",
       "minecraft:deep_cold_ocean": "2025-04-10 00:37:29 +0000",
@@ -760,6 +761,7 @@
       "minecraft:cave_spider": "2025-04-07 01:04:38 +0000",
       "minecraft:piglin": "2025-03-30 13:22:59 +0000",
       "minecraft:enderman": "2025-04-05 01:57:35 +0000",
+      "minecraft:silverfish": "2025-04-12 02:34:00 +0000",
       "minecraft:zombie": "2025-03-30 14:16:32 +0000",
       "minecraft:drowned": "2025-04-10 00:35:42 +0000",
       "minecraft:zombie_villager": "2025-04-05 15:50:28 +0000"
@@ -4883,6 +4885,72 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-04-12 01:49:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-04-12 02:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-12 02:29:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-12 02:34:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/mysterious_worm": {
+    "criteria": {
+      "mysterious_worm": "2025-04-12 02:26:26 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/dimensional_carver": {
+    "criteria": {
+      "dimensional_carver": "2025-04-12 02:28:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-04-12 02:23:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-12 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_split": {
+    "criteria": {
+      "ex": "2025-04-12 02:27:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/capsid": {
+    "criteria": {
+      "capsid": "2025-04-12 02:26:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/shattered_dimensional_carver": {
+    "criteria": {
+      "dimensional_carver": "2025-04-12 02:32:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-12 02:29:53 +0000"
     },
     "done": true
   },
