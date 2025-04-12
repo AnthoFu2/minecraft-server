@@ -4954,15 +4954,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_slab": {
+  "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
-      "has_planks": "2025-04-12 13:21:25 +0000"
+      "bestiary": "2025-04-12 13:07:21 +0000"
     },
     "done": true
   },
   "minecraft:husbandry/fishy_business": {
     "criteria": {
       "cod": "2025-04-12 13:13:53 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-04-12 13:16:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_slab": {
+    "criteria": {
+      "has_planks": "2025-04-12 13:21:25 +0000"
     },
     "done": true
   },
@@ -4990,12 +5002,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_flute": {
-    "criteria": {
-      "bestiary": "2025-04-12 13:07:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-12 13:21:25 +0000"
@@ -5014,15 +5020,39 @@
     },
     "done": true
   },
-  "cataclysm:kill_leviathan": {
-    "criteria": {
-      "ignis": "2025-04-12 13:16:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/cherry_door": {
     "criteria": {
       "has_planks": "2025-04-12 13:21:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-04-12 14:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-12 14:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-12 14:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-12 14:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-12 14:16:12 +0000"
     },
     "done": true
   },
