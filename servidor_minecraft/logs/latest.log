@@ -479,3 +479,28 @@ java.net.http.HttpTimeoutException: request timed out
 [12Apr2025 13:16:47.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken has completed the challenge [A Multidimensional Predator]
 [12Apr2025 13:16:49.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Water Breathing to Yuha150]
 [12Apr2025 13:16:51.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Applied effect Night Vision to Yuha150]
+[12Apr2025 13:17:40.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[12Apr2025 13:22:59.072] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103945, l='ServerLevel[world]', x=124.20, y=72.57, z=-481.20] died, message: 'Unemployed was squished too much'
+[12Apr2025 13:23:43.170] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103940, l='ServerLevel[world]', x=124.11, y=72.50, z=-481.17] died, message: 'Unemployed was squished too much'
+[12Apr2025 13:23:48.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Set the time to 13000]
+[12Apr2025 13:24:56.910] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Apr2025 13:24:57.001] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Apr2025 13:24:57.037] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Apr2025 13:24:57.092] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Apr2025 13:24:57.093] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Apr2025 13:24:57.189] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Apr2025 13:24:57.189] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Apr2025 13:24:57.280] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Apr2025 13:24:57.281] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Apr2025 13:24:57.378] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Apr2025 13:24:57.468] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Apr2025 13:24:57.468] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Apr2025 13:24:58.166] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Apr2025 13:24:58.189] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Apr2025 13:24:58.189] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Apr2025 13:24:58.190] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Apr2025 13:24:58.229] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[12Apr2025 13:25:00.708] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OinkOtaku[/127.165.213.184:42449] logged in with entity id 118590 at (141.11266738724316, 71.0, -481.51655100404446)
+[12Apr2025 13:25:00.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku joined the game
+[12Apr2025 13:25:00.811] [Server thread/INFO] [Jade/]: Syncing config to OinkOtaku (21203e84-2cd0-3cbd-94d5-bd14551e72fa)
+[12Apr2025 13:27:24.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
