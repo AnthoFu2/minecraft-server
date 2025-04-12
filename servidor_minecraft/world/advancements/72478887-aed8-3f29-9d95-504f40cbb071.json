@@ -4032,21 +4032,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
+  "cataclysm:find_sunken_city": {
     "criteria": {
-      "has_item": "2025-04-10 00:05:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
+      "factory": "2025-04-09 23:46:12 +0000"
     },
     "done": true
   },
@@ -4056,57 +4044,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
-    "criteria": {
-      "has_item": "2025-04-10 00:05:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
-    "criteria": {
-      "has_item": "2025-04-10 00:05:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_leggings": {
-    "criteria": {
-      "has_item": "2025-04-09 23:56:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-04-10 00:47:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-10 00:38:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_stone_bricks": {
     "criteria": {
       "has_stone_bricks": "2025-04-09 23:46:23 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
-    "criteria": {
-      "has_dragonscale_red": "2025-04-09 23:57:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-09 23:46:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonsteel": {
-    "criteria": {
-      "steel": "2025-04-10 00:05:53 +0000"
     },
     "done": true
   },
@@ -4128,57 +4074,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
-    "criteria": {
-      "has_item": "2025-04-10 00:31:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-09 23:56:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
-    "criteria": {
-      "has_item": "2025-04-10 00:05:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
-    "criteria": {
-      "has_item": "2025-04-09 23:59:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-04-09 23:46:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
-    "criteria": {
-      "has_item": "2025-04-09 23:59:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
     },
     "done": true
   },
@@ -4188,171 +4086,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonbone": {
-    "criteria": {
-      "has_dragon_bone_block": "2025-04-09 23:59:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
-    "criteria": {
-      "has_item": "2025-04-10 00:05:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_core": {
-    "criteria": {
-      "core": "2025-04-09 23:59:50 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_burning_arena": {
-    "criteria": {
-      "arena": "2025-04-10 01:40:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-10 00:38:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_helmet": {
-    "criteria": {
-      "has_item": "2025-04-09 23:56:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
-    "criteria": {
-      "has_item": "2025-04-10 00:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/tnt_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-10 00:31:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
-    "criteria": {
-      "has_item": "2025-04-10 00:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-04-10 00:38:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
-    "criteria": {
-      "has_dragonsteel_fire_ingot": "2025-04-10 00:05:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
-    "criteria": {
-      "has_dragonscales_gray": "2025-04-09 23:56:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-10 00:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-04-09 23:46:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_fire_sword": {
-    "criteria": {
-      "has_item": "2025-04-10 00:05:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
-    "criteria": {
-      "has_dragonscales_green": "2025-04-09 23:56:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
-    "criteria": {
-      "has_dragonscale_bronze": "2025-04-09 23:57:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
-    "criteria": {
-      "has_dragonscale_green": "2025-04-09 23:57:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-04-10 01:27:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/chest_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-10 00:31:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2025-04-10 01:11:46 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-04-10 01:08:16 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
-    "criteria": {
-      "has_dragonsteel_ice_ingot": "2025-04-10 00:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/furnace_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-10 00:31:10 +0000"
     },
     "done": true
   },
@@ -4362,27 +4098,51 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/hopper_minecart": {
-    "criteria": {
-      "has_minecart": "2025-04-10 00:31:10 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_black_to_dragonscales_black": {
-    "criteria": {
-      "has_dragonscale_black": "2025-04-09 23:57:01 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_stone_bricks": "2025-04-09 23:46:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+      "has_stone_bricks": "2025-04-09 23:46:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-04-09 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-09 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-04-09 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-04-09 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-04-09 23:56:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-09 23:56:30 +0000"
     },
     "done": true
   },
@@ -4398,27 +4158,33 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/straddler": {
+  "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
-      "killed": "2025-04-10 01:27:18 +0000"
+      "has_item": "2025-04-09 23:56:30 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
+  "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
-      "has_item": "2025-04-10 00:31:52 +0000"
+      "has_item": "2025-04-09 23:56:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+  "iceandfire:recipes/misc/dragonscale_black_to_dragonscales_black": {
     "criteria": {
-      "has_stone_bricks": "2025-04-09 23:46:23 +0000"
+      "has_dragonscale_black": "2025-04-09 23:57:01 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+      "has_dragonscale_electric": "2025-04-09 23:57:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
+    "criteria": {
+      "has_dragonscale_red": "2025-04-09 23:57:02 +0000"
     },
     "done": true
   },
@@ -4428,9 +4194,177 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+      "has_dragonscale_bronze": "2025-04-09 23:57:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
+    "criteria": {
+      "has_dragonscale_green": "2025-04-09 23:57:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2025-04-09 23:59:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2025-04-09 23:59:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
+    "criteria": {
+      "has_item": "2025-04-09 23:59:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-04-09 23:59:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-04-09 23:59:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_shovel": {
+    "criteria": {
+      "has_item": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_helmet": {
+    "criteria": {
+      "has_item": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_boots": {
+    "criteria": {
+      "has_item": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_leggings": {
+    "criteria": {
+      "has_item": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_hoe": {
+    "criteria": {
+      "has_item": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_fire_ingot_to_dragonsteel_fire_block": {
+    "criteria": {
+      "has_dragonsteel_fire_ingot": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_sword": {
+    "criteria": {
+      "has_item": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
+    "criteria": {
+      "has_item": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-10 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/tnt_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-10 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/chest_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-10 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/furnace_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-10 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/hopper_minecart": {
+    "criteria": {
+      "has_minecart": "2025-04-10 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2025-04-10 00:31:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_helmet": {
+    "criteria": {
+      "has_item": "2025-04-10 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_leggings": {
+    "criteria": {
+      "has_item": "2025-04-10 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_shovel": {
+    "criteria": {
+      "has_item": "2025-04-10 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_ice_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-10 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_ice_ingot_to_dragonsteel_ice_block": {
+    "criteria": {
+      "has_dragonsteel_ice_ingot": "2025-04-10 00:31:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_ice_sword": {
+    "criteria": {
+      "has_item": "2025-04-10 00:31:52 +0000"
     },
     "done": true
   },
@@ -4446,51 +4380,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_fire_pickaxe": {
+  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
     "criteria": {
-      "has_item": "2025-04-10 00:05:53 +0000"
+      "has_item": "2025-04-10 00:31:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
+      "has_item": "2025-04-10 00:31:52 +0000"
     },
     "done": true
   },
-  "cataclysm:find_sunken_city": {
+  "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
-      "factory": "2025-04-09 23:46:12 +0000"
+      "has_prismarine_shard": "2025-04-10 00:38:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
+      "has_prismarine_shard": "2025-04-10 00:38:13 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_forge_brick": {
+  "minecraft:recipes/building_blocks/dark_prismarine": {
     "criteria": {
-      "forge": "2025-04-09 23:59:33 +0000"
+      "has_prismarine_shard": "2025-04-10 00:38:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+  "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+      "has_prismarine_crystals": "2025-04-10 00:38:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
-      "has_basalt": "2025-04-10 01:27:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+      "has_cod": "2025-04-10 00:47:55 +0000"
     },
     "done": true
   },
@@ -4500,9 +4428,117 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonsteel_ice_hoe": {
+  "minecraft:recipes/food/cooked_cod": {
     "criteria": {
-      "has_item": "2025-04-10 00:31:52 +0000"
+      "has_cod": "2025-04-10 00:47:55 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-10 01:08:16 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-04-10 01:08:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
     },
     "done": true
   },
@@ -4518,75 +4554,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-04-10 00:38:17 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_electric_to_dragonscales_electric": {
-    "criteria": {
-      "has_dragonscale_electric": "2025-04-09 23:57:01 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_fire_axe": {
-    "criteria": {
-      "has_item": "2025-04-10 00:05:53 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_leggings": {
-    "criteria": {
-      "has_item": "2025-04-09 23:56:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_green_boots": {
-    "criteria": {
-      "has_item": "2025-04-09 23:56:22 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_monstrosity": {
-    "criteria": {
-      "netheritemonstrosity": "2025-04-10 01:08:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod": {
-    "criteria": {
-      "has_cod": "2025-04-10 00:47:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_gray_boots": {
-    "criteria": {
-      "has_item": "2025-04-09 23:56:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonsteel_ice_pickaxe": {
-    "criteria": {
-      "has_item": "2025-04-10 00:31:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-04-10 01:17:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-04-10 01:27:18 +0000"
     },
     "done": true
   },
@@ -4596,21 +4566,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
-    "criteria": {
-      "has_minecart": "2025-04-10 00:31:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-04-10 01:09:11 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonsteel_fire_chestplate": {
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
-      "has_item": "2025-04-10 00:05:53 +0000"
+      "has_polished_blackstone_slab": "2025-04-10 01:11:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-10 01:17:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-10 01:27:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed": "2025-04-10 01:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-10 01:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-10 01:27:18 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-04-10 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_aviary": {
+    "criteria": {
+      "location0": "2025-04-12 00:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-12 00:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-04-12 00:24:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-12 00:25:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-04-12 00:24:12 +0000"
     },
     "done": true
   },
