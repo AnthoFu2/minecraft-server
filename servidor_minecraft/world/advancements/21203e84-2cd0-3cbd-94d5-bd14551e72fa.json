@@ -286,10 +286,12 @@
       "minecraft:mushroom_fields": "2025-04-05 02:43:46 +0000",
       "minecraft:taiga": "2025-04-05 03:01:21 +0000",
       "minecraft:deep_ocean": "2025-04-01 00:58:34 +0000",
+      "minecraft:eroded_badlands": "2025-04-12 14:29:51 +0000",
       "minecraft:frozen_river": "2025-04-05 03:29:02 +0000",
       "minecraft:cherry_grove": "2025-04-04 01:43:54 +0000",
       "minecraft:birch_forest": "2025-04-04 01:54:43 +0000",
       "minecraft:bamboo_jungle": "2025-03-30 14:16:42 +0000",
+      "minecraft:badlands": "2025-04-12 14:29:53 +0000",
       "minecraft:savanna_plateau": "2025-04-04 01:02:50 +0000",
       "minecraft:beach": "2025-03-30 14:19:07 +0000",
       "minecraft:dark_forest": "2025-04-01 00:57:49 +0000",
@@ -5708,6 +5710,12 @@
   "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
       "location0": "2025-04-12 02:33:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-12 14:25:52 +0000"
     },
     "done": true
   },
