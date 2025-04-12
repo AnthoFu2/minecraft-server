@@ -213,3 +213,54 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 17:18:43.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken joined the game
 [12Apr2025 17:18:43.949] [Server thread/INFO] [Jade/]: Syncing config to RED_WasT4ken (72478887-aed8-3f29-9d95-504f40cbb071)
 [12Apr2025 17:18:47.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2107ms or 42 ticks behind
+[12Apr2025 17:22:23.017] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/117, l='ServerLevel[world]', x=124.14, y=72.36, z=-481.18] died, message: 'Unemployed was squished too much'
+[12Apr2025 17:22:37.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/115, l='ServerLevel[world]', x=124.70, y=72.18, z=-481.70] died, message: 'Unemployed was squished too much'
+[12Apr2025 17:24:07.219] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/134, l='ServerLevel[world]', x=124.11, y=72.43, z=-481.12] died, message: 'Unemployed was squished too much'
+[12Apr2025 17:24:47.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/149, l='ServerLevel[world]', x=124.23, y=72.39, z=-481.11] died, message: 'Unemployed was squished too much'
+[12Apr2025 17:24:50.119] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/135, l='ServerLevel[world]', x=124.19, y=72.39, z=-481.13] died, message: 'Unemployed was squished too much'
+[12Apr2025 17:24:58.769] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/136, l='ServerLevel[world]', x=124.20, y=72.46, z=-481.33] died, message: 'Unemployed was squished too much'
+[12Apr2025 17:25:32.868] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/141, l='ServerLevel[world]', x=124.23, y=72.40, z=-481.11] died, message: 'Unemployed was squished too much'
+[12Apr2025 17:26:30.760] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Apr2025 17:26:30.935] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Apr2025 17:26:30.935] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Apr2025 17:26:30.936] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Apr2025 17:26:30.995] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Apr2025 17:26:30.995] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Apr2025 17:26:31.079] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Apr2025 17:26:31.079] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Apr2025 17:26:31.162] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Apr2025 17:26:31.230] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Apr2025 17:26:31.242] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Apr2025 17:26:31.309] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Apr2025 17:26:31.941] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Apr2025 17:26:31.982] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Apr2025 17:26:31.983] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Apr2025 17:26:31.983] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Apr2025 17:26:31.983] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[12Apr2025 17:26:34.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OinkOtaku[/127.165.213.184:46809] logged in with entity id 5141 at (1323.0747589874236, 86.0, 185.15744004891658)
+[12Apr2025 17:26:34.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku joined the game
+[12Apr2025 17:26:34.775] [Server thread/INFO] [Jade/]: Syncing config to OinkOtaku (21203e84-2cd0-3cbd-94d5-bd14551e72fa)
+[12Apr2025 17:26:48.143] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RED_WasT4ken lost connection: Disconnected
+[12Apr2025 17:26:48.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken left the game
+[12Apr2025 17:28:15.677] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a49748c[id=<null>,name=Yuha150,properties={},legacy=false] (/127.219.187.247:37971) lost connection: Disconnected
+[12Apr2025 17:28:57.628] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e72960c[id=<null>,name=Yuha150,properties={},legacy=false] (/127.219.187.247:53167) lost connection: Disconnected
+[12Apr2025 17:29:50.354] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Apr2025 17:29:50.486] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Apr2025 17:29:50.522] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Apr2025 17:29:50.523] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Apr2025 17:29:50.617] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Apr2025 17:29:50.620] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Apr2025 17:29:50.620] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Apr2025 17:29:50.747] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Apr2025 17:29:50.777] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Apr2025 17:29:50.878] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Apr2025 17:29:50.918] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Apr2025 17:29:50.918] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Apr2025 17:29:52.336] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Apr2025 17:29:52.403] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Apr2025 17:29:52.423] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Apr2025 17:29:52.423] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Apr2025 17:29:52.424] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[12Apr2025 17:29:54.195] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yuha150[/127.219.187.247:58309] logged in with entity id 6328 at (-143.96718034394527, 162.0, 1395.0169616966207)
+[12Apr2025 17:29:54.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 joined the game
+[12Apr2025 17:29:54.269] [Server thread/INFO] [Jade/]: Syncing config to Yuha150 (30de373d-919a-3026-a703-245ae9119d18)

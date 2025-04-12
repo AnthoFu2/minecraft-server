@@ -5031,6 +5031,36 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-04-12 14:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
+    "criteria": {
+      "has_spire_armor_trim_smithing_template": "2025-04-12 14:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-12 14:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-04-12 14:15:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2025-04-12 14:16:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 14:22:15 +0000"
@@ -5040,18 +5070,6 @@
   "minecraft:recipes/building_blocks/light_gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 14:22:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_helmet": {
-    "criteria": {
-      "has_item": "2025-04-12 14:34:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_leggings": {
-    "criteria": {
-      "has_item": "2025-04-12 14:34:13 +0000"
     },
     "done": true
   },
@@ -5073,18 +5091,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/tarantula_hawk": {
-    "criteria": {
-      "killed": "2025-04-12 14:25:44 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_deathworm": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-12 14:34:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 14:22:15 +0000"
@@ -5094,12 +5100,6 @@
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 14:22:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/deathworm_white_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-12 14:34:13 +0000"
     },
     "done": true
   },
@@ -5115,21 +5115,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/deathworm_white_boots": {
-    "criteria": {
-      "has_item": "2025-04-12 14:34:13 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 14:22:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template": {
-    "criteria": {
-      "has_spire_armor_trim_smithing_template": "2025-04-12 14:15:07 +0000"
     },
     "done": true
   },
@@ -5139,27 +5127,9 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
-    "criteria": {
-      "in_city": "2025-04-12 14:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/elytra": {
-    "criteria": {
-      "elytra": "2025-04-12 14:15:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-12 14:22:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/spire_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-12 14:15:07 +0000"
     },
     "done": true
   },
@@ -5187,9 +5157,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
+  "alexsmobs:alexsmobs/tarantula_hawk": {
     "criteria": {
-      "has_shulker_shell": "2025-04-12 14:16:12 +0000"
+      "killed": "2025-04-12 14:25:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-12 14:34:11 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-12 14:34:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_leggings": {
+    "criteria": {
+      "has_item": "2025-04-12 14:34:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-12 14:34:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-12 14:34:13 +0000"
     },
     "done": true
   },
