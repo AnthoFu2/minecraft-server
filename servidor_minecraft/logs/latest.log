@@ -1066,3 +1066,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 02:48:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
 [12Apr2025 02:48:43.366] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [12Apr2025 02:49:13.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/111846, l='ServerLevel[world]', x=143.70, y=71.00, z=-480.80] died, message: 'Librarian was slain by OinkOtaku'
+[12Apr2025 02:53:08.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <OinkOtaku> hdpt
+[12Apr2025 02:54:14.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[12Apr2025 02:54:14.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[12Apr2025 02:58:01.946] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/111845, l='ServerLevel[world]', x=133.73, y=72.00, z=-484.27] died, message: 'Unemployed burned to death'
+[12Apr2025 03:00:04.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku lost connection: Disconnected
+[12Apr2025 03:00:04.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku left the game
+[12Apr2025 03:00:40.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Apr2025 03:00:40.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Apr2025 03:00:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Apr2025 03:00:40.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Apr2025 03:00:40.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Apr2025 03:00:40.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Apr2025 03:00:40.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Apr2025 03:00:40.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Apr2025 03:00:40.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Apr2025 03:00:40.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Apr2025 03:00:40.478] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@64137319
+[12Apr2025 03:00:40.481] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
