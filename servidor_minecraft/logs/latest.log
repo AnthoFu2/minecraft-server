@@ -959,3 +959,50 @@ java.net.http.HttpTimeoutException: request timed out
 [12Apr2025 14:47:14.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [12Apr2025 14:47:36.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku lost connection: Disconnected
 [12Apr2025 14:47:36.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku left the game
+[12Apr2025 14:49:45.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 has reached the goal [Hired Help]
+[12Apr2025 14:49:48.543] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Apr2025 14:49:48.627] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Apr2025 14:49:48.627] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Apr2025 14:49:48.710] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Apr2025 14:49:48.789] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Apr2025 14:49:48.789] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Apr2025 14:49:48.868] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Apr2025 14:49:48.873] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Apr2025 14:49:48.956] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Apr2025 14:49:49.023] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Apr2025 14:49:49.036] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Apr2025 14:49:49.101] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Apr2025 14:49:49.762] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Apr2025 14:49:49.790] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Apr2025 14:49:49.791] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Apr2025 14:49:49.791] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Apr2025 14:49:49.791] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[12Apr2025 14:49:52.401] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: OinkOtaku[/127.165.213.184:55011] logged in with entity id 248173 at (1319.658456484253, 86.0, 184.9455571664953)
+[12Apr2025 14:49:52.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku joined the game
+[12Apr2025 14:49:52.469] [Server thread/INFO] [Jade/]: Syncing config to OinkOtaku (21203e84-2cd0-3cbd-94d5-bd14551e72fa)
+[12Apr2025 14:55:15.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: OinkOtaku lost connection: Disconnected
+[12Apr2025 14:55:15.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku left the game
+[12Apr2025 14:55:18.870] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103933, l='ServerLevel[world]', x=124.70, y=72.18, z=-481.70] died, message: 'Unemployed was squished too much'
+[12Apr2025 14:57:25.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported AnthoFu to Yuha150]
+[12Apr2025 14:57:31.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu moved wrongly!
+[12Apr2025 14:57:37.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported AnthoFu to Yuha150]
+[12Apr2025 14:57:39.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu moved wrongly!
+[12Apr2025 14:57:42.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported AnthoFu to Yuha150]
+[12Apr2025 14:57:45.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu moved wrongly!
+[12Apr2025 14:57:54.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to AnthoFu]
+[12Apr2025 15:02:07.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[12Apr2025 15:02:07.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[12Apr2025 15:02:16.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yuha150 lost connection: Disconnected
+[12Apr2025 15:02:16.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yuha150 left the game
+[12Apr2025 15:02:22.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[12Apr2025 15:02:22.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[12Apr2025 15:02:22.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[12Apr2025 15:02:23.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12Apr2025 15:02:23.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12Apr2025 15:02:23.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12Apr2025 15:02:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12Apr2025 15:02:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12Apr2025 15:02:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12Apr2025 15:02:23.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12Apr2025 15:02:23.585] [Server thread/INFO] [Calio/]: Removing Dynamic Registries for: net.minecraft.server.dedicated.DedicatedServer@5120e0a0
+[12Apr2025 15:02:23.587] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
