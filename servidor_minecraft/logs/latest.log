@@ -505,3 +505,157 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [12Apr2025 01:57:00.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken joined the game
 [12Apr2025 01:57:00.908] [Server thread/INFO] [Jade/]: Syncing config to RED_WasT4ken (72478887-aed8-3f29-9d95-504f40cbb071)
 [12Apr2025 01:58:58.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [RED_WasT4ken: Gave 1 [Straddleboard] to RED_WasT4ken]
+[12Apr2025 01:59:46.895] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[12Apr2025 02:00:04.360] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2468ms or 49 ticks behind
+[12Apr2025 02:00:56.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[12Apr2025 02:01:59.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player RED_WasT4ken
+[12Apr2025 02:02:17.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
+[12Apr2025 02:02:37.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 117 item(s) from player RED_WasT4ken
+[12Apr2025 02:03:05.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 27 item(s) from player RED_WasT4ken
+[12Apr2025 02:03:17.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
+[12Apr2025 02:04:06.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 102 item(s) from player RED_WasT4ken
+[12Apr2025 02:04:16.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 46 item(s) from player RED_WasT4ken
+[12Apr2025 02:05:05.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 57 item(s) from player RED_WasT4ken
+[12Apr2025 02:05:14.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
+[12Apr2025 02:06:08.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 21 item(s) from player RED_WasT4ken
+[12Apr2025 02:06:28.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 156 item(s) from player RED_WasT4ken
+[12Apr2025 02:07:21.672] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-257, y=13, z=12} BlockPos{x=-256, y=12, z=12}
+[12Apr2025 02:08:12.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 698 item(s) from player RED_WasT4ken
+[12Apr2025 02:08:50.979] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65573, l='ServerLevel[world]', x=-694.00, y=31.00, z=54.00] as it would cause deadlock
+[12Apr2025 02:08:56.558] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65825, l='ServerLevel[world]', x=-716.00, y=31.00, z=-13.00] as it would cause deadlock
+[12Apr2025 02:08:56.735] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/65859, l='ServerLevel[world]', x=-716.00, y=31.00, z=190.00] as it would cause deadlock
+[12Apr2025 02:09:12.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-545, y=13, z=-1} BlockPos{x=-543, y=14, z=-1}
+[12Apr2025 02:09:12.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-545, y=13, z=-1} BlockPos{x=-543, y=14, z=-1}
+[12Apr2025 02:09:12.336] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-545, y=13, z=-1} BlockPos{x=-543, y=14, z=-1}
+[12Apr2025 02:09:12.387] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-545, y=13, z=-1} BlockPos{x=-543, y=14, z=-1}
+[12Apr2025 02:09:12.439] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-545, y=13, z=-1} BlockPos{x=-543, y=14, z=-1}
+[12Apr2025 02:09:12.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-545, y=13, z=-1} BlockPos{x=-543, y=14, z=-1}
+[12Apr2025 02:09:21.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 6 item(s) from player RED_WasT4ken
+[12Apr2025 02:09:30.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 6 [Ancient Debris] to RED_WasT4ken
+[12Apr2025 02:09:41.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-589, y=13, z=-23} BlockPos{x=-590, y=13, z=-23}
+[12Apr2025 02:09:41.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-589, y=13, z=-23} BlockPos{x=-590, y=13, z=-23}
+[12Apr2025 02:09:41.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-589, y=13, z=-23} BlockPos{x=-590, y=13, z=-23}
+[12Apr2025 02:09:41.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-589, y=13, z=-23} BlockPos{x=-590, y=13, z=-23}
+[12Apr2025 02:09:46.290] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/67326, l='ServerLevel[world]', x=-792.00, y=31.00, z=167.00] as it would cause deadlock
+[12Apr2025 02:10:08.176] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-606, y=15, z=-56} BlockPos{x=-606, y=14, z=-56}
+[12Apr2025 02:10:08.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-606, y=15, z=-56} BlockPos{x=-606, y=14, z=-56}
+[12Apr2025 02:11:04.735] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/71511, l='ServerLevel[world]', x=-713.00, y=31.00, z=-404.00] as it would cause deadlock
+[12Apr2025 02:11:10.202] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/71977, l='ServerLevel[world]', x=-501.00, y=31.00, z=-431.10] as it would cause deadlock
+[12Apr2025 02:11:13.653] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/69232, l='ServerLevel[world]', x=124.70, y=73.59, z=-481.70] died, message: 'Unemployed was squished too much'
+[12Apr2025 02:11:25.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1152 item(s) from player RED_WasT4ken
+[12Apr2025 02:11:33.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-578, y=15, z=-277} BlockPos{x=-578, y=15, z=-278}
+[12Apr2025 02:11:42.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-565, y=15, z=-275} BlockPos{x=-566, y=14, z=-275}
+[12Apr2025 02:11:56.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-574, y=13, z=-301} BlockPos{x=-574, y=14, z=-301}
+[12Apr2025 02:12:05.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Set the time to 13000]
+[12Apr2025 02:12:07.635] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/75044, l='ServerLevel[world]', x=-424.00, y=31.00, z=-515.00] as it would cause deadlock
+[12Apr2025 02:12:10.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No items were found on player Yuha150
+[12Apr2025 02:12:27.638] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=14, z=-305} BlockPos{x=-613, y=13, z=-303}
+[12Apr2025 02:13:35.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 47 item(s) from player Yuha150
+[12Apr2025 02:13:35.110] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77162, l='ServerLevel[world]', x=124.20, y=72.45, z=-481.25] died, message: 'Unemployed was squished too much'
+[12Apr2025 02:14:09.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No items were found on player Yuha150
+[12Apr2025 02:15:02.450] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Apr2025 02:15:02.458] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Apr2025 02:15:02.459] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Apr2025 02:15:02.470] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Apr2025 02:15:02.551] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Apr2025 02:15:02.568] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Apr2025 02:15:02.575] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Apr2025 02:15:02.680] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Apr2025 02:15:02.691] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Apr2025 02:15:02.691] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Apr2025 02:15:02.785] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Apr2025 02:15:02.786] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Apr2025 02:15:09.269] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Apr2025 02:15:10.282] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Apr2025 02:15:10.284] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Apr2025 02:15:10.292] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Apr2025 02:15:10.535] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[12Apr2025 02:15:11.980] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_heavy_armor] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[12Apr2025 02:15:11.980] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_disable_shield] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[12Apr2025 02:15:11.981] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_small_lungs] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[12Apr2025 02:15:11.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:57405] logged in with entity id 81425 at (-132.40903595010298, 61.43160729687236, 1408.184423138905)
+[12Apr2025 02:15:12.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[12Apr2025 02:15:12.048] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[12Apr2025 02:15:19.424] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: RED_WasT4ken lost connection: Disconnected
+[12Apr2025 02:15:19.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken left the game
+[12Apr2025 02:16:08.012] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.012] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent15] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent5] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_shake_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_shake] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_damage_back_wolf_polar_bear] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invis_timer] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent16] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent0] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent2] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_exit] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_auto_decrement] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent18] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent10] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent3] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.013] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent7] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent11] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent4] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_synchronized_invis] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent1] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent9] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent17] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent12] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent13] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent6] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent14] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:08.014] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_transparent8] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 02:16:12.039] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[12Apr2025 02:16:12.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[12Apr2025 02:16:13.218] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Apr2025 02:16:13.308] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Apr2025 02:16:13.397] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Apr2025 02:16:13.397] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Apr2025 02:16:13.485] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Apr2025 02:16:13.486] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Apr2025 02:16:13.575] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Apr2025 02:16:13.576] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Apr2025 02:16:13.668] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Apr2025 02:16:13.756] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Apr2025 02:16:13.756] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Apr2025 02:16:13.810] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Apr2025 02:16:14.374] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Apr2025 02:16:14.381] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Apr2025 02:16:14.381] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Apr2025 02:16:14.387] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Apr2025 02:16:14.387] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[12Apr2025 02:16:17.127] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: RED_WasT4ken[/127.165.213.184:56809] logged in with entity id 87422 at (105.18192658861186, 72.0, -515.1934567495606)
+[12Apr2025 02:16:17.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: RED_WasT4ken joined the game
+[12Apr2025 02:16:17.236] [Server thread/INFO] [Jade/]: Syncing config to RED_WasT4ken (72478887-aed8-3f29-9d95-504f40cbb071)
+[12Apr2025 02:16:39.032] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[12Apr2025 02:16:39.127] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[12Apr2025 02:16:39.127] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[12Apr2025 02:16:39.217] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[12Apr2025 02:16:39.300] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[12Apr2025 02:16:39.300] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[12Apr2025 02:16:39.393] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[12Apr2025 02:16:39.427] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[12Apr2025 02:16:39.486] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[12Apr2025 02:16:39.486] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[12Apr2025 02:16:39.581] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[12Apr2025 02:16:39.581] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[12Apr2025 02:16:44.827] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[12Apr2025 02:16:46.116] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[12Apr2025 02:16:46.116] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[12Apr2025 02:16:46.177] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[12Apr2025 02:16:46.485] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[12Apr2025 02:16:47.533] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_heavy_armor] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[12Apr2025 02:16:47.533] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_disable_shield] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[12Apr2025 02:16:47.533] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thweak_small_lungs] from power ResourceKey[apoli:configured_power / thorigins:fox/thweak]
+[12Apr2025 02:16:47.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AnthoFu[/127.117.152.207:38819] logged in with entity id 88438 at (-132.40903595010298, 62.61005596174707, 1408.184423138905)
+[12Apr2025 02:16:47.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu joined the game
+[12Apr2025 02:16:47.596] [Server thread/INFO] [Jade/]: Syncing config to AnthoFu (60994ae7-18e0-3f85-af7d-f5a780de17bc)
+[12Apr2025 02:16:53.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to Yuha150]
+[12Apr2025 02:17:31.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] Los dioses van a reiniciar su internet pq no carga nada
+[12Apr2025 02:17:33.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu lost connection: Disconnected
+[12Apr2025 02:17:33.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu left the game
+[12Apr2025 02:18:14.549] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77160, l='ServerLevel[world]', x=124.18, y=72.63, z=-481.18] died, message: 'Unemployed was squished too much'
+[12Apr2025 02:19:45.258] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77178, l='ServerLevel[world]', x=124.28, y=72.39, z=-481.18] died, message: 'Unemployed was squished too much'
+[12Apr2025 02:19:54.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported Yuha150 to RED_WasT4ken]
