@@ -504,3 +504,20 @@ java.net.http.HttpTimeoutException: request timed out
 [12Apr2025 13:25:00.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OinkOtaku joined the game
 [12Apr2025 13:25:00.811] [Server thread/INFO] [Jade/]: Syncing config to OinkOtaku (21203e84-2cd0-3cbd-94d5-bd14551e72fa)
 [12Apr2025 13:27:24.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [OinkOtaku: Teleported OinkOtaku to Yuha150]
+[12Apr2025 13:28:27.722] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103934, l='ServerLevel[world]', x=124.11, y=72.38, z=-481.14] died, message: 'Unemployed was squished too much'
+[12Apr2025 13:29:46.871] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103938, l='ServerLevel[world]', x=124.17, y=72.49, z=-481.18] died, message: 'Unemployed was squished too much'
+[12Apr2025 13:31:00.286] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=91, y=74, z=-424} BlockPos{x=92, y=72, z=-424}
+[12Apr2025 13:31:25.720] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103946, l='ServerLevel[world]', x=124.12, y=72.59, z=-481.70] died, message: 'Unemployed was squished too much'
+[12Apr2025 13:34:49.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103941, l='ServerLevel[world]', x=124.21, y=72.35, z=-481.15] died, message: 'Unemployed was squished too much'
+[12Apr2025 13:36:29.471] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/103947, l='ServerLevel[world]', x=124.17, y=72.43, z=-481.16] died, message: 'Unemployed was squished too much'
+[12Apr2025 13:37:12.289] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.441] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.690] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
+[12Apr2025 13:37:12.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=76, y=73, z=-416} BlockPos{x=76, y=73, z=-415}
