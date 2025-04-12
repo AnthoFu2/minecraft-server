@@ -306,3 +306,10 @@ java.net.http.HttpTimeoutException: request timed out
 [12Apr2025 12:25:58.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_invulnerable] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [12Apr2025 12:25:58.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_anger_reset] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
 [12Apr2025 12:25:58.287] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox_ticks] from power ResourceKey[apoli:configured_power / thorigins:fox/thsleepin_fox]
+[12Apr2025 12:29:12.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AnthoFu moved wrongly!
+[12Apr2025 12:30:13.342] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/206, l='ServerLevel[world]', x=124.41, y=70.00, z=-440.44] died, message: 'Librarian was slain by AnthoFu'
+[12Apr2025 12:33:55.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AnthoFu: Teleported AnthoFu to -143.500000, 1932.000000, 162.500000]
+[12Apr2025 12:34:22.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported AnthoFu to Yuha150]
+[12Apr2025 12:34:22.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AnthoFu fell from a high place
+[12Apr2025 12:34:28.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Yuha150: Teleported AnthoFu to Yuha150]
+[12Apr2025 12:36:16.662] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SmeltItemFunction/]: Couldn't smelt 1 pufferfish because there is no smelting recipe
